@@ -124,8 +124,16 @@ section {
   }
   &--intro {
     &:before, &:after { content: ''; display: block; width: 100%; height: 100%; top: 0; position: absolute; z-index: -1; }
-    &:before { background: url({{ '/assets/img/intro-bg-left.svg' | relative_url }}) no-repeat left center/auto 100%; }
-    &:after { background: url({{ '/assets/img/intro-bg-right.svg' | relative_url }}) no-repeat right center/auto 100%; }
+    &:before {
+      background: url({{ '/assets/img/intro-bg-left.svg' | relative_url }}) no-repeat -200px center/auto 100%; 
+      @include media-breakpoint-up(sm) { background-position: -100px center; }
+      @include media-breakpoint-up(md) { background-position: left center; }
+    }
+    &:after {
+      background: url({{ '/assets/img/intro-bg-right.svg' | relative_url }}) no-repeat right -200px center/auto 100%;
+      @include media-breakpoint-up(sm) { background-position: right -100px center; }
+      @include media-breakpoint-up(md) { background-position: right center; }
+    }
   }
   &--services {
     &:before { content: ''; display: block; width: 100%; height: 100%; top: 0; position: absolute; z-index: -1; background: url({{ '/assets/img/services-bg.jpg' | relative_url }}) no-repeat center center/cover; }
@@ -137,9 +145,10 @@ section {
     }
     .gallery-for {
       img {
-        height: 400px;
+        height: 300px;
+        @include media-breakpoint-up(sm) { height: 400px; }
         @include media-breakpoint-up(md) { height: 600px; }
-        @include media-breakpoint-up(xl) { height: 800px; }
+        @include media-breakpoint-up(xl) { height: 700px; }
       }
       .slick-prev:before, .slick-next:before { display: none; }
       .slick-arrow {
@@ -154,8 +163,8 @@ section {
         background: url({{ '/assets/img/arrow-slider.png' | relative_url }}) no-repeat;
         z-index: 10;
       }
-      .slick-prev { left: -100px; transform: rotate(180deg); }
-      .slick-next { right: -100px; }
+      .slick-prev { left: -75px; transform: rotate(180deg); }
+      .slick-next { right: -75px; }
     }
     .gallery-nav {
       .slick-track { margin-top: 2rem; transform: translate3d(0px, 0px, 0px) !important; }
@@ -174,7 +183,7 @@ section {
   }
   &--clients {
     .list-unstyled {
-      position: relative;
+      position: relative; overflow: hidden;
       > li {
         position: relative;
         &:before {
@@ -220,12 +229,13 @@ input[type=checkbox]:not(.toggle) {
     content: '';
     position: absolute;
     left: 0;
-    top: 10px;
+    top: 0;
     width: 19px;
     height: 19px;
     border: 1px solid $black;
     border-radius: .1333rem;
     background: $white;
+    @include media-breakpoint-up(xl) { top: 10px; }
   }
   &:not(:checked)+label:after {
     opacity: 0;
@@ -238,9 +248,10 @@ input[type=checkbox]:not(.toggle) {
     width: 13px;
     height: 10px;
     position: absolute;
-    top: 14px;
+    top: 4px;
     left: 3px;
     -webkit-transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    @include media-breakpoint-up(xl) { top: 14px; }
   }
 }

@@ -18,20 +18,40 @@ $(document).keyup(function(e) {
 // Case Studies
 $(document).ready(function(){
   $('.gallery-for').slick({
-   slidesToShow: 1,
-   slidesToScroll: 1,
-   asNavFor: '.gallery-nav',
-   arrows: true,
-   fade: true,
-   autoplay: false
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    asNavFor: '.gallery-nav',
+    arrows: true,
+    fade: true,
+    autoplay: false,
+    responsive: [
+      {
+        breakpoint: 1300,
+        settings: {
+          arrows: false
+        }
+      },
+      {
+        breakpoint: 1200,
+        settings: {
+          arrows: true
+        }
+      },
+      {
+        breakpoint: 991,
+        settings: {
+          arrows: false
+        }
+      }
+    ]
   });
   $('.gallery-nav').slick({
-   slidesToShow: 5,
-   slidesToScroll: 1,
-   asNavFor: '.gallery-for',
-   arrows: false,
-   dots: false,
-   centerMode: false,
-   focusOnSelect: true
+    slidesToShow: 5,
+    slidesToScroll: 1,
+    asNavFor: '.gallery-for',
+    arrows: false,
+    dots: false,
+    centerMode: false,
+    focusOnSelect: true
   });
 });
