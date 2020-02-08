@@ -20,18 +20,18 @@ $(document).ready(function(){
   $('.gallery-for').slick({
    slidesToShow: 1,
    slidesToScroll: 1,
+   asNavFor: '.gallery-nav',
    arrows: true,
    fade: true,
-   asNavFor: '.gallery-nav',
-   autoplay: true
+   autoplay: false
   });
   $('.gallery-nav').slick({
-   slidesToShow: 3,
+   slidesToShow: 5,
    slidesToScroll: 1,
    asNavFor: '.gallery-for',
    arrows: false,
    dots: false,
-   centerMode: true,
+   centerMode: false,
    focusOnSelect: true
   });
 });
