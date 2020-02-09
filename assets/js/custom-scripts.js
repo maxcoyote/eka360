@@ -1,3 +1,21 @@
+// Reveal animation on scroll
+var wow = new WOW({
+  boxClass: 'wow',
+  animateClass: 'animated',
+  offset: 0,
+  mobile: false,
+  live: true
+});
+wow.init();
+
+// Smooth scrolling for all
+$(document).on('click', 'a[href^="#"]', function(event) {
+  event.preventDefault();
+  $('html, body').animate({
+      scrollTop: $($.attr(this, 'href')).offset().top-0
+  }, 500);
+});
+
 // Fullscreen menu
 $('#toggleNav').click(function() {
  event.preventDefault();
@@ -15,6 +33,9 @@ $(document).keyup(function(e) {
   }
 });
 
+// Parallax init
+jarallax(document.querySelectorAll('.jarallax'));
+
 // Case Studies
 $(document).ready(function(){
   $('.gallery-for').slick({
@@ -23,7 +44,8 @@ $(document).ready(function(){
     asNavFor: '.gallery-nav',
     arrows: true,
     fade: true,
-    autoplay: false,
+    autoplay: true,
+    autoplaySpeed: 2000,
     responsive: [
       {
         breakpoint: 1300,
