@@ -77,3 +77,8 @@ $(document).ready(function(){
     focusOnSelect: true
   });
 });
+
+//
+$('a').click(function() {
+    $('.collapse').collapse('hide');
+});

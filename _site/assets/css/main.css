@@ -3407,7 +3407,7 @@ section h1, section h2, section h3 { letter-spacing: .2rem; }
 
 .section--case_studies .gallery-nav .slick-track { display: flex; justify-content: space-between; margin-top: 2rem; transform: translate3d(0px, 0px, 0px) !important; }
 
-.section--case_studies .gallery-nav .slick-slide { cursor: pointer; float: none; margin-right: 3%; }
+.section--case_studies .gallery-nav .slick-slide { float: none; margin-right: 3%; }
 
 .section--case_studies .gallery-nav .slick-slide:last-child { margin-right: 0; }
 
@@ -3425,21 +3425,25 @@ section h1, section h2, section h3 { letter-spacing: .2rem; }
 
 .section--case_studies .gallery-nav p { font-size: 1rem; }
 
-.section--case_studies .gallery-nav .thumb-wrapper > div { backface-visibility: hidden; transition: transform 300ms; transition-timing-function: linear; width: 100%; height: 100%; }
-
-.section--case_studies .gallery-nav .thumb-wrapper > div.front { transform: rotateY(0deg); }
-
-.section--case_studies .gallery-nav .thumb-wrapper > div.back { transform: rotateY(180deg); position: absolute; top: 0; }
-
-.section--case_studies .gallery-nav .thumb-wrapper:hover .front { transform: rotateY(-180deg); }
-
-.section--case_studies .gallery-nav .thumb-wrapper:hover .back { transform: rotateY(0deg); }
-
 .section--clients .list-unstyled { position: relative; overflow: hidden; }
 
 .section--clients .list-unstyled > li { position: relative; }
 
 .section--clients .list-unstyled > li:before { position: absolute; display: block; content: ''; width: inherit; height: inherit; left: 0; top: 0; right: 0; bottom: 0; border: 3px solid #98D000; transform: rotate(45deg); }
+
+.section--case_study p, .section--additional_projects p { font-size: 1rem; }
+
+@media (min-width: 1200px) { .section--additional_projects .col-xl { flex: 0 0 20%; max-width: 20%; } }
+
+.section--additional_projects .thumb-wrapper > div { backface-visibility: hidden; transition: transform 300ms; transition-timing-function: linear; width: 100%; height: 100%; }
+
+.section--additional_projects .thumb-wrapper > div.front { transform: rotateY(0deg); }
+
+.section--additional_projects .thumb-wrapper > div.back { transform: rotateY(180deg); position: absolute; top: 0; }
+
+.section--additional_projects .thumb-wrapper:hover .front { transform: rotateY(-180deg); }
+
+.section--additional_projects .thumb-wrapper:hover .back { transform: rotateY(0deg); }
 
 ::placeholder { color: rgba(33, 37, 41, 0.4); }
 
