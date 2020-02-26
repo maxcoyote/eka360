@@ -42,21 +42,23 @@ layout: default
       </div>
     </div>
     <div class="row wow fadeIn">
+      {% for project in page.additional_projects %}
       <div class="col-6 col-md-4 col-lg-3 col-xl mx-auto">
         <div class="thumb-wrapper position-relative">
           <div class="front">
-            <a href="{{ '/mix' | relative_url }}"><img src="{{ '/assets/img/blue-thumb.jpg' | relative_url }}" alt="" class="mw-100 m-auto"></a>
+            <a role="button"><img src="{{ project.image }}" alt="" class="mw-100 m-auto"></a>
           </div>
           <div class="card back">
             <div class="card-body">
-              <h5 class="card-title text-uppercase">Title</h5>
-              <p class="card-text">Neighborhood</p>
-              <p class="card-text">Units</p>
-              <p class="card-text">Type of Project</p>
+              <h5 class="card-title text-uppercase">{{ project.title }}</h5>
+              <p class="card-text">{{ project.neighborhood }}</p>
+              <p class="card-text">{{ project.units }}</p>
+              <p class="card-text">{{ project.type }}</p>
             </div>
           </div>
         </div>
       </div>
+      {% endfor %}
     </div>
   </div>
 </section>
