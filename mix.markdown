@@ -1,6 +1,6 @@
 ---
 title: Mix
-permalink: "/mix.html"
+permalink: "/mix"
 projects:
 - image: "/uploads/blue-thumb.jpg"
   title: Title
