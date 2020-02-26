@@ -2,15 +2,15 @@
 title: Mix
 permalink: "/mix.html"
 projects:
-- project_image: 
-  title: 
-  neighborhood: 
-  type_of_project: 
+- image: "/uploads/Circle_Mix_4848%20Hollywood.jpg"
+  title: 4850 Hollywood Blvd
+  neighborhood: Neighborhood
+  type: Type
 additional_projects:
-- project_image: 
-  title: 
-  neighborhood: 
-  type_of_project: 
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  type: Type
 layout: case_study
 ---
 
