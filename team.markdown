@@ -1,5 +1,5 @@
 ---
 title: Team
-permalink: "/give.html"
+permalink: "/team"
 layout: team
 ---
