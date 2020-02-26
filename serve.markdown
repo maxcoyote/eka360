@@ -1,6 +1,6 @@
 ---
-title: Dine
-permalink: "/dine.html"
+title: Give
+permalink: "/give.html"
 projects:
 - image: "/uploads/blue-thumb.jpg"
   title: Title
