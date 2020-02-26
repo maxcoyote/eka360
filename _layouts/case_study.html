@@ -20,7 +20,7 @@ layout: default
         <div class="text m-auto p-4">
           <h5 class="text-uppercase mb-0">{{ project.title }}</h5>
         </div>
-        <div class="collapse" id="collapse1">
+        <div class="collapse" id="collapse{{ forloop.index }}">
           <div class="card card-body">
             <p class="card-text">{{ project.neighborhood }}</p>
             <p class="card-text">{{ project.units }}</p>
