@@ -2,17 +2,17 @@
 title: Serve
 permalink: "/serve"
 projects:
-- image: "/uploads/blue-thumb.jpg"
+- image: "/uploads/israel-levin.jpg"
   title: Israel Levin Center
   neighborhood: Neighborhood
   units: Units
   type: Type
-- image: "/uploads/blue-thumb.jpg"
+- image: "/uploads/jewish-home.jpg"
   title: The Jewish Home @ Beverly Grove
   neighborhood: Neighborhood
   units: Units
   type: Type
-- image: "/uploads/blue-thumb.jpg"
+- image: "/uploads/welbrook-senior.jpg"
   title: Welbrook Senior Living
   neighborhood: Neighborhood
   units: Units
