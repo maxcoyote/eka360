@@ -2,17 +2,17 @@
 title: Dine
 permalink: "/dine"
 projects:
-- image: "/uploads/blue-thumb.jpg"
+- image: "/uploads/tao.jpg"
   title: 'Tao Restaurant  '
   neighborhood: Neighborhood
   units: Units
   type: Type
-- image: "/uploads/blue-thumb.jpg"
+- image: "/uploads/two-bits.jpg"
   title: 'Two Bits Circus '
   neighborhood: Neighborhood
   units: Units
   type: Type
-- image: "/uploads/blue-thumb.jpg"
+- image: "/uploads/beauty-essex.jpg"
   title: 'Beauty & Essex '
   neighborhood: Neighborhood
   units: Units
