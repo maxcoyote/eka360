@@ -1,6 +1,6 @@
 ---
 title: Live
-permalink: "/live.html"
+permalink: "/live"
 projects:
 - image: "/uploads/blue-thumb.jpg"
   title: Title
