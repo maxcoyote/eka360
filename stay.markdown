@@ -13,13 +13,13 @@ projects:
   units: Units
   type: Type
 - image: "/uploads/blue-thumb.jpg"
-  title: Title
+  title: 'The Godfrey Hotel  '
   neighborhood: Neighborhood
   units: Units
   type: Type
 additional_projects:
 - image: "/uploads/blue-thumb.jpg"
-  title: The Godfrey Hotel
+  title: Title
   neighborhood: Neighborhood
   units: Units
   type: Type
