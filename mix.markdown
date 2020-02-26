@@ -2,7 +2,7 @@
 title: Mix
 permalink: "/mix.html"
 projects:
-- image: "/uploads/Circle_Mix_4848%20Hollywood.jpg"
+- image: "/uploads/blue-thumb.jpg"
   title: 4850 Hollywood Blvd
   neighborhood: Neighborhood
   type: Type
