@@ -14,7 +14,7 @@ layout: default
     <div class="row wow fadeIn">
       {% for project in page.projects %}
       <div class="col-6 col-md-4 mx-auto">
-        <div class="thumb-wrapper position-relative">
+        <div class="thumb-wrapper">
           <a data-toggle="collapse" href="#collapse{{ forloop.index }}" role="button" aria-expanded="false" aria-controls="collapse{{ forloop.index }}"><img src="{{ project.image }}" alt="" class="mw-100 m-auto rounded-circle"></a>
         </div>
         <div class="text m-auto p-4">

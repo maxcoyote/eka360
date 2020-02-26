@@ -78,7 +78,7 @@ $(document).ready(function(){
   });
 });
 
-//
+// Hide other .collapse on click
 $('a').click(function() {
     $('.collapse').collapse('hide');
 });

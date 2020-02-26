@@ -3445,6 +3445,8 @@ section h1, section h2, section h3 { letter-spacing: .2rem; }
 
 .section--additional_projects .thumb-wrapper:hover .back { transform: rotateY(0deg); }
 
+.section--team .text { font-size: 1rem; }
+
 ::placeholder { color: rgba(33, 37, 41, 0.4); }
 
 .form-control { padding: 0.75rem 1rem; }
