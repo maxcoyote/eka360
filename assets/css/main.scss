@@ -242,6 +242,9 @@ section {
       &:hover .back { transform: rotateY(0deg); }
     }
   }
+  &--team {
+    .text { font-size: $font-size-base; }
+  }
 }
 
 // Forms
