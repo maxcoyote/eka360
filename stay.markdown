@@ -2,17 +2,17 @@
 title: Stay
 permalink: "/stay"
 projects:
-- image: "/uploads/blue-thumb.jpg"
+- image: "/uploads/strand_pier.jpg"
   title: 'Strand & Pier '
   neighborhood: Neighborhood
   units: Units
   type: Type
-- image: "/uploads/blue-thumb.jpg"
+- image: "/uploads/venice.jpg"
   title: Venice Place Project
   neighborhood: Neighborhood
   units: Units
   type: Type
-- image: "/uploads/blue-thumb.jpg"
+- image: "/uploads/godfrey.jpg"
   title: 'The Godfrey Hotel  '
   neighborhood: Neighborhood
   units: Units
