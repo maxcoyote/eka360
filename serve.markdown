@@ -1,5 +1,5 @@
 ---
-title: Give
+title: Serve
 permalink: "/give.html"
 projects:
 - image: "/uploads/blue-thumb.jpg"
