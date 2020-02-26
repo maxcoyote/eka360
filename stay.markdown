@@ -3,12 +3,12 @@ title: Stay
 permalink: "/stay"
 projects:
 - image: "/uploads/blue-thumb.jpg"
-  title: Title
+  title: 'Strand & Pier '
   neighborhood: Neighborhood
   units: Units
   type: Type
 - image: "/uploads/blue-thumb.jpg"
-  title: Title
+  title: Venice Place Project
   neighborhood: Neighborhood
   units: Units
   type: Type
@@ -19,7 +19,7 @@ projects:
   type: Type
 additional_projects:
 - image: "/uploads/blue-thumb.jpg"
-  title: Title
+  title: The Godfrey Hotel
   neighborhood: Neighborhood
   units: Units
   type: Type
