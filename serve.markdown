@@ -1,6 +1,6 @@
 ---
 title: Serve
-permalink: "/give.html"
+permalink: "/give"
 projects:
 - image: "/uploads/blue-thumb.jpg"
   title: Title
