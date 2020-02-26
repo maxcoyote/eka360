@@ -3,7 +3,7 @@ title: Mix
 permalink: "/mix.html"
 projects:
 - image: "/uploads/blue-thumb.jpg"
-  title: 4850 Hollywood Blvd
+  title: Title
   neighborhood: Neighborhood
   type: Type
 additional_projects:
