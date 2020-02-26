@@ -1,6 +1,6 @@
 ---
 title: Stay
-permalink: "/stay.html"
+permalink: "/stay"
 projects:
 - image: "/uploads/blue-thumb.jpg"
   title: Title
