@@ -2,18 +2,18 @@
 title: Live
 permalink: "/live"
 projects:
-- image: "/uploads/blue-thumb.jpg"
-  title: Title
+- image: "/uploads/glendale.jpg"
+  title: 1750 Glendale Blvd
   neighborhood: Neighborhood
   units: Units
   type: Type
-- image: "/uploads/blue-thumb.jpg"
-  title: Title
+- image: "/uploads/gateway.jpg"
+  title: 11460 Gateway Blvd
   neighborhood: Neighborhood
   units: Units
   type: Type
-- image: "/uploads/blue-thumb.jpg"
-  title: Title
+- image: "/uploads/fig.jpg"
+  title: Fig @ 50
   neighborhood: Neighborhood
   units: Units
   type: Type
