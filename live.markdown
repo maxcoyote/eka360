@@ -2,21 +2,15 @@
 title: Live
 permalink: "/live"
 projects:
-- image: "/uploads/glendale.jpg"
-  title: 1750 Glendale Blvd
-  neighborhood: Neighborhood
-  units: Units
-  type: Type
-- image: "/uploads/gateway.jpg"
-  title: 11460 Gateway Blvd
-  neighborhood: Neighborhood
-  units: Units
-  type: Type
-- image: "/uploads/fig.jpg"
-  title: Fig @ 50
-  neighborhood: Neighborhood
-  units: Units
-  type: Type
+- image: "/uploads/tao.jpg"
+  title: 'Tao Restaurant  '
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat vehicula nunc, at ultricies dolor enim nec leo. '
+- image: "/uploads/two-bits.jpg"
+  title: 'Two Bits Circus '
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat vehicula nunc, at ultricies dolor enim nec leo. '
+- image: "/uploads/beauty-essex.jpg"
+  title: 'Beauty & Essex '
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat vehicula nunc, at ultricies dolor enim nec leo. '
 additional_projects:
 - image: "/uploads/blue-thumb.jpg"
   title: Title
@@ -45,4 +39,3 @@ additional_projects:
   type: Type
 layout: case_study
 ---
-

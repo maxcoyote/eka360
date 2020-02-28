@@ -4,19 +4,13 @@ permalink: "/dine"
 projects:
 - image: "/uploads/tao.jpg"
   title: 'Tao Restaurant  '
-  neighborhood: Neighborhood
-  units: Units
-  type: Type
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat vehicula nunc, at ultricies dolor enim nec leo. '
 - image: "/uploads/two-bits.jpg"
   title: 'Two Bits Circus '
-  neighborhood: Neighborhood
-  units: Units
-  type: Type
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat vehicula nunc, at ultricies dolor enim nec leo. '
 - image: "/uploads/beauty-essex.jpg"
   title: 'Beauty & Essex '
-  neighborhood: Neighborhood
-  units: Units
-  type: Type
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat vehicula nunc, at ultricies dolor enim nec leo. '
 additional_projects:
 - image: "/uploads/blue-thumb.jpg"
   title: Title
@@ -45,4 +39,3 @@ additional_projects:
   type: Type
 layout: case_study
 ---
-
