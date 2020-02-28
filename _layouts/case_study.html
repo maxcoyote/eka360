@@ -3,30 +3,32 @@ title: case_study
 layout: default
 ---
 
-<section id="{{ page.title | downcase }}" class="section--case_study d-flex align-items-center py-5 text-center">
+<section id="{{ page.title | downcase }}" class="section--case_study d-flex align-items-center py-5">
   <div class="container">
     <div class="row wow fadeIn">
-      <div class="col-12 m-auto">
+      <div class="col-12 text-center">
         <h3 class="text-uppercase">{{ page.title }}</h3>
         <p class="mb-4">(click to expand)</p>
       </div>
     </div>
-    <div class="row wow fadeIn">
+    <div class="team-items">
       {% for project in page.projects %}
-      <div class="col-6 col-md-4 mx-auto">
-        <div class="thumb-wrapper">
-          <a data-toggle="collapse" href="#collapse{{ forloop.index }}" role="button" aria-expanded="false" aria-controls="collapse{{ forloop.index }}"><img src="{{ project.image }}" alt="" class="mw-100 m-auto rounded-circle"></a>
-        </div>
-        <div class="text m-auto p-4">
-          <h5 class="text-uppercase mb-0">{{ project.title }}</h5>
-        </div>
-        <div class="collapse" id="collapse{{ forloop.index }}">
-          <div class="card card-body">
-            <p class="card-text">{{ project.neighborhood }}</p>
-            <p class="card-text">{{ project.units }}</p>
-            <p class="card-text">{{ project.type }}</p>
+      <div class="team-item">
+        <div class="btn-wrap"><div class="btn btn-close"></div></div>
+        <div class="item-wrap">
+		  		<div class="bg-container">
+            <div class="bg-wrap">
+  		    		<div class="bg normal" style="background-image:url({{ project.image }});"></div>
+			  	  </div>
           </div>
-        </div>
+          <div class="item-info text-center">
+			      <h5 class="name text-uppercase">{{ project.title }}</h5>
+			    </div>
+			  </div>
+        <div class="bio">
+          <h5 class="name text-uppercase">{{ project.title }}</h5>
+		    	<span class="bio-content text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat vehicula nunc, at ultricies dolor enim nec leo.</span>
+		    </div>
       </div>
       {% endfor %}
     </div>

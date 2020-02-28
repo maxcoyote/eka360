@@ -4,6 +4,7 @@
 @import 'bootstrap/bootstrap';
 @import "slick";
 @import "slick-theme";
+@import "team";
 
 // Defaults
 body { -webkit-font-smoothing: antialiased; }
@@ -23,6 +24,24 @@ body { -webkit-font-smoothing: antialiased; }
   &.btn-lg {
     @include media-breakpoint-up(xl) { min-width: 330px; }
   }
+}
+.isolation-overlay {
+  content: '';
+    background-color: rgba(255,255,255,0.95);
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    z-index: 5;
+    opacity: 0;
+    transition: width 0s 0.3s,opacity 0.3s 0s;
+}
+.is-isolationOverlayOpen .isolation-overlay {
+  transition: width 0s 0s,opacity 0.3s 0s;
+  width: 100%;
+  opacity: 1;
 }
 
 // Nav
@@ -220,6 +239,9 @@ section {
   &--case_study, &--additional_projects {
     p { font-size: $font-size-base; }
   }
+  &--case_study {
+    .project img { max-width: 300px; }
+  }
   &--additional_projects {
     .col-xl {
       @include media-breakpoint-up(xl) { flex: 0 0 20%; max-width: 20%; }
@@ -241,9 +263,6 @@ section {
       &:hover .front { transform: rotateY(-180deg); }
       &:hover .back { transform: rotateY(0deg); }
     }
-  }
-  &--team {
-    .text { font-size: $font-size-base; }
   }
 }
 

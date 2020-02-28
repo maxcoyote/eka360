@@ -78,7 +78,27 @@ $(document).ready(function(){
   });
 });
 
-// Hide other .collapse on click
-$('a').click(function() {
-    $('.collapse').collapse('hide');
+// Team page
+$(".isolation-overlay, .team-item .btn-wrap").on({
+    click: function(t) {
+        t.stopPropagation(),
+        $("body").removeClass("is-isolationOverlayOpen"),
+        $(".team-item").removeClass("is-active"),
+        setTimeout(function() {
+            $(".team-item").removeClass("setZ")
+        }, 300)
+    }
+}),
+$(".team-item").on({
+    click: function() {
+        var t = $(this)
+          , e = $(this).offset().top - $(this).height() / 2;
+        $("html,body").animate({
+            scrollTop: e
+        }, 300, function() {
+            $(".team-item").removeClass("is-active setZ"),
+            t.addClass("is-active setZ"),
+            $("body").addClass("is-isolationOverlayOpen")
+        })
+    }
 });
