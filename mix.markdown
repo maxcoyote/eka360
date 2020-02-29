@@ -3,17 +3,17 @@ title: Mix
 permalink: "/mix"
 projects:
 - image: "/uploads/hollywood.jpg"
-  title: 'Tao Restaurant  '
+  title: '4850 Hollywood Blvd '
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
 - image: "/uploads/avenue-34.jpg"
-  title: 'Two Bits Circus '
+  title: Avenue 34
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
 - image: "/uploads/melrose.jpg"
-  title: 'Beauty & Essex '
+  title: '5570 Melrose Ave  '
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
