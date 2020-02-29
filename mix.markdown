@@ -2,17 +2,17 @@
 title: Mix
 permalink: "/mix"
 projects:
-- image: "/uploads/tao.jpg"
+- image: "/uploads/hollywood.jpg"
   title: 'Tao Restaurant  '
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
-- image: "/uploads/two-bits.jpg"
+- image: "/uploads/avenue-34.jpg"
   title: 'Two Bits Circus '
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
-- image: "/uploads/beauty-essex.jpg"
+- image: "/uploads/melrose.jpg"
   title: 'Beauty & Essex '
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
