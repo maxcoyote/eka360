@@ -2,18 +2,18 @@
 title: Live
 permalink: "/live"
 projects:
-- image: "/uploads/tao.jpg"
-  title: 'Tao Restaurant  '
+- image: "/uploads/glendale.jpg"
+  title: 1750 Glendale Blvd
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
-- image: "/uploads/two-bits.jpg"
-  title: 'Two Bits Circus '
+- image: "/uploads/gateway.jpg"
+  title: 11460 Gateway Blvd
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
-- image: "/uploads/beauty-essex.jpg"
-  title: 'Beauty & Essex '
+- image: "/uploads/fig.jpg"
+  title: Fig @ 50
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
