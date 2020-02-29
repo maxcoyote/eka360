@@ -2,18 +2,18 @@
 title: Stay
 permalink: "/stay"
 projects:
-- image: "/uploads/tao.jpg"
-  title: 'Tao Restaurant  '
+- image: "/uploads/strand_pier.jpg"
+  title: Strand & Pier
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
-- image: "/uploads/two-bits.jpg"
-  title: 'Two Bits Circus '
+- image: "/uploads/venice.jpg"
+  title: 'Venice Place Project '
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
-- image: "/uploads/beauty-essex.jpg"
-  title: 'Beauty & Essex '
+- image: "/uploads/godfrey.jpg"
+  title: 'The Godfrey Hotel  '
   info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
     amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
     vehicula nunc, at ultricies dolor enim nec leo. '
