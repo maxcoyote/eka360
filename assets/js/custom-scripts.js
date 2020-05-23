@@ -79,6 +79,10 @@ $(document).ready(function(){
 });
 
 // Team page
+$(".basic-toggle .toggle-label").on("click", function() {
+    $(".basic-toggle .toggle-label").toggleClass("is-active"),
+    $("body").toggleClass("is-teamToggled")
+}),
 $(".isolation-overlay, .team-item .btn-wrap").on({
     click: function(t) {
         t.stopPropagation(),
