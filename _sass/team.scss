@@ -151,46 +151,46 @@
           transition: filter 0.8s cubic-bezier(0.25, 1, 0.25, 1), opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1);
         }
 
-        .overlay {
-          mix-blend-mode: multiply;
-          -webkit-transition: opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1);
-          -moz-transition: opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1);
-          transition: opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1);
-        }
+        // .overlay {
+        //   mix-blend-mode: multiply;
+        //   -webkit-transition: opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1);
+        //   -moz-transition: opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1);
+        //   transition: opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1);
+        // }
       }
     }
 
-    &:nth-child(8n+1) .overlay {
-      background-color: #5461C9;
-    }
-
-    &:nth-child(8n+2) .overlay {
-      background-color: #C724B1;
-    }
-
-    &:nth-child(8n+3) .overlay {
-      background-color: #E4002B;
-    }
-
-    &:nth-child(8n+4) .overlay {
-      background-color: #FF6900;
-    }
-
-    &:nth-child(8n+5) .overlay {
-      background-color: #F6BE00;
-    }
-
-    &:nth-child(8n+6) .overlay {
-      background-color: #97D700;
-    }
-
-    &:nth-child(8n+7) .overlay {
-      background-color: #00AB84;
-    }
-
-    &:nth-child(8n+8) .overlay {
-      background-color: #00A3E0;
-    }
+    // &:nth-child(8n+1) .overlay {
+    //   background-color: #5461C9;
+    // }
+    //
+    // &:nth-child(8n+2) .overlay {
+    //   background-color: #C724B1;
+    // }
+    //
+    // &:nth-child(8n+3) .overlay {
+    //   background-color: #E4002B;
+    // }
+    //
+    // &:nth-child(8n+4) .overlay {
+    //   background-color: #FF6900;
+    // }
+    //
+    // &:nth-child(8n+5) .overlay {
+    //   background-color: #F6BE00;
+    // }
+    //
+    // &:nth-child(8n+6) .overlay {
+    //   background-color: #97D700;
+    // }
+    //
+    // &:nth-child(8n+7) .overlay {
+    //   background-color: #00AB84;
+    // }
+    //
+    // &:nth-child(8n+8) .overlay {
+    //   background-color: #00A3E0;
+    // }
 
     .bio {
       display: block;
@@ -482,18 +482,18 @@
   }
 }
 
-.is-teamToggled .team-items .team-item:hover {
-  .bg {
-    -webkit-filter: grayscale(1);
-    -webkit-filter: grayscale(100%);
-    filter: gray;
-    filter: grayscale(100%);
-  }
-
-  .overlay {
-    opacity: 1;
-  }
-}
+// .is-teamToggled .team-items .team-item:hover {
+//   .bg {
+//     -webkit-filter: grayscale(1);
+//     -webkit-filter: grayscale(100%);
+//     filter: gray;
+//     filter: grayscale(100%);
+//   }
+//
+//   .overlay {
+//     opacity: 1;
+//   }
+// }
 
 .team-items .team-item:hover.is-active .bg-container {
   opacity: 1;

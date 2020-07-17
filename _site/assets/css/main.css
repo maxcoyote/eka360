@@ -3326,24 +3326,6 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 .team-items .team-item .item-wrap .bg-container .bg { -webkit-transition: filter 0.8s cubic-bezier(0.25, 1, 0.25, 1), opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1); -moz-transition: filter 0.8s cubic-bezier(0.25, 1, 0.25, 1), opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1); transition: filter 0.8s cubic-bezier(0.25, 1, 0.25, 1), opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1); }
 
-.team-items .team-item .item-wrap .bg-container .overlay { mix-blend-mode: multiply; -webkit-transition: opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1); -moz-transition: opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1); transition: opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1); }
-
-.team-items .team-item:nth-child(8n+1) .overlay { background-color: #5461C9; }
-
-.team-items .team-item:nth-child(8n+2) .overlay { background-color: #C724B1; }
-
-.team-items .team-item:nth-child(8n+3) .overlay { background-color: #E4002B; }
-
-.team-items .team-item:nth-child(8n+4) .overlay { background-color: #FF6900; }
-
-.team-items .team-item:nth-child(8n+5) .overlay { background-color: #F6BE00; }
-
-.team-items .team-item:nth-child(8n+6) .overlay { background-color: #97D700; }
-
-.team-items .team-item:nth-child(8n+7) .overlay { background-color: #00AB84; }
-
-.team-items .team-item:nth-child(8n+8) .overlay { background-color: #00A3E0; }
-
 .team-items .team-item .bio { display: block; position: absolute; top: 0; left: 100%; width: 100%; margin: 0 30px; color: #000; z-index: 10; overflow: visible; opacity: 0; -webkit-transition: -webkit-transform 0.8s cubic-bezier(0.25, 1, 0.25, 1), opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1); -moz-transition: -moz-transform 0.8s cubic-bezier(0.25, 1, 0.25, 1), opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1); transition: transform 0.8s cubic-bezier(0.25, 1, 0.25, 1), opacity 0.8s cubic-bezier(0.25, 1, 0.25, 1); -webkit-transition-duration: 0.2s; -moz-transition-duration: 0.2s; transition-duration: 0.2s; pointer-events: none; }
 
 .team-items .team-item .bio .name { display: block; position: relative; float: left; clear: both; font-weight: 900; font-size: 32px; z-index: 2; line-height: 110%; margin-bottom: 10px; }
@@ -3388,7 +3370,7 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 .team-items .team-item .bg-container { display: block; position: relative; float: left; clear: both; width: 100%; z-index: 1; -webkit-transition: all 0.8s cubic-bezier(0.25, 1, 0.25, 1); -moz-transition: all 0.8s cubic-bezier(0.25, 1, 0.25, 1); transition: all 0.8s cubic-bezier(0.25, 1, 0.25, 1); }
 
-.team-items .team-item .bg-container:before { content: ''; display: block; position: relative; float: left; clear: both; width: 100%; padding-top: 66.66%; }
+.team-items .team-item .bg-container:before { content: ''; display: block; position: relative; float: left; clear: both; width: 100%; padding-top: 100% !important; }
 
 .team-items .team-item .bg-container .overlay { display: block; position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.8; }
 
@@ -3408,10 +3390,6 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 .is-teamToggled .team-items .team-item .bg-container .bg, .team-items .team-item:hover .bg-container .bg { -webkit-filter: grayscale(0); -webkit-filter: grayscale(0%); filter: grayscale(0%); }
 
 .is-teamToggled .team-items .team-item .bg-container .overlay, .team-items .team-item:hover .bg-container .overlay { opacity: 0; }
-
-.is-teamToggled .team-items .team-item:hover .bg { -webkit-filter: grayscale(1); -webkit-filter: grayscale(100%); filter: gray; filter: grayscale(100%); }
-
-.is-teamToggled .team-items .team-item:hover .overlay { opacity: 1; }
 
 .team-items .team-item:hover.is-active .bg-container { opacity: 1; }
 
@@ -3637,8 +3615,6 @@ section h1, section h2, section h3 { letter-spacing: .2rem; }
 .section--case_study p, .section--additional_projects p { font-size: 1rem; }
 
 .section--case_study .project img { max-width: 300px; }
-
-.section--case_study .bg-container:before { padding-top: 100% !important; }
 
 @media (min-width: 1200px) { .section--additional_projects .col-xl { flex: 0 0 20%; max-width: 20%; } }
 
