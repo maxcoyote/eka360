@@ -59,6 +59,27 @@ team:
     of more affordable housing in Los Angeles. Outside of work, Olivia enjoys being
     at the beach, attempting to raise succulents, and competing in her local bowling
     league.
+- image: "/uploads/Olivia.png"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Sara Houghton
+  title: Senior Project Manager
+  email: sara@three6ixty.net
+  phone: "(310) 204-3500 x312"
+  bio: Sara Houghton joined three6ixty in 2019 as a Senior Project Manager and has
+    over 20 years of experience in the area of design, construction and land-use entitlements
+    for residential and commercial developments. Sara is a registered architect and
+    her professional experience in the field of architecture included working at international
+    firms such as NBBJ in Seattle and Cannon Design, and as a Planning Associate at
+    Rosenheim & Associates in Los Angeles. In addition to developing construction
+    documents, she also has experience providing construction oversight services.
+    Sara received her Bachelor’s of Architecture from Cornell University and studied
+    abroad in Rome, Italy.  She volunteers with LAUSD as a grant writer and schoolyard
+    garden educator and advocate, was a member of the governing board of her neighborhood
+    charter elementary school, and previously served on the Carthay Circle HPOZ design
+    review board. She has been a member of the American Institute of Architects, the
+    Association for Women in Architecture, and the Southern California Mediation Association.
+    Sara lives with her family in Topanga and enjoys spending free time practicing
+    yoga and urban farming with her backyard chickens in tow.
 layout: team
 ---
 
