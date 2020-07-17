@@ -3302,7 +3302,7 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 .slick-dots li.slick-active button:before { color: black; opacity: 0.75; }
 
-.isolation-overlay { content: ''; background-color: rgba(255, 255, 255, 0.95); display: block; position: absolute; top: 0; left: 0; width: 0%; height: 100%; z-index: 5; opacity: 0; -webkit-transition: width 0s 0.3s,opacity 0.3s 0s; -moz-transition: width 0s 0.3s,opacity 0.3s 0s; transition: width 0s 0.3s, opacity 0.3s 0s; }
+.isolation-overlay { content: ''; background-color: rgba(255, 255, 255, 0.95); display: block; position: fixed; top: 0; left: 0; right: 0; bottom: 0; width: 0%; height: 100%; z-index: 5; opacity: 0; -webkit-transition: width 0s 0.3s,opacity 0.3s 0s; -moz-transition: width 0s 0.3s,opacity 0.3s 0s; transition: width 0s 0.3s, opacity 0.3s 0s; }
 
 .is-isolationOverlayOpen .isolation-overlay { -webkit-transition: width 0s 0s,opacity 0.3s 0s; -moz-transition: width 0s 0s,opacity 0.3s 0s; transition: width 0s 0s,opacity 0.3s 0s; width: 100%; opacity: 1; }
 
@@ -3489,7 +3489,7 @@ body { -webkit-font-smoothing: antialiased; }
 
 @media (min-width: 1200px) { .btn.btn-lg, .btn-group-lg > .btn { min-width: 330px; } }
 
-.isolation-overlay { content: ''; background-color: rgba(255, 255, 255, 0.95); display: block; position: absolute; top: 0; left: 0; width: 0%; height: 100%; z-index: 5; opacity: 0; transition: width 0s 0.3s,opacity 0.3s 0s; }
+.isolation-overlay { content: ''; background-color: rgba(255, 255, 255, 0.95); display: block; position: fixed; top: 0; left: 0; right: 0; bottom: 0; width: 0%; height: 100%; z-index: 5; opacity: 0; transition: width 0s 0.3s,opacity 0.3s 0s; }
 
 .is-isolationOverlayOpen .isolation-overlay { transition: width 0s 0s,opacity 0.3s 0s; width: 100%; opacity: 1; }
 
@@ -3627,6 +3627,8 @@ section h1, section h2, section h3 { letter-spacing: .2rem; }
 .section--additional_projects .thumb-wrapper:hover .front { transform: rotateY(-180deg); }
 
 .section--additional_projects .thumb-wrapper:hover .back { transform: rotateY(0deg); }
+
+.section--team .bio-content { font-size: 1rem; }
 
 ::placeholder { color: rgba(33, 37, 41, 0.4); }
 
