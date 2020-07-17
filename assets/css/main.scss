@@ -241,6 +241,7 @@ section {
   }
   &--case_study {
     .project img { max-width: 300px; }
+    .bg-container:before { padding-top: 100% !important; }
   }
   &--additional_projects {
     .col-xl {
