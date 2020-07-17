@@ -3385,7 +3385,7 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 .is-teamToggled .team-items .team-item .bg-container .bg-wrap { -webkit-transform: translateX(-50%); -moz-transform: translateX(-50%); -ms-transform: translateX(-50%); -o-transform: translateX(-50%); transform: translateX(-50%); }
 
-.team-items .team-item .bg-container .bg { display: block; position: relative; float: left; clear: none; width: 50%; height: 100%; background-repeat: no-repeat; background-size: cover; }
+.team-items .team-item .bg-container .bg { display: block; position: relative; float: left; clear: none; width: 50%; height: 100%; background-repeat: no-repeat; background-size: cover; border-radius: 50%; }
 
 .is-teamToggled .team-items .team-item .bg-container .bg, .team-items .team-item:hover .bg-container .bg { -webkit-filter: grayscale(0); -webkit-filter: grayscale(0%); filter: grayscale(0%); }
 
