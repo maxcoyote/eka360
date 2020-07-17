@@ -27,12 +27,14 @@ layout: default
 <section id="services" class="section--services py-5">
   <div class="container">
     <div class="row wow slideInUp">
+      {% for main in page.index %}
       <div class="col-md-3 mb-4 mb-md-0 text-center">
-        <h3 class="text-uppercase">Guidance</h3>
-        <img src="{{ '/assets/img/service-1.jpg' | relative_url }}" alt="Guidance" class="w-50 mb-2 wow">
-        <p>Our experienced professionals will be there to help you design a budget, select a contractor, and manage your team.</p>
+        <h3 class="text-uppercase">{{ main.headline }}</h3>
+        <img src="{{ '/assets/img/service-{{ main.index }}.jpg' | relative_url }}" alt="Guidance" class="w-50 mb-2 wow">
+        <p>{{ main.text }}</p>
       </div>
-      <div class="col-md-3 mb-4 mb-md-0 text-center">
+      {% endfor %}
+      <!-- <div class="col-md-3 mb-4 mb-md-0 text-center">
         <h3 class="text-uppercase">Planning</h3>
         <img src="{{ '/assets/img/service-2.jpg' | relative_url }}" alt="Planning" class="w-50 mb-2 wow">
         <p>Let us read the fine print. We can provide extensive market analysis and assist you with everything from environmental clearance to land use planning.</p>
@@ -46,7 +48,7 @@ layout: default
         <h3 class="text-uppercase">Service</h3>
         <img src="{{ '/assets/img/service-4.jpg' | relative_url }}" alt="Service" class="w-50 mb-2 wow">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel elit justo. Nunc vestibulum leo ut consectetur tristique. Cras laoreet.</p>
-      </div>
+      </div> -->
     </div>
     <div class="row">
       <div class="col-12 text-center">
