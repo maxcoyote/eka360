@@ -59,7 +59,7 @@ team:
     of more affordable housing in Los Angeles. Outside of work, Olivia enjoys being
     at the beach, attempting to raise succulents, and competing in her local bowling
     league.
-- image: "/uploads/Olivia.png"
+- image: "/uploads/Sara.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Sara Houghton
   title: Senior Project Manager
