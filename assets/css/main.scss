@@ -29,9 +29,11 @@ body { -webkit-font-smoothing: antialiased; }
   content: '';
     background-color: rgba(255,255,255,0.95);
     display: block;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
+    right: 0;
+    bottom: 0;
     width: 0%;
     height: 100%;
     z-index: 5;
@@ -263,6 +265,9 @@ section {
       &:hover .front { transform: rotateY(-180deg); }
       &:hover .back { transform: rotateY(0deg); }
     }
+  }
+  &--team {
+    .bio-content { font-size: 1rem; }
   }
 }
 
