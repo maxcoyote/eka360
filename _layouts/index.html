@@ -27,10 +27,10 @@ layout: default
 <section id="services" class="section--services py-5">
   <div class="container">
     <div class="row wow slideInUp">
-      {% for main in page.index %}
+      {% for main in page.main %}
       <div class="col-md-3 mb-4 mb-md-0 text-center">
         <h3 class="text-uppercase">{{ main.headline }}</h3>
-        <img src="{{ '/assets/img/service-{{ main.index }}.jpg' | relative_url }}" alt="Guidance" class="w-50 mb-2 wow">
+        <img src="{{ main.image }}" alt="Guidance" class="w-50 mb-2 wow">
         <p>{{ main.text }}</p>
       </div>
       {% endfor %}
