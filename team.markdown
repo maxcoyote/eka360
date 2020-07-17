@@ -8,7 +8,7 @@ team:
   title: Owner/Principal
   email: dana@three6ixty.net
   phone: "(310) 204-3500 x301"
-  bio: "Dana is the founder and owner of three6ixty. She envisioned the company as
+  bio_text: "Dana is the founder and owner of three6ixty. She envisioned the company as
     a full-service land use and entitlement firm that combined her experience with
     fast-paced project and construction management with her education and knowledge
     of urban planning and regulatory processes. After working as a Director of Development
@@ -31,7 +31,7 @@ team:
   title: Senior Project Manager
   email: zachary@three6ixty.net
   phone: "(310) 204-3500 x305"
-  bio: Zachary Andrews is a Senior Project Manager and joined three6ixty in 2015.
+  bio_text: Zachary Andrews is a Senior Project Manager and joined three6ixty in 2015.
     He specializes in hospitality, mixed use development, and community outreach in
     the high-density corridor between DTLA, Hollywood, and West LA. Zach’s background
     in CEQA analysis has given him expertise in Categorical Exemptions, MND and EIR
@@ -46,7 +46,7 @@ team:
   title: Senior Project Manager
   email: olivia@three6ixty.net
   phone: "(310) 204-3500 x306"
-  bio: Olivia Joncich is a Senior Project Manager and has been with three6ixty since
+  bio_text: Olivia Joncich is a Senior Project Manager and has been with three6ixty since
     2016, working on a wide array of entitlement projects and policy research. Olivia’s
     focus on multi-family projects has made her an expert in affordable and supportive
     housing regulations, transit oriented development, and CEQA streamlining legislation.
@@ -65,7 +65,7 @@ team:
   title: Senior Project Manager
   email: sara@three6ixty.net
   phone: "(310) 204-3500 x312"
-  bio: Sara Houghton joined three6ixty in 2019 as a Senior Project Manager and has
+  bio_text: Sara Houghton joined three6ixty in 2019 as a Senior Project Manager and has
     over 20 years of experience in the area of design, construction and land-use entitlements
     for residential and commercial developments. Sara is a registered architect and
     her professional experience in the field of architecture included working at international
@@ -86,7 +86,7 @@ team:
   title: Project Manager
   email: jason@three6ixty.net
   phone: "(310) 204-3500 x304"
-  bio: Jason Friedman joined three6ixty in 2017 as a Project Manager with an extensive
+  bio_text: Jason Friedman joined three6ixty in 2017 as a Project Manager with an extensive
     background in local public sector planning. With a Master’s of Urban and Regional
     Planning from the University of California, Irvine, Jason served as a special
     projects planner for the City of Redondo and a city planner at the City of Bellflower.
@@ -101,7 +101,7 @@ team:
   title: Senior Permitting Manager
   email: courtney@three6ixty.net
   phone: "(310) 204-3500 x310"
-  bio: 'Courtney Brown is three6ixty’s Senior Permitting Manager specializing in complex
+  bio_text: 'Courtney Brown is three6ixty’s Senior Permitting Manager specializing in complex
     projects including tenant improvements, cannabis, affordable housing, and new
     construction for mixed use and residential projects. Courtney brings over 10 years
     of experience in permitting solutions, working with corporations such as General
@@ -116,7 +116,7 @@ team:
   title: Permitting Manager
   email: cassandra@three6ixty.net
   phone: "(310) 204-3500 x309"
-  bio: Cassandra Menendez is a Permitting Manager at three6ixty, specializing in multi-family
+  bio_text: Cassandra Menendez is a Permitting Manager at three6ixty, specializing in multi-family
     and affordable housing. She brings five years of permitting experience with the
     LADBS which allows her to strategically navigate complex permitting issues, assist
     clients, and deliver success at each step of the permit process. She holds a Bachelor’s
@@ -128,14 +128,14 @@ team:
   title: Project Manager
   email: alisa@three6ixty.net
   phone: "(310) 204-3500"
-  bio: No bio yet.
+  bio_text: No bio_text yet.
 - image: "/uploads/Carol.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Carolyn Wispe Burns
   title: Controller
   email: carolyn@three6ixty.net
   phone: "(310) 204-3500 x302"
-  bio: Carolyn Wispe Burns is three6ixty’s Controller and has been with the firm since
+  bio_text: Carolyn Wispe Burns is three6ixty’s Controller and has been with the firm since
     2014. Carol has had a bookkeeping practice for over 30 years in the Culver City
     community and has enjoyed working with Dana to achieve the company’s dynamic growth.
     She aligns with the other UCLA Bruins in the office and also studied accounting
@@ -148,7 +148,7 @@ team:
   title: Office Manager
   email: griselda@three6ixty.net
   phone: "(310) 204-3500 x303"
-  bio: Griselda “Gris” Diaz is three6ixty’s Office Manager, handling our daily operations,
+  bio_text: Griselda “Gris” Diaz is three6ixty’s Office Manager, handling our daily operations,
     administration, and communications. She has over 15 years of office management
     experience across a wide spectrum of industries and we are so grateful to have
     her on our team! She is fluent in English and Spanish and serves as our in-house
@@ -157,4 +157,3 @@ team:
     her skills in cosmetology, crafting, and event planning.
 layout: team
 ---
-
