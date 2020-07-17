@@ -96,7 +96,7 @@ team:
     the American Institute of Certified Planners. On a good day you can find Jason
     fishing, cooking, or traveling with his wife and daughter.
 - image: "/uploads/image-placeholder.jpg"
-  image_zoom: 
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Courtney Brown
   title: Senior Permitting Manager
   email: courtney@three6ixty.net
@@ -123,12 +123,12 @@ team:
     degree in Urban and Regional Planning from CSU Northridge. Outside of work, you
     can find Cassandra enjoying the outdoors and learning to cook new recipes.
 - image: "/uploads/image-placeholder.jpg"
-  image_zoom: 
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Alisa Karlan
   title: Project Manager
   email: alisa@three6ixty.net
   phone: "(310) 204-3500"
-  bio: 
+  bio: No bio yet.
 - image: "/uploads/Carol.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Carolyn Wispe Burns
