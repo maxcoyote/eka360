@@ -95,7 +95,7 @@ team:
     mixed use, and commercial projects for three6ixty and is a licensed member of
     the American Institute of Certified Planners. On a good day you can find Jason
     fishing, cooking, or traveling with his wife and daughter.
-- image: 
+- image: "/uploads/image-placeholder.jpg"
   image_zoom: 
   name: Courtney Brown
   title: Senior Permitting Manager
@@ -122,7 +122,7 @@ team:
     clients, and deliver success at each step of the permit process. She holds a Bachelor’s
     degree in Urban and Regional Planning from CSU Northridge. Outside of work, you
     can find Cassandra enjoying the outdoors and learning to cook new recipes.
-- image: 
+- image: "/uploads/image-placeholder.jpg"
   image_zoom: 
   name: Alisa Karlan
   title: Project Manager
