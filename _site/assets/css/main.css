@@ -3620,7 +3620,7 @@ section h1, section h2, section h3 { letter-spacing: .2rem; }
 
 @media (min-width: 1200px) { .section--additional_projects .col-xl { flex: 0 0 20%; max-width: 20%; } }
 
-.section--additional_projects .thumb-wrapper > div { backface-visibility: hidden; transition: transform 300ms; transition-timing-function: linear; width: 100%; height: 100%; }
+.section--additional_projects .thumb-wrapper > div { backface-visibility: hidden; transition: transform 300ms; transition-timing-function: linear; width: 100%; height: auto; }
 
 .section--additional_projects .thumb-wrapper > div.front { transform: rotateY(0deg); }
 
