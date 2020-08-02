@@ -56,3 +56,4 @@ additional_projects:
   neighborhood: 'Mid-City West '
 layout: case_study
 ---
+
