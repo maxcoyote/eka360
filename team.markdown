@@ -152,3 +152,4 @@ team:
     exercise her skills in cosmetology, crafting, and event planning.
 layout: team
 ---
+
