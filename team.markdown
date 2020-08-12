@@ -40,6 +40,21 @@ team:
     and a Master’s of Urban and Regional Planning at the University of California,
     Los Angeles. Outside the office you can find Zach on a hike in the mountains,
     at a Giants baseball game, or cooking for his wife and daughter.
+- image: "/uploads/image-placeholder.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Courtney Brown
+  title: Senior Permitting Manager
+  email: courtney@three6ixty.net
+  phone: "(310) 204-3500 x310"
+  bio_text: 'Courtney Brown is three6ixty’s Senior Permitting Manager specializing
+    in complex projects including tenant improvements, cannabis, affordable housing,
+    and new construction for mixed use and residential projects. Courtney brings over
+    10 years of experience in permitting solutions, working with corporations such
+    as General Electric and California Home Builders. Courtney holds a Bachelor’s
+    Degree in Communication from Southern New Hampshire University and has a forthcoming
+    certification as a Project Management Professional. She is a member of the South
+    Bay LGBTQ Center and loves movies, art, and chilling with her partner and son
+    with a good glass of wine. '
 - image: "/uploads/Olivia.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Olivia Joncich, AICP
@@ -59,6 +74,21 @@ team:
     of more affordable housing in Los Angeles. Outside of work, Olivia enjoys being
     at the beach, attempting to raise succulents, and competing in her local bowling
     league.
+- image: "/uploads/Jason.png"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Jason Freidman, AICP
+  title: Project Manager
+  email: jason@three6ixty.net
+  phone: "(310) 204-3500 x304"
+  bio_text: Jason Friedman joined three6ixty in 2017 as a Project Manager with an
+    extensive background in local public sector planning. With a Master’s of Urban
+    and Regional Planning from the University of California, Irvine, Jason served
+    as a special projects planner for the City of Redondo and a city planner at the
+    City of Bellflower. His background in public sector work gives Jason keen insight
+    into code interpretation, CEQA process, and process management. Jason works on
+    a broad portfolio of residential, mixed use, and commercial projects for three6ixty
+    and is a licensed member of the American Institute of Certified Planners. On a
+    good day you can find Jason fishing, cooking, or traveling with his wife and daughter.
 - image: "/uploads/Sara.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Sara Houghton
@@ -81,36 +111,6 @@ team:
     and the Southern California Mediation Association. Sara lives with her family
     in Topanga and enjoys spending free time practicing yoga and urban farming with
     her backyard chickens in tow.
-- image: "/uploads/Jason.png"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Jason Freidman, AICP
-  title: Project Manager
-  email: jason@three6ixty.net
-  phone: "(310) 204-3500 x304"
-  bio_text: Jason Friedman joined three6ixty in 2017 as a Project Manager with an
-    extensive background in local public sector planning. With a Master’s of Urban
-    and Regional Planning from the University of California, Irvine, Jason served
-    as a special projects planner for the City of Redondo and a city planner at the
-    City of Bellflower. His background in public sector work gives Jason keen insight
-    into code interpretation, CEQA process, and process management. Jason works on
-    a broad portfolio of residential, mixed use, and commercial projects for three6ixty
-    and is a licensed member of the American Institute of Certified Planners. On a
-    good day you can find Jason fishing, cooking, or traveling with his wife and daughter.
-- image: "/uploads/image-placeholder.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Courtney Brown
-  title: Senior Permitting Manager
-  email: courtney@three6ixty.net
-  phone: "(310) 204-3500 x310"
-  bio_text: 'Courtney Brown is three6ixty’s Senior Permitting Manager specializing
-    in complex projects including tenant improvements, cannabis, affordable housing,
-    and new construction for mixed use and residential projects. Courtney brings over
-    10 years of experience in permitting solutions, working with corporations such
-    as General Electric and California Home Builders. Courtney holds a Bachelor’s
-    Degree in Communication from Southern New Hampshire University and has a forthcoming
-    certification as a Project Management Professional. She is a member of the South
-    Bay LGBTQ Center and loves movies, art, and chilling with her partner and son
-    with a good glass of wine. '
 - image: "/uploads/Cassandra.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Cassandra Menendez
@@ -124,13 +124,6 @@ team:
     a Bachelor’s degree in Urban and Regional Planning from CSU Northridge. Outside
     of work, you can find Cassandra enjoying the outdoors and learning to cook new
     recipes.
-- image: "/uploads/image-placeholder.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Alisa Karlan
-  title: Project Manager
-  email: alisa@three6ixty.net
-  phone: "(310) 204-3500"
-  bio_text: No bio_text yet.
 - image: "/uploads/Carol.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Carolyn Wispe Burns
@@ -159,4 +152,3 @@ team:
     exercise her skills in cosmetology, crafting, and event planning.
 layout: team
 ---
-

@@ -3614,6 +3614,16 @@ section h1, section h2, section h3 { letter-spacing: .2rem; }
 
 .section--clients .list-unstyled > li:before { position: absolute; display: block; content: ''; width: inherit; height: inherit; left: 0; top: 0; right: 0; bottom: 0; border: 3px solid #98D000; transform: rotate(45deg); }
 
+.section--contact .team-items .team-item { width: calc(100% - 30px); }
+
+@media only screen and (max-width: 1024px) { .section--contact .team-items .team-item { width: calc(100% - 30px); } }
+
+@media only screen and (max-width: 700px) { .section--contact .team-items .team-item { width: calc(100% - 10px); } }
+
+.section--contact .team-items .team-item .bio { left: 0; padding-left: 25px; }
+
+.section--contact .team-items .team-item .bio .name { float: none; }
+
 .section--case_study p, .section--additional_projects p { font-size: 1rem; }
 
 .section--case_study .project img { max-width: 300px; }

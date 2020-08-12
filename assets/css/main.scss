@@ -240,6 +240,20 @@ section {
       }
     }
   }
+  &--contact {
+    .team-items {
+      .team-item {
+        width: calc(100% - 30px);
+        @media only screen and (max-width: 1024px) { width: calc(100% - 30px); }
+        @media only screen and (max-width: 700px) { width: calc(100% - 10px); }
+        .bio {
+          left: 0;
+          padding-left: 25px;
+          .name { float: none; }
+        }
+      }
+    }
+  }
   &--case_study, &--additional_projects {
     p { font-size: $font-size-base; }
   }
