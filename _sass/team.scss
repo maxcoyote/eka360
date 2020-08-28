@@ -25,7 +25,8 @@
 }
 
 .team-items {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
   position: relative;
   float: left;
   clear: both;
@@ -216,7 +217,7 @@
       .name {
         display: block;
         position: relative;
-        float: left;
+        // float: left;
         clear: both;
         font-weight: 900;
         font-size: 32px;

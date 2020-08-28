@@ -1,0 +1,24 @@
+I"�<ul>
+  <li>image: “/uploads/14_Trejos_tacos.jpg”
+name: ‘Trejo’s Tacos ‘
+address: ‘1048 La Brea ‘
+size: ‘968 SF ‘
+neighborhood: ‘Mid-City ‘
+type: ‘Restaurant ‘</li>
+  <li>image: “/uploads/15_Two_Bit_Circus_2.png”
+name: ‘Two Bit Circus ‘
+address: ‘634 S Mateo St ‘
+size: ‘44,351 SF ‘
+neighborhood: ‘Arts District ‘
+type: ‘Restaurant ‘</li>
+  <li>image: “/uploads/16_Firestone.jpg”
+name: ‘Firestone Brewery ‘
+neighborhood: ‘Marina del Rey ‘</li>
+  <li>image: “/uploads/15_Two_Bit_Circus_2.png”
+name: ‘Angelini ‘
+address: ‘7317 Beverly Blvd ‘
+size: ‘1145 SF ‘
+neighborhood: ‘Fairfax ‘
+type: ‘Restaurant ‘</li>
+</ul>
+:ET

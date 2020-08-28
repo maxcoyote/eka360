@@ -24,22 +24,27 @@ layout: default
           <div class="item-info text-center">
             {% if project.name.size > 0 %}
 			      <h5 class="name text-uppercase">{{ project.name }}</h5>
-            <p>{{ project.address }}</p>
             {% else %}
             <h5 class="name text-uppercase">{{ project.address }}</h5>
             {% endif %}
-            <p>{{ project.type }}</p>
-            <p>{{ project.size }}</p>
-            <p>{{ project.neighborhood }}</p>
 			    </div>
 			  </div>
         <div class="bio">
           {% if project.name.size > 0 %}
           <h5 class="name text-uppercase">{{ project.name }}</h5>
-          {% else %}
-          <h5 class="name text-uppercase">{{ project.address }}</h5>
           {% endif %}
-		    	<span class="bio-content text">{{  project.info }}</span>
+          {% if project.address.size > 0 %}
+          <p><strong>Address:</strong> {{ project.address }}</p>
+          {% endif %}
+          {% if project.type.size > 0 %}
+          <p><strong>Type:</strong> {{ project.type }}</p>
+          {% endif %}
+          {% if project.size.size > 0 %}
+          <p><strong>Size:</strong> {{ project.size }}</p>
+          {% endif %}
+          {% if project.neighborhood.size > 0 %}
+          <p><strong>Neighborhood:</strong> {{ project.neighborhood }}</p>
+          {% endif %}
 		    </div>
       </div>
       {% endfor %}
@@ -47,6 +52,7 @@ layout: default
   </div>
 </section>
 
+{% comment %}
 <section id="additional_projects" class="section--additional_projects d-flex align-items-center py-5 text-center">
   <div class="container">
     <div class="row wow fadeIn">
@@ -81,3 +87,4 @@ layout: default
     </div>
   </div>
 </section>
+{% endcomment %}
