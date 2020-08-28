@@ -9,7 +9,18 @@
 @import "team";
 
 // Defaults
-body { -webkit-font-smoothing: antialiased; }
+body {
+  -webkit-font-smoothing: antialiased;
+  &.services {
+    section {
+      h1, h2, h3, h4, h5, h6, p { margin-bottom: 2rem; }
+      ul {
+        @extend .list-group; margin-bottom: 2rem;
+        li { @extend .list-group-item; }
+      }
+    }
+  }
+}
 .btn {
   text-transform: uppercase; letter-spacing: .2rem;
   transition: all .3s ease-in-out;
