@@ -38,7 +38,6 @@ projects:
 layout: case_study
 ---
 
-
 - image: "/uploads/14_Trejos_tacos.jpg"
   name: 'Trejo's Tacos '
   address: '1048 La Brea '

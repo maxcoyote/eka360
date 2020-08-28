@@ -11,7 +11,8 @@ projects:
 - image: "/uploads/25_Venice_Place.jpg"
   name: 'Venice Place '
   address: '1033 Abbot KInney Blvd '
-  size: 'Hotel rooms-93, dwelling units- 58, restaurant/office, retail and spa 10507 SF '
+  size: 'Hotel rooms-93, dwelling units- 58, restaurant/office, retail and spa 10507
+    SF '
   neighborhood: 'Venice '
   type: 'Hotel '
 - image: "/uploads/26_Farmers_Daughter.jpg"
@@ -40,3 +41,4 @@ projects:
   type: 'Hotel, Restaurant and Retail '
 layout: case_study
 ---
+
