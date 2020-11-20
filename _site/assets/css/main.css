@@ -3614,9 +3614,9 @@ section h1, section h2, section h3 { letter-spacing: .2rem; }
 
 .section--clients .list-unstyled { position: relative; overflow: hidden; }
 
-.section--clients .list-unstyled > li { position: relative; }
+.section--clients .list-unstyled li { flex: 0 0 25%; }
 
-.section--clients .list-unstyled > li:before { position: absolute; display: block; content: ''; width: inherit; height: inherit; left: 0; top: 0; right: 0; bottom: 0; border: 3px solid #98D000; transform: rotate(45deg); }
+@media (min-width: 768px) { .section--clients .list-unstyled li { flex: 0 0 33.33%; } }
 
 .section--contact .team-items .team-item { width: calc(100% - 30px); }
 
