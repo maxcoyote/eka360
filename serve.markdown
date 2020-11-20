@@ -56,12 +56,6 @@ projects:
   size: '50 units '
   neighborhood: 'Mid-City West '
   type: 'Affordable/Supportive Housing '
-- image: "/uploads/30_JFED_Israel_Levin.jpg"
-  name: 'JFED Israel Levin Center '
-  address: '201 Ocean Front Walk '
-  size: '6166 SF '
-  neighborhood: 'Venice '
-  type: 'Community Center '
 - image: "/uploads/31_Berendo.jpg"
   name: 'Berendo Apartments - WHCH '
   address: '1035 S Berendo St '
