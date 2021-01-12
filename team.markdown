@@ -150,7 +150,7 @@ team:
     in-house IT support. Gris is pursuing a Bachelor’s degree in Communications and
     Business Administration, and still finds time to spend with her two children and
     exercise her skills in cosmetology, crafting, and event planning.
-- image: "/uploads/fahmida%20(1).png"
+- image: "/uploads/fahmida.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Fahmida Rashid
   title: Associate Permitting Manager
