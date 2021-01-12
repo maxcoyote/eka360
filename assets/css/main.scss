@@ -1,13 +1,26 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Source+Sans+Pro&display=swap');
 @import 'bootstrap/bootstrap';
 @import "slick";
 @import "slick-theme";
 @import "team";
 
 // Defaults
-body { -webkit-font-smoothing: antialiased; }
+body {
+  -webkit-font-smoothing: antialiased;
+  &.services {
+    section {
+      h1, h2, h3, h4, h5, h6, p { margin-bottom: 2rem; }
+      ul {
+        @extend .list-group; margin-bottom: 2rem;
+        li { @extend .list-group-item; }
+      }
+    }
+  }
+}
 .btn {
   text-transform: uppercase; letter-spacing: .2rem;
   transition: all .3s ease-in-out;
@@ -215,26 +228,23 @@ section {
   &--clients {
     .list-unstyled {
       position: relative; overflow: hidden;
-      > li {
-        position: relative;
-        &:before {
-          position: absolute;
-          display: block;
-          content: '';
-          width: inherit;
-          height: inherit;
+      li {
+        flex: 0 0 25%;
+        @include media-breakpoint-up(md) { flex: 0 0 33.33%; }
+      }
+    }
+  }
+  &--contact {
+    .team-items {
+      .team-item {
+        width: calc(100% - 30px);
+        @media only screen and (max-width: 1024px) { width: calc(100% - 30px); }
+        @media only screen and (max-width: 700px) { width: calc(100% - 10px); }
+        .bio {
           left: 0;
-          top: 0;
-          right: 0;
-          bottom: 0;
-          border: 3px solid $secondary;
-          transform: rotate(45deg);
+          padding-left: 25px;
+          .name { float: none; }
         }
-        // &:nth-child(1), &:nth-child(3) { width: 420px; height: 420px; }
-        // &:nth-child(2), &:nth-child(5) { width: 310px; height: 310px; }
-        // &:nth-child(4) { width: 360px; height: 360px; }
-        // &:nth-child(6) { width: 400px; height: 400px; }
-        // &:nth-child(7) { width: 280px; height: 280px; }
       }
     }
   }
@@ -254,7 +264,7 @@ section {
         transition: transform 300ms;
         transition-timing-function: linear;
         width: 100%;
-        height: 100%;
+        height: auto;
         &.front { transform: rotateY(0deg); }
         &.back {
           transform: rotateY(180deg);

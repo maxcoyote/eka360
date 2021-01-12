@@ -29,8 +29,11 @@ layout: default
   						<div class="overlay"></div>
   			  	</div>
           </div>
-			    <div class="item-info">
-			      <h5 class="name text-uppercase text-center">{{ team.name }}</h5> <span class="title">{{ team.position }}</span>
+			    <div class="item-info text-center">
+			      <h5 class="name text-uppercase">{{ team.name }}</h5> <span class="title">{{ team.position }}</span>
+            <p>{{ team.title }}</p>
+            <p class="small"><a href="mailto:{{ team.email }}" class="text-muted">{{ team.email }}</a></p>
+            <p class="small text-muted">{{ team.phone }}</p>
 			    </div>
 			  </div>
         <div class="bio">

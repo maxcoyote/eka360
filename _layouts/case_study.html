@@ -1,9 +1,9 @@
 ---
-title: case_study
+name: case_study
 layout: default
 ---
 
-<section id="{{ page.title | downcase }}" class="section--case_study d-flex align-items-center py-5">
+<section id="{{ page.name | downcase }}" class="section--case_study d-flex align-items-center py-5">
   <div class="container">
     <div class="row wow fadeIn">
       <div class="col-12 text-center">
@@ -22,12 +22,29 @@ layout: default
 			  	  </div>
           </div>
           <div class="item-info text-center">
-			      <h5 class="name text-uppercase">{{ project.title }}</h5>
+            {% if project.name.size > 0 %}
+			      <h5 class="name text-uppercase">{{ project.name }}</h5>
+            {% else %}
+            <h5 class="name text-uppercase">{{ project.address }}</h5>
+            {% endif %}
 			    </div>
 			  </div>
         <div class="bio">
-          <h5 class="name text-uppercase">{{ project.title }}</h5>
-		    	<span class="bio-content text">{{  project.info }}</span>
+          {% if project.name.size > 0 %}
+          <h5 class="name text-uppercase">{{ project.name }}</h5>
+          {% endif %}
+          {% if project.address.size > 0 %}
+          <p><strong>Address:</strong> {{ project.address }}</p>
+          {% endif %}
+          {% if project.type.size > 0 %}
+          <p><strong>Type:</strong> {{ project.type }}</p>
+          {% endif %}
+          {% if project.size.size > 0 %}
+          <p><strong>Size:</strong> {{ project.size }}</p>
+          {% endif %}
+          {% if project.neighborhood.size > 0 %}
+          <p><strong>Neighborhood:</strong> {{ project.neighborhood }}</p>
+          {% endif %}
 		    </div>
       </div>
       {% endfor %}
@@ -35,6 +52,7 @@ layout: default
   </div>
 </section>
 
+{% comment %}
 <section id="additional_projects" class="section--additional_projects d-flex align-items-center py-5 text-center">
   <div class="container">
     <div class="row wow fadeIn">
@@ -52,10 +70,15 @@ layout: default
           </div>
           <div class="card back">
             <div class="card-body">
-              <h5 class="card-title text-uppercase">{{ project.title }}</h5>
-              <p class="card-text">{{ project.neighborhood }}</p>
-              <p class="card-text">{{ project.units }}</p>
+              {% if project.name.size > 0 %}
+              <h5 class="card-name text-uppercase">{{ project.name }}</h5>
+              <p class="card-text">{{ project.address }}</p>
+              {% else %}
+              <h5 class="card-name text-uppercase">{{ project.address }}</h5>
+              {% endif %}
               <p class="card-text">{{ project.type }}</p>
+              <p class="card-text">{{ project.size }}</p>
+              <p class="card-text">{{ project.neighborhood }}</p>
             </div>
           </div>
         </div>
@@ -64,3 +87,4 @@ layout: default
     </div>
   </div>
 </section>
+{% endcomment %}

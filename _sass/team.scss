@@ -25,7 +25,8 @@
 }
 
 .team-items {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
   position: relative;
   float: left;
   clear: both;
@@ -216,7 +217,7 @@
       .name {
         display: block;
         position: relative;
-        float: left;
+        // float: left;
         clear: both;
         font-weight: 900;
         font-size: 32px;
@@ -337,7 +338,7 @@
       float: left;
       clear: both;
       width: 100%;
-      height: 80px;
+      height: auto;
       padding-top: 20px;
       font-size: 18px;
       line-height: 100%;
@@ -470,6 +471,7 @@
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
+  border-radius: 50%;
 }
 
 .is-teamToggled .team-items .team-item .bg-container, .team-items .team-item:hover .bg-container {

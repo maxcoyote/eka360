@@ -22,6 +22,17 @@ main:
   text: From due diligence to entitlements to permitting, we are a full-service shop
     for all your project needs, giving us critical insight into the larger picture
     of your development process.
+clients:
+- image: "/uploads/hollywood-intl.png"
+- image: "/uploads/jewish-federation.png"
+- image: "/uploads/thomas-safran.png"
+- image: "/uploads/bolour-associates.png"
+- image: "/uploads/meta-housing-corp.png"
+- image: "/uploads/cgi.png"
+- image: "/uploads/aragon.png"
+- image: "/uploads/rse.png"
+- image: "/uploads/rbm.png"
+- image: "/uploads/whchc.png"
 layout: index
 ---
 

@@ -52,7 +52,7 @@ layout: default
     </div>
     <div class="row">
       <div class="col-12 text-center">
-        <a href="/" class="btn btn-primary btn-lg mt-5">Learn More</a>
+        <a href="/services" class="btn btn-primary btn-lg mt-5">Learn More</a>
       </div>
     </div>
   </div>
@@ -71,30 +71,44 @@ layout: default
   <div class="container-fluid">
     <div class="row wow slideInUp">
       <div class="col-12 text-center">
-        <img src="{{ '/assets/img/clients.png' | relative_url }}" class="mw-100">
-        <!-- <ul class="list-unstyled d-flex flex-wrap justify-content-center">
-          <li class="d-flex align-items-center">
-              <img src="{{ '/assets/img/hollywood-intl.png' | relative_url }}" alt="" class="mw-100 m-auto">
+        <!-- <img src="{{ '/assets/img/clients.png' | relative_url }}" class="mw-100"> -->
+        <ul class="list-unstyled d-flex flex-wrap justify-content-center">
+          {% for client in page.clients %}
+          <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ client.image }}" alt="" class="mw-100 m-auto">
+          </li>
+          <!-- <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ '/assets/img/hollywood-intl.png' | relative_url }}" alt="" class="mw-100 m-auto">
+          </li>
+          <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ '/assets/img/jewish-federation.png' | relative_url }}" alt="" class="mw-100 m-auto">
+          </li>
+          <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ '/assets/img/thomas-safran.png' | relative_url }}" alt="" class="mw-100 m-auto">
+          </li>
+          <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ '/assets/img/bolour-associates.png' | relative_url }}" alt="" class="mw-100 m-auto">
+          </li>
+          <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ '/assets/img/meta-housing-corp.png' | relative_url }}" alt="" class="mw-100 m-auto">
+          </li>
+          <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ '/assets/img/cgi.png' | relative_url }}" alt="" class="mw-100 m-auto">
+          </li>
+          <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ '/assets/img/aragon.png' | relative_url }}" alt="" class="mw-100 m-auto">
+          </li>
+          <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ '/assets/img/rse.png' | relative_url }}" alt="" class="mw-100 m-auto">
+          </li>
+          <li class="col-6 col-md-4 d-flex align-items-center">
+            <img src="{{ '/assets/img/rbm.png' | relative_url }}" alt="" class="mw-100 m-auto">
           </li>
           <li class="d-flex align-items-center">
-              <img src="{{ '/assets/img/jewish-federation.png' | relative_url }}" alt="" class="mw-100 m-auto">
-          </li>
-          <li class="d-flex align-items-center">
-              <img src="{{ '/assets/img/thomas-safran.png' | relative_url }}" alt="" class="mw-100 m-auto">
-          </li>
-          <li class="d-flex align-items-center">
-              <img src="{{ '/assets/img/bolour-associates.png' | relative_url }}" alt="" class="mw-100 m-auto">
-          </li>
-          <li class="d-flex align-items-center">
-              <img src="{{ '/assets/img/meta-housing-corp.png' | relative_url }}" alt="" class="mw-100 m-auto">
-          </li>
-          <li class="d-flex align-items-center">
-              <img src="{{ '/assets/img/cgi.png' | relative_url }}" alt="" class="mw-100 m-auto">
-          </li>
-          <li class="d-flex align-items-center">
-              <img src="{{ '/assets/img/aragon.png' | relative_url }}" alt="" class="mw-100 m-auto">
-          </li>
-        </ul> -->
+            <img src="{{ '/assets/img/whchc.png' | relative_url }}" alt="" class="mw-100 m-auto">
+          </li> -->
+          {% endfor %}
+        </ul>
       </div>
     </div>
   </div>
