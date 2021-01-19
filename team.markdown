@@ -55,25 +55,6 @@ team:
     certification as a Project Management Professional. She is a member of the South
     Bay LGBTQ Center and loves movies, art, and chilling with her partner and son
     with a good glass of wine. '
-- image: "/uploads/Olivia.png"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Olivia Joncich, AICP
-  title: Senior Project Manager
-  email: olivia@three6ixty.net
-  phone: "(310) 204-3500 x306"
-  bio_text: Olivia Joncich is a Senior Project Manager and has been with three6ixty
-    since 2016, working on a wide array of entitlement projects and policy research.
-    Olivia’s focus on multi-family projects has made her an expert in affordable and
-    supportive housing regulations, transit oriented development, and CEQA streamlining
-    legislation. She holds a Master’s of Planning from USC with an emphasis in Economic
-    Development, is a member of the Urban Land Institute and the American Planning
-    Association, and is a certified AICP Candidate. Olivia began her planning career
-    with notable institutions such as the Corporation for Supportive Housing, LA County
-    Bicycle Coalition, and the City of Long Beach Planning Bureau. As a native Angeleno,
-    she is increasingly interested in ways to contribute to good policy and the production
-    of more affordable housing in Los Angeles. Outside of work, Olivia enjoys being
-    at the beach, attempting to raise succulents, and competing in her local bowling
-    league.
 - image: "/uploads/Jason.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Jason Freidman, AICP
