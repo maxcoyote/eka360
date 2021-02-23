@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/contact.html</loc>
+<loc>/contact.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/dine</loc>
+<loc>/dine</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/live</loc>
+<loc>/live</loc>
 </url>
 <url>
-<loc>http://localhost:4000/serve</loc>
+<loc>/serve</loc>
 </url>
 <url>
-<loc>http://localhost:4000/services</loc>
+<loc>/services</loc>
 </url>
 <url>
-<loc>http://localhost:4000/stay</loc>
+<loc>/stay</loc>
 </url>
 <url>
-<loc>http://localhost:4000/team</loc>
+<loc>/team</loc>
 </url>
 </urlset>

@@ -328,6 +328,11 @@ input[type=checkbox]:not(.toggle) {
   }
 }
 
+.subnav {
+  background: #EFF1F2;
+  .active { font-weight: 700; }
+}
+
 @keyframes fadeInRight {
   0% {
     opacity: 0;
