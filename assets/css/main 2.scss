@@ -1,18 +1,14 @@
 ---
 ---
 
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Source+Sans+Pro&display=swap');
-=======
->>>>>>> Updated Config and 204 other files
 @import 'bootstrap/bootstrap';
 @import "slick";
 @import "slick-theme";
 @import "team";
 
 // Defaults
-<<<<<<< HEAD
 body {
   -webkit-font-smoothing: antialiased;
   &.services {
@@ -25,9 +21,6 @@ body {
     }
   }
 }
-=======
-body { -webkit-font-smoothing: antialiased; }
->>>>>>> Updated Config and 204 other files
 .btn {
   text-transform: uppercase; letter-spacing: .2rem;
   transition: all .3s ease-in-out;
@@ -49,17 +42,11 @@ body { -webkit-font-smoothing: antialiased; }
   content: '';
     background-color: rgba(255,255,255,0.95);
     display: block;
-<<<<<<< HEAD
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-=======
-    position: absolute;
-    top: 0;
-    left: 0;
->>>>>>> Updated Config and 204 other files
     width: 0%;
     height: 100%;
     z-index: 5;
@@ -241,7 +228,6 @@ section {
   &--clients {
     .list-unstyled {
       position: relative; overflow: hidden;
-<<<<<<< HEAD
       li {
         flex: 0 0 25%;
         @include media-breakpoint-up(md) { flex: 0 0 33.33%; }
@@ -259,28 +245,6 @@ section {
           padding-left: 25px;
           .name { float: none; }
         }
-=======
-      > li {
-        position: relative;
-        &:before {
-          position: absolute;
-          display: block;
-          content: '';
-          width: inherit;
-          height: inherit;
-          left: 0;
-          top: 0;
-          right: 0;
-          bottom: 0;
-          border: 3px solid $secondary;
-          transform: rotate(45deg);
-        }
-        // &:nth-child(1), &:nth-child(3) { width: 420px; height: 420px; }
-        // &:nth-child(2), &:nth-child(5) { width: 310px; height: 310px; }
-        // &:nth-child(4) { width: 360px; height: 360px; }
-        // &:nth-child(6) { width: 400px; height: 400px; }
-        // &:nth-child(7) { width: 280px; height: 280px; }
->>>>>>> Updated Config and 204 other files
       }
     }
   }
@@ -300,11 +264,7 @@ section {
         transition: transform 300ms;
         transition-timing-function: linear;
         width: 100%;
-<<<<<<< HEAD
         height: auto;
-=======
-        height: 100%;
->>>>>>> Updated Config and 204 other files
         &.front { transform: rotateY(0deg); }
         &.back {
           transform: rotateY(180deg);
@@ -316,12 +276,9 @@ section {
       &:hover .back { transform: rotateY(0deg); }
     }
   }
-<<<<<<< HEAD
   &--team {
     .bio-content { font-size: 1rem; }
   }
-=======
->>>>>>> Updated Config and 204 other files
 }
 
 // Forms
@@ -371,14 +328,11 @@ input[type=checkbox]:not(.toggle) {
   }
 }
 
-<<<<<<< HEAD
 .subnav {
   background: #EFF1F2;
   .active { font-weight: 700; }
 }
 
-=======
->>>>>>> Updated Config and 204 other files
 @keyframes fadeInRight {
   0% {
     opacity: 0;

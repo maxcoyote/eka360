@@ -3,7 +3,11 @@
 - name: Team
   link: /team
 - name: Services
+<<<<<<< HEAD
   link: /services
+=======
+  link: /
+>>>>>>> Updated Config and 204 other files
 - name: Case Studies
   link: /#case_studies
 - name: Media

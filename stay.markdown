@@ -2,6 +2,7 @@
 title: Stay
 permalink: "/stay"
 projects:
+<<<<<<< HEAD
 - image: "/uploads/24_Godfrey.jpg"
   name: 'The Godfrey Hotel '
   address: '1400 Cahuenga Blvd '
@@ -39,6 +40,49 @@ projects:
   size: 'Hotel (155030 sf), retail and restaurant (22461 SF) '
   neighborhood: 'Hermosa Beach '
   type: 'Hotel, Restaurant and Retail '
+=======
+- image: "/uploads/strand_pier.jpg"
+  title: Strand & Pier
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
+    amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
+    vehicula nunc, at ultricies dolor enim nec leo. '
+- image: "/uploads/venice.jpg"
+  title: 'Venice Place Project '
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
+    amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
+    vehicula nunc, at ultricies dolor enim nec leo. '
+- image: "/uploads/godfrey.jpg"
+  title: 'The Godfrey Hotel  '
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
+    amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
+    vehicula nunc, at ultricies dolor enim nec leo. '
+additional_projects:
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+>>>>>>> Updated Config and 204 other files
 layout: case_study
 ---
 

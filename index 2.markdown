@@ -22,7 +22,6 @@ main:
   text: From due diligence to entitlements to permitting, we are a full-service shop
     for all your project needs, giving us critical insight into the larger picture
     of your development process.
-<<<<<<< HEAD
 clients:
 - image: "/uploads/hollywood-intl.png"
 - image: "/uploads/jewish-federation.png"
@@ -34,8 +33,6 @@ clients:
 - image: "/uploads/rse.png"
 - image: "/uploads/rbm.png"
 - image: "/uploads/whchc.png"
-=======
->>>>>>> Updated Config and 204 other files
 layout: index
 ---
 

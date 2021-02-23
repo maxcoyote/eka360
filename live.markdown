@@ -2,6 +2,7 @@
 title: Live
 permalink: "/live"
 projects:
+<<<<<<< HEAD
 - image: "/uploads/02_4252_Crenshaw_Rendering_1.jpg"
   name: '4252 Crenshaw '
   address: '4252 Crenshaw Blvd '
@@ -60,6 +61,49 @@ projects:
   size: '81 Units. 2000 SF Commercial '
   neighborhood: 'Baldwin Hills '
   type: 'Mixed Use '
+=======
+- image: "/uploads/glendale.jpg"
+  title: 1750 Glendale Blvd
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
+    amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
+    vehicula nunc, at ultricies dolor enim nec leo. '
+- image: "/uploads/gateway.jpg"
+  title: 11460 Gateway Blvd
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
+    amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
+    vehicula nunc, at ultricies dolor enim nec leo. '
+- image: "/uploads/fig.jpg"
+  title: Fig @ 50
+  info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus sit
+    amet justo quis venenatis. Donec mattis, arcu et placerat eleifend, orci erat
+    vehicula nunc, at ultricies dolor enim nec leo. '
+additional_projects:
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+- image: "/uploads/blue-thumb.jpg"
+  title: Title
+  neighborhood: Neighborhood
+  units: Units
+  type: Type
+>>>>>>> Updated Config and 204 other files
 layout: case_study
 ---
 
