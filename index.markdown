@@ -22,7 +22,6 @@ main:
   text: From due diligence to entitlements to permitting, we are a full-service shop
     for all your project needs, giving us critical insight into the larger picture
     of your development process.
-<<<<<<< HEAD
 clients:
 - image: "/uploads/hollywood-intl.png"
 - image: "/uploads/jewish-federation.png"
@@ -34,8 +33,9 @@ clients:
 - image: "/uploads/rse.png"
 - image: "/uploads/rbm.png"
 - image: "/uploads/whchc.png"
+bottom:
+- text: Please note: By State and City mandate, Three6ixty employees are working remotely until further notice. I am available by email or cell phone (310-259-8288) for any client needs during this time. Phone calls to our office lines will be forwarded to our personal phones, but we are most easily accessible via email.  We are monitoring the evolving standards for municipal submittals and are continuing to move forward with projects as much as possible.  Thank you for your continued business and patience as we all adjust during this crisis.
+- image: "/uploads/zoom.jpg"
 =======
->>>>>>> Updated Config and 204 other files
 layout: index
 ---
-
