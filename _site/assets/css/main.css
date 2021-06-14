@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Source+Sans+Pro&display=swap");
 /*! Bootstrap v4.4.1 (https://getbootstrap.com/) Copyright 2011-2019 The Bootstrap Authors Copyright 2011-2019 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans:700|Montserrat:400,600&display=swap");
@@ -2825,10 +2824,6 @@ input[type=checkbox]:not(.toggle):not(:checked) + label:after { opacity: 0; -web
 input[type=checkbox]:not(.toggle):checked + label:after, input[type=checkbox]:not(.toggle):not(:checked) + label:after { content: ""; background-image: url(/assets/img/check.svg); width: 13px; height: 10px; position: absolute; top: 4px; left: 3px; -webkit-transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275); transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
 
 @media (min-width: 1200px) { input[type=checkbox]:not(.toggle):checked + label:after, input[type=checkbox]:not(.toggle):not(:checked) + label:after { top: 14px; } }
-
-.subnav { background: #EFF1F2; }
-
-.subnav .active { font-weight: 700; }
 
 @keyframes fadeInRight { 0% { opacity: 0;
     left: 20%; }
