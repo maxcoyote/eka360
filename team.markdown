@@ -131,13 +131,28 @@ team:
     in-house IT support. Gris is pursuing a Bachelor’s degree in Communications and
     Business Administration, and still finds time to spend with her two children and
     exercise her skills in cosmetology, crafting, and event planning.
-- image: 
-  image_zoom: 
-  name: 
-  title: 
-  email: 
-  phone: 
-  bio_text: 
+- image: "/uploads/shira.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Shira Moch
+  title: Project Manager
+  email: shira@three6ixty.net
+  phone: 310-204-3500 x307
+  bio_text: "\nShira Moch joined three6ixty in 2021 as a Planning Project Manager
+    I, previously serving the public sector doing community and public space planning.
+    Shira has a background in strategic planning and policy with her experience at
+    the City of Santa Monica writing the Parks and Recreation Master Plan update and
+    working on the Downtown Community Plan, working on the Great Streets Initiative
+    for the City of Los Angeles Office of the Mayor, working on the Comprehensive
+    Plan Update for the City of Olympia, and working on statewide policy for the Washington
+    State Senate. Through her work with various communities across California and
+    Washington, Shira has grown her passion for and understands the importance of
+    community engagement, clear visual communication, government process, and forward-thinking
+    solutions. Shira received a Master’s of Urban and Regional Planning from the University
+    of California, Los Angeles with a concentration in design and development, which
+    built a strong foundation for her knowledge of urban planning in California. Outside
+    of the office you can find Shira in her kitchen cooking with her family, enjoying
+    the mountains and local parks with her dog, or traveling in pursuit of good food.
+    \n"
 layout: team
 ---
 
