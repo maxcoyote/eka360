@@ -55,21 +55,6 @@ team:
     certification as a Project Management Professional. She is a member of the South
     Bay LGBTQ Center and loves movies, art, and chilling with her partner and son
     with a good glass of wine. '
-- image: "/uploads/Jason.png"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Jason Freidman, AICP
-  title: Project Manager
-  email: jason@three6ixty.net
-  phone: "(310) 204-3500 x304"
-  bio_text: Jason Friedman joined three6ixty in 2017 as a Project Manager with an
-    extensive background in local public sector planning. With a Master’s of Urban
-    and Regional Planning from the University of California, Irvine, Jason served
-    as a special projects planner for the City of Redondo and a city planner at the
-    City of Bellflower. His background in public sector work gives Jason keen insight
-    into code interpretation, CEQA process, and process management. Jason works on
-    a broad portfolio of residential, mixed use, and commercial projects for three6ixty
-    and is a licensed member of the American Institute of Certified Planners. On a
-    good day you can find Jason fishing, cooking, or traveling with his wife and daughter.
 - image: "/uploads/Sara.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Sara Houghton
@@ -118,19 +103,6 @@ team:
     at CSU Northridge. Carol serves as the Treasurer of the Culver City Historical
     Society and as the President of Lev Eisha. Carolyn loves to cook, especially with
     her adult kids, and shares her home with her CPA/husband Larry and her dog Hazel.
-- image: "/uploads/Gris.png"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Griselda Diaz
-  title: Office Manager
-  email: griselda@three6ixty.net
-  phone: "(310) 204-3500 x303"
-  bio_text: Griselda “Gris” Diaz is three6ixty’s Office Manager, handling our daily
-    operations, administration, and communications. She has over 15 years of office
-    management experience across a wide spectrum of industries and we are so grateful
-    to have her on our team! She is fluent in English and Spanish and serves as our
-    in-house IT support. Gris is pursuing a Bachelor’s degree in Communications and
-    Business Administration, and still finds time to spend with her two children and
-    exercise her skills in cosmetology, crafting, and event planning.
 - image: "/uploads/shira.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Shira Moch
