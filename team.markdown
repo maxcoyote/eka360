@@ -153,6 +153,16 @@ team:
     of the office you can find Shira in her kitchen cooking with her family, enjoying
     the mountains and local parks with her dog, or traveling in pursuit of good food.
     \n"
+- image: "/uploads/2X8A2804.JPG"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Zev Miguel-Strah
+  title: Permitting Coordinator
+  email: zev@three6ixty.net
+  phone: 
+  bio_text: |-
+    Zev Miguel-Strah is a permitting coordinator who joined Three6ixty in October of 2021. Before Three6ixty, Zev was working as a project coordinator for Redcar Properties, a commercial development group based out of Santa Monica, CA. Zev attended NYU’s, Gallatin School of Individualized Study, and Perdue University where he plans to finish his degree.
+
+    Outside of the office Zev enjoys spending time outdoors, hiking, ocean swimming and spending time with his wife and their two cats.
 layout: team
 ---
 
