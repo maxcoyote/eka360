@@ -90,6 +90,22 @@ team:
     and a Master’s of Urban and Regional Planning at the University of California,
     Los Angeles. Outside the office you can find Zach on a hike in the mountains,
     at a Giants baseball game, or cooking for his wife and daughter.
+- image: "/uploads/fahmida.png"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Fahmida Rashid
+  title: Associate Permitting Manager
+  email: fahmida@three6ixty.net
+  phone: "(310) 204-3500 x306"
+  bio_text: Fahmida Rashid joined three6ixty in 2021 as an Associate Permitting Manager.
+    She specializes in commercial permitting with a focus on restaurants, office,
+    and retail. Fahmida comes with nearly four years of permitting experience with
+    Permit Advisors where she provided expediting services in cities across the United
+    States, including Washington D.C., Atlanta, and Houston. Fahmida holds a Bachelor’s
+    degree in Geography from UCLA and a Master’s of Urban Planning from USC with a
+    concentration in Economic Development. Fahmida is passionate about social justice
+    and women’s rights, and loves spending time with her family, fiancee, and her
+    black cat Bruce. On a good day you can find her exploring a museum, enjoying good
+    food, or traveling.
 - image: "/uploads/Bid_Portrait-22.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Shira Moch
