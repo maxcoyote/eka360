@@ -163,6 +163,72 @@ team:
     Zev Miguel-Strah is a permitting coordinator who joined Three6ixty in October of 2021. Before Three6ixty, Zev was working as a project coordinator for Redcar Properties, a commercial development group based out of Santa Monica, CA. Zev attended NYU’s, Gallatin School of Individualized Study, and Perdue University where he plans to finish his degree.
 
     Outside of the office Zev enjoys spending time outdoors, hiking, ocean swimming and spending time with his wife and their two cats.
+- image: "/uploads/DE%20-%20360%20Website%20Photo%20-%2002102022.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Debbie A. Evans
+  title: Office Manager
+  email: debbie@three6ixty.net
+  phone: 
+  bio_text: Debbie A. Evans is three6ixty’s Office Manager, handling daily operations,
+    administration, and communications. She has over 16 years of office management
+    experience across a wide spectrum of industries and we are so grateful to have
+    her on our team. Debbie’s strength is in Customer Relations. She served/serves
+    on many educational committees for her two school age boys. Debbie and her families
+    interests are in traveling and camping.
+- image: "/uploads/dec7ccdf15a6f7d9979ca3688cd3f445c9adaff7650aaa5532f92fc2129f0cb0.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Debbie Evans
+  title: Planning Assistant
+  email: debbie@three6ixty.net
+  phone: 
+  bio_text: Mackenzie Goldberg joined three6ixty in 2020 as a Planning Assistant.
+    She holds a Master’s of Urban Planning degree from the University of Southern
+    California, with a concentration in Urban Design. She has a background in design
+    and architecture, with three years of experience working for an architecture publication,
+    as well as two years of experience doing neighborhood-level data analysis for
+    a university-affiliated research center. Outside the office, you can find Mackenzie
+    skateboarding, enjoying live music, and hanging at the nearby park.
+- image: "/uploads/IMG_2844.JPG"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Markie Anderle
+  title: Planning Project Manager
+  email: markie@three6ixty.net
+  phone: 
+  bio_text: Markie Anderle is a Planning Project Manager that joined three6ixty in
+    2021. She specializes in commercial and residential entitlements with a focus
+    on state housing legislation including Senate Bill 9, Senate Bill 35, and the
+    State Density Bonus program. Prior to joining the firm Markie worked on commercial
+    entitlements in Albuquerque, New Mexico where she was a member of the City’s Transit
+    Advisory Board. Markie also brings three years of experience in public policy
+    and lobbying at both the local and national level. Markie holds a Master of Planning
+    (MPL) from USC, graduating with top honors including the Graduating MPL Student
+    Award and the Comprehensive Examination Prize for Outstanding Achievement in the
+    Design and Preservation of the Built Environment concentration. She received her
+    BA in Political Science and History from the University of Rochester, and spent
+    a semester abroad at Trinity College in Dublin, Ireland. Markie lives with her
+    boyfriend, cat, and dog in Los Feliz where she enjoys playing tennis and taking
+    long walks.
+- image: "/uploads/Bid_Portrait-22.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Shira Moch
+  title: Planning Project Manager
+  email: shira@three6ixty.net
+  phone: 
+  bio_text: Shira Moch joined three6ixty in 2021 as a Planning Project Manager I,
+    previously serving the public sector doing community and public space planning.
+    Shira has a background in strategic planning and policy with her experience at
+    the City of Santa Monica writing the Parks and Recreation Master Plan update and
+    working on the Downtown Community Plan, working on the Great Streets Initiative
+    for the City of Los Angeles Office of the Mayor, working on the Comprehensive
+    Plan Update for the City of Olympia, and working on statewide policy for the Washington
+    State Senate. Through her work with various communities across California and
+    Washington, Shira has grown her passion for and understands the importance of
+    community engagement, clear visual communication, government process, and forward-thinking
+    solutions. Shira received a Master’s of Urban and Regional Planning from the University
+    of California, Los Angeles with a concentration in design and development, which
+    built a strong foundation for her knowledge of urban planning in California. Outside
+    of the office you can find Shira in her kitchen cooking with her family, enjoying
+    the mountains and local parks with her dog, or traveling in pursuit of good food.
 layout: team
 ---
 
