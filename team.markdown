@@ -95,7 +95,7 @@ team:
   name: Shira Moch
   title: Planning Project Manager
   email: shira@three6ixty.net
-  phone: 
+  phone: "(310) 204-3500 x307"
   bio_text: Shira Moch joined three6ixty in 2021 as a Planning Project Manager I,
     previously serving the public sector doing community and public space planning.
     Shira has a background in strategic planning and policy with her experience at
@@ -116,7 +116,7 @@ team:
   name: Markie Anderle
   title: Planning Project Manager
   email: markie@three6ixty.net
-  phone: 
+  phone: "(310) 204-3500 x311"
   bio_text: Markie Anderle is a Planning Project Manager that joined three6ixty in
     2021. She specializes in commercial and residential entitlements with a focus
     on state housing legislation including Senate Bill 9, Senate Bill 35, and the
@@ -135,9 +135,9 @@ team:
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Mackenzie Goldberg
   title: Planning Assistant
-  email: debbie@three6ixty.net
-  phone: 
-  bio_text: Mackenzie Goldberg joined three6ixty in 2020 as a Planning Assistant.
+  email: mackenzie@three6ixty.net
+  phone: "(310) 204-3500 x306"
+  bio_text: Mackenzie Goldberg joined three6ixty in 2021 as a Planning Assistant.
     She holds a Master’s of Urban Planning degree from the University of Southern
     California, with a concentration in Urban Design. She has a background in design
     and architecture, with three years of experience working for an architecture publication,
@@ -149,7 +149,7 @@ team:
   name: Zev Miguel-Strah
   title: Permitting Coordinator
   email: zev@three6ixty.net
-  phone: 
+  phone: "(310) 204-3500 x304"
   bio_text: |-
     Zev Miguel-Strah is a permitting coordinator who joined Three6ixty in October of 2021. Before Three6ixty, Zev was working as a project coordinator for Redcar Properties, a commercial development group based out of Santa Monica, CA. Zev attended NYU’s, Gallatin School of Individualized Study, and Perdue University where he plans to finish his degree.
 
@@ -172,7 +172,7 @@ team:
   name: Debbie A. Evans
   title: Office Manager
   email: debbie@three6ixty.net
-  phone: 
+  phone: "(310) 204-3500 x303"
   bio_text: Debbie A. Evans is three6ixty’s Office Manager, handling daily operations,
     administration, and communications. She has over 16 years of office management
     experience across a wide spectrum of industries and we are so grateful to have
