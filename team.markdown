@@ -28,7 +28,7 @@ team:
 - image: "/uploads/Sara.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Sara Houghton
-  title: Senior Project Manager
+  title: Planning Director
   email: sara@three6ixty.net
   phone: "(310) 204-3500 x312"
   bio_text: Sara Houghton joined three6ixty in 2019 as a Senior Project Manager and
@@ -50,7 +50,7 @@ team:
 - image: "/uploads/image-placeholder.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Courtney Brown
-  title: Senior Permitting Manager
+  title: Permitting Director
   email: courtney@three6ixty.net
   phone: "(310) 204-3500 x310"
   bio_text: 'Courtney Brown is three6ixty’s Senior Permitting Manager specializing
@@ -93,7 +93,7 @@ team:
 - image: "/uploads/fahmida.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Fahmida Rashid
-  title: Associate Permitting Manager
+  title: Permitting Manager
   email: fahmida@three6ixty.net
   phone: "(310) 204-3500 x306"
   bio_text: Fahmida Rashid joined three6ixty in 2021 as an Associate Permitting Manager.
