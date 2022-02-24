@@ -47,9 +47,9 @@
     margin-top: 30px;
     opacity: 1;
 
-    // &:nth-child(n+10) {
-    //   width: calc(50% - 30px);
-    // }
+    &:nth-child(n+10) {
+      width: calc(50% - 30px);
+    }
 
     .btn-wrap {
       display: block;
