@@ -80,7 +80,7 @@ team:
   name: Zachary Andrews
   title: Senior Project Manager
   email: zachary@three6ixty.net
-  phone: "(310) 204-3500 x305"
+  phone: "(310) 204-3500"
   bio_text: Zachary Andrews is a Senior Project Manager and joined three6ixty in 2015.
     He specializes in hospitality, mixed use development, and community outreach in
     the high-density corridor between DTLA, Hollywood, and West LA. Zach’s background
