@@ -75,21 +75,6 @@ team:
     a Bachelor’s degree in Urban and Regional Planning from CSU Northridge. Outside
     of work, you can find Cassandra enjoying the outdoors and learning to cook new
     recipes.
-- image: "/uploads/Zach.png"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Zachary Andrews
-  title: Senior Project Manager
-  email: zachary@three6ixty.net
-  phone: "(310) 204-3500"
-  bio_text: Zachary Andrews is a Senior Project Manager and joined three6ixty in 2015.
-    He specializes in hospitality, mixed use development, and community outreach in
-    the high-density corridor between DTLA, Hollywood, and West LA. Zach’s background
-    in CEQA analysis has given him expertise in Categorical Exemptions, MND and EIR
-    preparation, and the California Coastal Commission process. Zach received a Bachelor’s
-    of Science in Environmental Policy Analysis at University of California, Davis
-    and a Master’s of Urban and Regional Planning at the University of California,
-    Los Angeles. Outside the office you can find Zach on a hike in the mountains,
-    at a Giants baseball game, or cooking for his wife and daughter.
 - image: "/uploads/fahmida.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Fahmida Rashid
@@ -152,7 +137,7 @@ team:
   name: Mackenzie Goldberg
   title: Planning Assistant
   email: mackenzie@three6ixty.net
-  phone: "(310) 204-3500 x306"
+  phone: "(310) 204-3500 x308"
   bio_text: Mackenzie Goldberg joined three6ixty in 2021 as a Planning Assistant.
     She holds a Master’s of Urban Planning degree from the University of Southern
     California, with a concentration in Urban Design. She has a background in design
