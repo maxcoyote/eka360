@@ -111,19 +111,6 @@ team:
     a semester abroad at Trinity College in Dublin, Ireland. Markie lives with her
     boyfriend, cat, and dog in Los Feliz where she enjoys playing tennis and taking
     long walks.
-- image: "/uploads/dec7ccdf15a6f7d9979ca3688cd3f445c9adaff7650aaa5532f92fc2129f0cb0.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Mackenzie Goldberg
-  title: Planning Assistant
-  email: mackenzie@three6ixty.net
-  phone: "(310) 204-3500 x308"
-  bio_text: Mackenzie Goldberg joined three6ixty in 2021 as a Planning Assistant.
-    She holds a Master’s of Urban Planning degree from the University of Southern
-    California, with a concentration in Urban Design. She has a background in design
-    and architecture, with three years of experience working for an architecture publication,
-    as well as two years of experience doing neighborhood-level data analysis for
-    a university-affiliated research center. Outside the office, you can find Mackenzie
-    skateboarding, enjoying live music, and hanging at the nearby park.
 - image: "/uploads/2X8A2804.JPG"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Zev Miguel-Strah
