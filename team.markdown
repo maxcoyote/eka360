@@ -12,28 +12,35 @@ team:
     Dana is the founder and owner of three6ixty. She envisioned the company as a full-service land use and entitlement firm that combined her experience with fast-paced project and construction management with her education and knowledge of urban planning and regulatory processes. After working as a Director of Development at Urban Pacific Builders and Vice President of Development at John Laing Homes, Dana started working independently in 2007 and founded three6ixty in 2012.  Dana’s 27 years of project management experience, extensive knowledge of zoning code and land use policy, and an intuitive strategic approach ensures that three6ixty clients have the best guidance with their development projects internally, with cities and with local communities. 
      
     Dana has a broad network of relationships with city staff and elected officials, and she frequently participates with policy working groups and advisory committees. Dana holds an undergraduate degree in City and Regional Planning from Cornell University, a Masters of Urban Planning from USC and is a licensed member of the American Institute of Certified Planners. She served on the Culver City Planning Commission from 2013-2022, and has been actively involved in various non-profit organizations focused on philanthropy, and currently sits on the board of the Hollywood Central Park. Outside of he office, Dana loves travel, skiing and the outdoors, great restaurants, and spending time with her two sons.
-- image: "/uploads/Sara.png"
+- image: "/uploads/Sara%20Houghton%20Pic%20-%20614A3170.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Sara Houghton
   title: Planning Director
   email: sara@three6ixty.net
   phone: "(310) 204-3500 x312"
-  bio_text: Sara Houghton joined three6ixty in 2019 as a Senior Project Manager and
-    has over 20 years of experience in the area of design, construction and land-use
-    entitlements for residential and commercial developments. Sara is a registered
-    architect and her professional experience in the field of architecture included
-    working at international firms such as NBBJ in Seattle and Cannon Design, and
-    as a Planning Associate at Rosenheim & Associates in Los Angeles. In addition
-    to developing construction documents, she also has experience providing construction
-    oversight services. Sara received her Bachelor’s of Architecture from Cornell
-    University and studied abroad in Rome, Italy.  She volunteers with LAUSD as a
-    grant writer and schoolyard garden educator and advocate, was a member of the
-    governing board of her neighborhood charter elementary school, and previously
-    served on the Carthay Circle HPOZ design review board. She has been a member of
-    the American Institute of Architects, the Association for Women in Architecture,
-    and the Southern California Mediation Association. Sara lives with her family
-    in Topanga and enjoys spending free time practicing yoga and urban farming with
-    her backyard chickens in tow.
+  bio_text: "Sara Houghton, Vice President and Director of Planning and Land Use,
+    joined three6ixty in 2019 as a Senior Project Manager and is a licensed architect
+    with over 25 years of experience in the areas of design, construction and land-use
+    entitlements spanning commercial, residential, civic and educational projects.
+    \  \n\nPrior to joining three6ixty, Sara was a Planner with Rosenheim & Associates,
+    processing a wide range of land use entitlements with the City of Los Angeles,
+    as well as providing research and due diligence services.  Previously as an architect,
+    Sara worked for international firms such as NBBJ and Cannon Design in addition
+    to smaller local design firms.  She maintained her own architectural practice
+    servicing clients by providing extensive interface with the Los Angeles Department
+    of Building and Safety and City Planning Department, including services such as
+    permitting, design review board representation, obtaining variances and zoning
+    modifications.  In addition to preparing construction documents, she also provided
+    construction oversight services on a per project basis.\n\nSara received her Bachelor’s
+    of Architecture degree from Cornell University and studied abroad in Rome, Italy. 
+    She volunteered extensively with LAUSD as a grant writer and schoolyard garden
+    educator and advocate, was a member of the governing board of her neighborhood
+    charter elementary school, and previously served on the Carthay Circle HPOZ design
+    review board. She is a member of the American Institute of Architects and AIALA’s
+    Government Outreach committee, the Association for Women in Architecture, and
+    the Southern California Mediation Association.  For entertainment, Sara enjoys
+    seeing live music in small local venues across Los Angeles and practicing her
+    handstands."
 - image: "/uploads/Courtney%20Brown%20Pic%20-614A3222.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Courtney Brown
@@ -177,7 +184,29 @@ team:
   title: Permitting Project Manager
   email: mia@three6ixty.net
   phone: 
-  bio_text: 
+  bio_text: |-
+    Mia Rondone joins three6ixty as Permitting Project Manager with over 6 years of permitting and property development experience, overseeing large commercial and residential building projects across the country, as well as exclusive permit expediting for a major restaurant chain development.
+
+    Specializing in commercial signage, hospitality, as well as retail tenant improvements and ground up construction, Mia is equipped with years of working with the City Of Los Angeles and multiple Los Angeles County jurisdictions.  An International Code Council member, she is currently studying International Building Code, International Zoning Code and Basic Code Enforcement with the ICC.
+
+    In her free time, you will find Mia on hiking trails with her pup or planning her next camping adventure. Mia takes great pride in volunteering in her local community, and participating in gratitude for our Earth and its well-being with City trash pick-ups and composting.
+- image: "/uploads/Wendy%20Cifuentes%20Pic.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Wendy Cifuentes
+  title: Associate Permitting Coordinator
+  email: wendy@three6ixty.net
+  phone: 
+  bio_text: "Wendy Cifuentes is an Associate Permitting Coordinator who joined Three6ixty
+    in 2023.  Wendy is working towards her Business Finance degree and brings 5 plus
+    years of experience working with the City of Los Angeles and Los Angeles County
+    in various permitting roles.  \nWendy’s expertise lies in affordable housing concerns,
+    SB8 submittals, processing tract and parcel maps, and clearing conditions for
+    final maps in Los Angeles County.  She is also familiar with processing permits
+    dealing with urban forestry, DWP, Bureau of Street Services and bonds.  Wendy’s
+    permitting experience is supplemented with her background in finance, including
+    budget costs, accounting, and contract negotiations.\n\nIn her free time, Wendy
+    loves to spend time with her daughters, inspiring them to successfully balance
+    work and family life.  She enjoys hiking, baking, and traveling to new destinations."
 layout: team
 ---
 
