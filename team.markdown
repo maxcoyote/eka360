@@ -101,26 +101,26 @@ team:
     Fahmida has six years of experience in commercial permitting in a national level. She has permitting experience in Arizona, Utah, Georgia, Washington DC, Colorado, and California.  She graduated from the University of California Los Angeles with a Bachelor of Art’s degree in Geography and a minor in Urban Regional Studies.  A subsequent Geographic Informational System (GIS) Fellowship and Planning Internship with City of Temecula led her to pursue a Master of Urban Planning degree from the University of Southern California, with a concentration in Economic Development as well as a certificate in Landscape Architecture. 
 
     During her free time, she loves to travel and learn about different cultures. She also enjoys volunteering for The Leukemia & Lymphoma Society and Habitat for Humanity, and has hopes to volunteer for the Peace Corps someday. 
-- image: "/uploads/IMG_2844.JPG"
+- image: "/uploads/Markie%20Anderle%20Pic%20-%20614A3068.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Markie Anderle
   title: Planning Project Manager
   email: markie@three6ixty.net
   phone: "(310) 204-3500 x311"
-  bio_text: Markie Anderle is a Planning Project Manager that joined three6ixty in
+  bio_text: "Markie Anderle is a Planning Project Manager who joined three6ixty in
     2021. She specializes in commercial and residential entitlements with a focus
     on state housing legislation including Senate Bill 9, Senate Bill 35, and the
     State Density Bonus program. Prior to joining the firm Markie worked on commercial
     entitlements in Albuquerque, New Mexico where she was a member of the City’s Transit
     Advisory Board. Markie also brings three years of experience in public policy
-    and lobbying at both the local and national level. Markie holds a Master of Planning
-    (MPL) from USC, graduating with top honors including the Graduating MPL Student
-    Award and the Comprehensive Examination Prize for Outstanding Achievement in the
-    Design and Preservation of the Built Environment concentration. She received her
-    BA in Political Science and History from the University of Rochester, and spent
-    a semester abroad at Trinity College in Dublin, Ireland. Markie lives with her
-    boyfriend, cat, and dog in Los Feliz where she enjoys playing tennis and taking
-    long walks.
+    and lobbying at both the local and national level. \n\nMarkie holds a Master of
+    Planning (MPL) from USC, graduating with top honors including the Graduating MPL
+    Student Award and the Comprehensive Examination Prize for Outstanding Achievement
+    in the Design and Preservation of the Built Environment concentration. She received
+    her BA in Political Science and History from the University of Rochester, and
+    spent a semester abroad at Trinity College in Dublin, Ireland. Markie lives with
+    her partner and pets in Culver City where she enjoys playing tennis and taking
+    long walks. "
 - image: "/uploads/2X8A2804.JPG"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Zev Miguel-Strah
@@ -171,6 +171,13 @@ team:
     building, where she earned the title of the Swiss Army Knife of the office.  In
     her free time Jen enjoys going new restaurants with her husband, going to Orange
     Theory to work off those meals, and watching British crime fiction.
+- image: "/uploads/Mia%20Rondone%20Pic%20-%20614A3091.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Mia Rondone
+  title: Permitting Project Manager
+  email: mia@three6ixty.net
+  phone: 
+  bio_text: 
 layout: team
 ---
 
