@@ -128,16 +128,6 @@ team:
     spent a semester abroad at Trinity College in Dublin, Ireland. Markie lives with
     her partner and pets in Culver City where she enjoys playing tennis and taking
     long walks. "
-- image: "/uploads/2X8A2804.JPG"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Zev Miguel-Strah
-  title: Permitting Coordinator
-  email: zev@three6ixty.net
-  phone: "(310) 204-3500 x304"
-  bio_text: |-
-    Zev Miguel-Strah is a permitting coordinator who joined Three6ixty in October of 2021. Before Three6ixty, Zev was working as a project coordinator for Redcar Properties, a commercial development group based out of Santa Monica, CA. Zev attended NYU’s, Gallatin School of Individualized Study, and Perdue University where he plans to finish his degree.
-
-    Outside of the office Zev enjoys spending time outdoors, hiking, ocean swimming and spending time with his wife and their two cats.
 - image: "/uploads/Carolyn%20Wispe%20Burns%20Pic%20-%20614A2998.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Carolyn Wispe Burns
@@ -152,18 +142,6 @@ team:
     Society and as the President of Lev Eisha. Carolyn loves to cook, especially with
     her adult kids and enjoys hanging out with her grandson and grand-dogs. She shares
     her home with her CPA husband Larry and her dog Hazel.
-- image: "/uploads/DE%20-%20360%20Website%20Photo%20-%2002102022.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Debbie A. Evans
-  title: Office Manager
-  email: debbie@three6ixty.net
-  phone: "(310) 204-3500 x303"
-  bio_text: Debbie A. Evans is three6ixty’s Office Manager, handling daily operations,
-    administration, and communications. She has over 16 years of office management
-    experience across a wide spectrum of industries and we are so grateful to have
-    her on our team. Debbie’s strength is in Customer Relations. She served/serves
-    on many educational committees for her two school age boys. Debbie and her families
-    interests are in traveling and camping.
 - image: "/uploads/Jen%20Wall%20Pic%20-%20614A2971.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Jen Wall
