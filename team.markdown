@@ -47,21 +47,39 @@ team:
     and the Southern California Mediation Association. Sara lives with her family
     in Topanga and enjoys spending free time practicing yoga and urban farming with
     her backyard chickens in tow.
-- image: "/uploads/image-placeholder.jpg"
+- image: "/uploads/Courtney%20Brown%20Pic%20-614A3222.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Courtney Brown
-  title: Permitting Director
+  title: Senior Permitting Manager
   email: courtney@three6ixty.net
   phone: "(310) 204-3500 x310"
-  bio_text: 'Courtney Brown is three6ixty’s Senior Permitting Manager specializing
-    in complex projects including tenant improvements, cannabis, affordable housing,
-    and new construction for mixed use and residential projects. Courtney brings over
-    10 years of experience in permitting solutions, working with corporations such
-    as General Electric and California Home Builders. Courtney holds a Bachelor’s
-    Degree in Communication from Southern New Hampshire University and has a forthcoming
-    certification as a Project Management Professional. She is a member of the South
-    Bay LGBTQ Center and loves movies, art, and chilling with her partner and son
-    with a good glass of wine. '
+  bio_text: "Courtney Brown is the Vice President of Permitting and Development Strategy
+    and leads three6ixty’s Permitting team specializing in complex permitting projects
+    including but not limited to tenant improvement, affordable housing, and new construction
+    for mixed use and multi- family projects. Her professional background is in project
+    management focusing on process development, improvement and implementation.  Courtney
+    brings over 10 years of experience providing clients with creative and effective
+    solutions to their permitting issues backed by industry knowledge. While working
+    with an array of businesses from major corporations such as General Electric to
+    local developers such as California Home Builders, Courtney has developed a holistic
+    approach to project management that blends big picture with targeted strategy
+    and code interpretation. \n\nIn her tenure with Three6ixty she successfully secured
+    approvals for a micro-amusement park - the first of its kind – blending entertainment,
+    education, and hospitality. She also secured permitting for retail cannabis businesses
+    during the early phases of cannabis legalization in the City of Los Angeles.  In
+    addition to her commercial permitting successes, Three6ixty’s thirst for interesting
+    and complex projects have provided a place for Courtney’s passion for conscious
+    urban development to thrive in her affordable housing work as she has also successfully
+    permitted a number of affordable housing projects all over Los Angeles including
+    other jurisdictions like City of Inglewood. \n\nPrior to starting her career in
+    land use, Courtney attended Southern New Hampshire University for a bachelor’s
+    degree in communication and University of Texas for an associate degree in Biology.
+    Outside of work, Courtney is warrior mom to a 15-year-old boy, a fashionista,
+    a beach princess, and self-proclaimed virtual interior designer…on her iPhone
+    and in her personal home. She enjoys engaging in the local LGBTQA organization
+    where she and her partner reside.   She can also be found in the wild watching
+    a plethora of movie genres, singing karaoke, and wandering through the city looking
+    for good art."
 - image: "/uploads/Cassandra%20Menendez%20Pic%20-%20614A3027.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Cassandra Menendez
