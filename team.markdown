@@ -89,7 +89,7 @@ team:
     from California State University, Northridge. Cassandra loves to spend time surrounded
     by nature and traveling. Outside of work, you can find her enjoying the outdoors
     and learning to cook new recipes."
-- image: "/uploads/fahmida.png"
+- image: "/uploads/Fahmida%20Kahn%20Pic%20-%20614A3044.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Fahmida Khan
   title: Permitting Manager
