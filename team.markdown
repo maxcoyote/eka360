@@ -121,7 +121,7 @@ team:
     Zev Miguel-Strah is a permitting coordinator who joined Three6ixty in October of 2021. Before Three6ixty, Zev was working as a project coordinator for Redcar Properties, a commercial development group based out of Santa Monica, CA. Zev attended NYU’s, Gallatin School of Individualized Study, and Perdue University where he plans to finish his degree.
 
     Outside of the office Zev enjoys spending time outdoors, hiking, ocean swimming and spending time with his wife and their two cats.
-- image: "/uploads/Carol.png"
+- image: "/uploads/Carolyn%20Wispe%20Burns%20Pic%20-%20614A2998.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Carolyn Wispe Burns
   title: Controller
@@ -133,7 +133,8 @@ team:
     growth. She aligns with the other UCLA Bruins in the office and also studied accounting
     at CSU Northridge. Carol serves as the Treasurer of the Culver City Historical
     Society and as the President of Lev Eisha. Carolyn loves to cook, especially with
-    her adult kids, and shares her home with her CPA/husband Larry and her dog Hazel.
+    her adult kids and enjoys hanging out with her grandson and grand-dogs. She shares
+    her home with her CPA husband Larry and her dog Hazel.
 - image: "/uploads/DE%20-%20360%20Website%20Photo%20-%2002102022.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Debbie A. Evans
