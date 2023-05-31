@@ -91,20 +91,16 @@ team:
     and learning to cook new recipes."
 - image: "/uploads/fahmida.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Fahmida Rashid
+  name: Fahmida Khan
   title: Permitting Manager
   email: fahmida@three6ixty.net
   phone: "(310) 204-3500 x306"
-  bio_text: Fahmida Rashid joined three6ixty in 2021 as an Associate Permitting Manager.
-    She specializes in commercial permitting with a focus on restaurants, office,
-    and retail. Fahmida comes with nearly four years of permitting experience with
-    Permit Advisors where she provided expediting services in cities across the United
-    States, including Washington D.C., Atlanta, and Houston. Fahmida holds a Bachelor’s
-    degree in Geography from UCLA and a Master’s of Urban Planning from USC with a
-    concentration in Economic Development. Fahmida is passionate about social justice
-    and women’s rights, and loves spending time with her family, fiancee, and her
-    black cat Bruce. On a good day you can find her exploring a museum, enjoying good
-    food, or traveling.
+  bio_text: |-
+    Fahmida Khan is a Permitting Project Manager II who joined Three6ixty in 2021.  Fahmida has two plus years of experience in affordable housing, mixed- use residential, and single family residential permitting experience with the City of Los Angeles as well as County of Los Angeles.
+
+    Fahmida has six years of experience in commercial permitting in a national level. She has permitting experience in Arizona, Utah, Georgia, Washington DC, Colorado, and California.  She graduated from the University of California Los Angeles with a Bachelor of Art’s degree in Geography and a minor in Urban Regional Studies.  A subsequent Geographic Informational System (GIS) Fellowship and Planning Internship with City of Temecula led her to pursue a Master of Urban Planning degree from the University of Southern California, with a concentration in Economic Development as well as a certificate in Landscape Architecture. 
+
+    During her free time, she loves to travel and learn about different cultures. She also enjoys volunteering for The Leukemia & Lymphoma Society and Habitat for Humanity, and has hopes to volunteer for the Peace Corps someday. 
 - image: "/uploads/IMG_2844.JPG"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Markie Anderle
