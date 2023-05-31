@@ -157,6 +157,20 @@ team:
     her on our team. Debbie’s strength is in Customer Relations. She served/serves
     on many educational committees for her two school age boys. Debbie and her families
     interests are in traveling and camping.
+- image: "/uploads/Jen%20Wall%20Pic%20-%20614A2971.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Jen Wall
+  title: Office Manager
+  email: jen@three6ixty.net
+  phone: 
+  bio_text: Jen has many years of office and property management experience and brings
+    to Three6ixty a light-hearted, humorous way of running the office.  Her background
+    in accounting, leasing, and CAM reconciliation transfers to the tasks she handles
+    at Three6ixty.  Jen likes to stay in solution and believes having the right attitude
+    is half the battle.  Before joining Three6ixty she was property manager at a commercial
+    building, where she earned the title of the Swiss Army Knife of the office.  In
+    her free time Jen enjoys going new restaurants with her husband, going to Orange
+    Theory to work off those meals, and watching British crime fiction.
 layout: team
 ---
 
