@@ -15,7 +15,7 @@ team:
 - image: "/uploads/Sara%20Houghton%20Pic%20-%20614A3170.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Sara Houghton
-  title: Planning Director
+  title: Vice President of Planning and Land Use
   email: sara@three6ixty.net
   phone: "(310) 204-3500 x312"
   bio_text: "Sara Houghton, Vice President and Director of Planning and Land Use,
@@ -44,7 +44,7 @@ team:
 - image: "/uploads/Courtney%20Brown%20Pic%20-614A3222.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Courtney Brown
-  title: Senior Permitting Manager
+  title: Vice President of Permitting and Development Strategy
   email: courtney@three6ixty.net
   phone: "(310) 204-3500 x310"
   bio_text: "Courtney Brown is the Vice President of Permitting and Development Strategy
@@ -77,7 +77,7 @@ team:
 - image: "/uploads/Cassandra%20Menendez%20Pic%20-%20614A3027.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Cassandra Menendez
-  title: Permitting Manager
+  title: Permitting Project Manager
   email: cassandra@three6ixty.net
   phone: "(310) 204-3500 x309"
   bio_text: "Cassandra is an experienced Permitting Project Manager II with a strong
@@ -99,7 +99,7 @@ team:
 - image: "/uploads/Fahmida%20Kahn%20Pic%20-%20614A3044.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Fahmida Khan
-  title: Permitting Manager
+  title: Permitting Project Manager
   email: fahmida@three6ixty.net
   phone: "(310) 204-3500 x306"
   bio_text: |-
