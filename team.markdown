@@ -2,7 +2,7 @@
 title: Team
 permalink: "/team"
 team:
-- image: "/uploads/Dana%20Sayles%20Pic%20-%20614A3317.jpg"
+- image: "/uploads/Dana%20Sayles%20Pic%20-%20614A3317%20%5Bcropped%5D.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Dana Sayles
   title: Owner/Principal
