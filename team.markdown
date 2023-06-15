@@ -140,7 +140,7 @@ team:
     Specializing in commercial signage, hospitality, as well as retail tenant improvements and ground up construction, Mia is equipped with years of working with the City Of Los Angeles and multiple Los Angeles County jurisdictions.  An International Code Council member, she is currently studying International Building Code, International Zoning Code and Basic Code Enforcement with the ICC.
 
     In her free time, you will find Mia on hiking trails with her pup or planning her next camping adventure. Mia takes great pride in volunteering in her local community, and participating in gratitude for our Earth and its well-being with City trash pick-ups and composting.
-- image: "/uploads/Wendy%20Cifuentes%20Pic.jpg"
+- image: "/uploads/Wendy%20Cifuentes%20Pic-ad2485.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Wendy Cifuentes
   title: Associate Permitting Coordinator
