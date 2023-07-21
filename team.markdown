@@ -140,23 +140,6 @@ team:
     Specializing in commercial signage, hospitality, as well as retail tenant improvements and ground up construction, Mia is equipped with years of working with the City Of Los Angeles and multiple Los Angeles County jurisdictions.  An International Code Council member, she is currently studying International Building Code, International Zoning Code and Basic Code Enforcement with the ICC.
 
     In her free time, you will find Mia on hiking trails with her pup or planning her next camping adventure. Mia takes great pride in volunteering in her local community, and participating in gratitude for our Earth and its well-being with City trash pick-ups and composting.
-- image: "/uploads/Wendy%20Cifuentes%20Pic-ad2485.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Wendy Cifuentes
-  title: Associate Permitting Coordinator
-  email: wendy@three6ixty.net
-  phone: 
-  bio_text: "Wendy Cifuentes is an Associate Permitting Coordinator who joined Three6ixty
-    in 2023.  Wendy is working towards her Business Finance degree and brings 5 plus
-    years of experience working with the City of Los Angeles and Los Angeles County
-    in various permitting roles.  \nWendy’s expertise lies in affordable housing concerns,
-    SB8 submittals, processing tract and parcel maps, and clearing conditions for
-    final maps in Los Angeles County.  She is also familiar with processing permits
-    dealing with urban forestry, DWP, Bureau of Street Services and bonds.  Wendy’s
-    permitting experience is supplemented with her background in finance, including
-    budget costs, accounting, and contract negotiations.\n\nIn her free time, Wendy
-    loves to spend time with her daughters, inspiring them to successfully balance
-    work and family life.  She enjoys hiking, baking, and traveling to new destinations."
 - image: "/uploads/Carolyn%20Wispe%20Burns%20Pic%20-%20614A2998.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Carolyn Wispe Burns
