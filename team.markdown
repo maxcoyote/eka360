@@ -110,7 +110,7 @@ team:
     During her free time, she loves to travel and learn about different cultures. She also enjoys volunteering for The Leukemia & Lymphoma Society and Habitat for Humanity, and has hopes to volunteer for the Peace Corps someday. 
 - image: "/uploads/Markie%20Anderle%20Pic%20-%20614A3068.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Markie Anderle
+  name: Markie Nevill
   title: Planning Project Manager
   email: markie@three6ixty.net
   phone: "(310) 204-3500 x311"
