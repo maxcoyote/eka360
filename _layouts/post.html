@@ -8,10 +8,20 @@
     <link href="{{ '/assets/css/animate.min.css' | relative_url }}" rel="stylesheet">
     <script type="text/javascript" src="{{ '/assets/js/jarallax.js' | relative_url }}"></script>
   </head>
-  <body class="{{ page.title | downcase | replace: ' ', '_' }}">
+  <body>
     {% include header.html %}
     <div class="isolation-overlay"></div>
-    {{ content }}
+    <section id="post" class="section--post py-5">
+        <div class="container">
+            <div class="row wow fadeIn">
+                <div class="col-12 text-center">
+                    <h3 class="text-uppercase mb-4">{{ page.title }}</h3>
+                    {{ content }}
+                    <a href="mailto:info@three6ixty.net" class="btn btn-primary btn-lg mt-5">Apply Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
     {% include footer.html %}
     <script src="{{ '/assets/js/jquery-3.4.1.min.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/popper.min.js' | relative_url }}"></script>
