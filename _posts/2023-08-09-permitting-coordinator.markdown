@@ -11,9 +11,10 @@ date: 2023-08-09 16:16:00 Z
 **Three6ixty ("360")** is a land use firm providing a comprehensive range of Project Management, Planning, Outreach, and Advocacy services to our community. We specialize in complex projects including multi-family residential and mixed-use developments, creative office, food service, and hospitality projects. With offices in Culver City, three6ixty is committed to providing a new frontier of land use services to the real estate development community, property owners, public agencies, and non-profit organizations.
 
 The Permitting Coordinator candidate will be our field person, assisting the in-house permitting team with all expediting activities.
-Our ideal candidate:
-•Has working knowledge of project management tools and principles.
-•Displays strong analytical abilities, time management, negotiation, and problem-solving skills.
+
+**Our ideal candidate:**
+**•Has working knowledge of project management tools and principles.**
+**•Displays strong analytical abilities, time management, negotiation, and problem-solving skills.**
 •Demonstrates basic knowledge of budgets and finance.
 •Has basic knowledge of building construction. Ability to track and manage construction projects, subcontractors and project development participants.
 •Demonstrates both internal and external strong written and verbal communication skills.
