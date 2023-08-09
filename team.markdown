@@ -74,28 +74,6 @@ team:
     where she and her partner reside.   She can also be found in the wild watching
     a plethora of movie genres, singing karaoke, and wandering through the city looking
     for good art."
-- image: "/uploads/Cassandra%20Menendez%20Pic%20-%20614A3027.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Cassandra Menendez
-  title: Permitting Project Manager
-  email: cassandra@three6ixty.net
-  phone: "(310) 204-3500 x309"
-  bio_text: "Cassandra is an experienced Permitting Project Manager II with a strong
-    background in multi-family projects, mixed-use buildings, commercial tenant improvements,
-    and new construction for affordable housing. She brings nearly a decade of experience
-    working with the City of Los Angeles, which allows her to strategically navigate
-    complex permitting issues, assist clients, and deliver success at each step of
-    the permit process. \n\nBefore joining Three6ixty, Cassandra was a Project Manager
-    for Permit Advisors where she was responsible for overseeing projects across the
-    City of Los Angeles. She has worked on tenant improvements for The Grove, Hollywood
-    & Highland, and Westfield Century City Mall. Prior to Permit Advisors, Cassandra
-    was the Land Use and Construction Administrator at California Home Builders where
-    she assisted with entitlement and permitting submittals, and coordinated with
-    the general contractors in her responsibility to manage the construction schedule.
-    \n\nCassandra holds a Bachelor’s of Arts degree in Urban and Regional Planning
-    from California State University, Northridge. Cassandra loves to spend time surrounded
-    by nature and traveling. Outside of work, you can find her enjoying the outdoors
-    and learning to cook new recipes."
 - image: "/uploads/Fahmida%20Kahn%20Pic%20-%20614A3044.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Fahmida Khan
