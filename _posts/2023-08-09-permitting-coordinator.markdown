@@ -67,11 +67,13 @@ The Permitting Coordinator candidate will be our field person, assisting the in-
 **•Manage multiple projects at one time while providing superior customer service.
 Work Environment This position is a hybrid work environment during the COVID-19 crisis, operating as a hybrid field-based and in-office position with the ability to work remote at manager’s discretion.**
 
-**Physical Demands The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.**
-**While performing the duties of this job, the employee is regularly required to talk or hear. The employee frequently is required to stand; walk; use hands to finger, handle or feel; and reach with hands and arms.**
-**This position requires the ability to occasionally lift office products and supplies, up to 20 pounds.**
+**Physical Demands**
+
+**The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. While performing the duties of this job, the employee is regularly required to talk or hear. The employee frequently is required to stand; walk; use hands to finger, handle or feel; and reach with hands and arms. This position requires the ability to occasionally lift office products and supplies, up to 20 pounds.**
+
 **In accordance with Company policies, all employees must be fully vaccinated against the COVID-19 virus, to the extent that full vaccination is available.
 Local travel is expected for this position.**
+
 **Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.** 
 
 **To apply, please send your resume and a brief cover letter to info@three6ixty.net**
