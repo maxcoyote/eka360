@@ -3,42 +3,41 @@ title: Permitting Coordinator
 date: 2023-08-09 16:16:00 Z
 ---
 
-POSITION
-Title:
-Permitting Coordinator
-Classification:
-Non-Exempt
-Hours:
-40 per week
-Three6ixty is a land use firm providing a comprehensive range of Project Management, Planning, Outreach, and Advocacy services to our community. We specialize in complex projects including multi-family residential and mixed-use developments, creative office, food service, and hospitality projects. With offices in Culver City, three6ixty is committed to providing a new frontier of land use services to the real estate development community, property owners, public agencies, and non-profit organizations.
+
+**Title:**  Permitting Coordinator
+
+**Classification:** Non-Exempt - Hours: 40 per week
+
+**Three6ixty ("360")** is a land use firm providing a comprehensive range of Project Management, Planning, Outreach, and Advocacy services to our community. We specialize in complex projects including multi-family residential and mixed-use developments, creative office, food service, and hospitality projects. With offices in Culver City, three6ixty is committed to providing a new frontier of land use services to the real estate development community, property owners, public agencies, and non-profit organizations.
+
 The Permitting Coordinator candidate will be our field person, assisting the in-house permitting team with all expediting activities.
 Our ideal candidate:
 •Has working knowledge of project management tools and principles.
-•Displays strong analytical abilities, time management, negotiation, and problem-solvingskills.
+•Displays strong analytical abilities, time management, negotiation, and problem-solving skills.
 •Demonstrates basic knowledge of budgets and finance.
-•Has basic knowledge of building construction. Ability to track and manage constructionprojects, subcontractors and project development participants.
+•Has basic knowledge of building construction. Ability to track and manage construction projects, subcontractors and project development participants.
 •Demonstrates both internal and external strong written and verbal communication skills.
 •Has powerful and developed attention to detail.
-•Can provide personal transportation to and from company office(s) and localdestinations.
+•Can provide personal transportation to and from company office(s) and local destinations.
 •Has the ability to work independently as well as with teams.
-•Shows initiative in gaining understanding when presented with new process andprocedures.
+•Shows initiative in gaining understanding when presented with new process and procedures.
 Typical tasks include:
-•Coordination of all assigned projects’ scanning, printing and pickups from variousdepartments, printers, and client offices.
+•Coordination of all assigned projects’ scanning, printing and pickups from various departments, printers, and client offices.
 •Manages Department general emails and disseminates to appropriate project managers.
 •Create and maintain department files, both electronic and physical files.
-•Project Plan Maintenance & Retention including organizing, tracking, and performing anynecessary purging.
-•Assist project managers in, but not limited to, updating of project trackers, disseminationof project corrections from city agencies and coordination of meetings for internal andexternal groups.
-•Performs and manages drafting and executing for submittal applications for permitprocessing.
+•Project Plan Maintenance & Retention including organizing, tracking, and performing any necessary purging.
+•Assist project managers in, but not limited to, updating of project trackers, dissemination of project corrections from city agencies and coordination of meetings for internal and external groups.
+•Performs and manages drafting and executing for submittal applications for permit processing.
 •Assists and/or prepares development budgets to outline projected city fees.
 Page 2 of 2
 •Monitors time and cost schedules.
-•Meetings/research with various city departments/agencies required for project relatedservices
-•Tasks as assigned related to real estate development, policy development, organizationalbudgets, planning, and administration.
-•Ability to communicate building permit requirements to internal and external membersof the project and client’s team.
+•Meetings/research with various city departments/agencies required for project related services
+•Tasks as assigned related to real estate development, policy development, organizational budgets, planning, and administration.
+•Ability to communicate building permit requirements to internal and external members of the project and client’s team.
 •Maintain strict timelines for submittals and deadlines.
 •Attendance at and leading project meetings/participation in project conference calls
-•Interface effectively with city officials, architects, engineers, contractors and buildingowners.
-•Learn and communicate knowledge of municipality approval processes and requirementsas gained through company training.
+•Interface effectively with city officials, architects, engineers, contractors and building owners.
+•Learn and communicate knowledge of municipality approval processes and requirements as gained through company training.
 •Manage multiple projects at one time while providing superior customer service.
 Work Environment This position is a hybrid work environment during the COVID-19 crisis, operating as a hybrid field-based and in-office position with the ability to work remote at manager’s discretion.
 Physical Demands The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
