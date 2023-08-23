@@ -1,7 +1,6 @@
 ---
 title: Permitting Manager
 date: 2023-08-03 00:00:00 Z
-description: Full Time - 40 hours/week Salary Exempt Commensurate with Experience
 layout: post
 ---
 
