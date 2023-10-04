@@ -144,8 +144,8 @@ team:
     at Three6ixty.  Jen likes to stay in solution and believes having the right attitude
     is half the battle.  Before joining Three6ixty she was property manager at a commercial
     building, where she earned the title of the Swiss Army Knife of the office.  In
-    her free time Jen enjoys going new restaurants with her husband, going to Orange
-    Theory to work off those meals, and watching British crime fiction.
+    her free time Jen enjoys going new restaurants with her husband, going to the
+    gym to work off those meals, and watching British crime fiction.
 layout: team
 ---
 
