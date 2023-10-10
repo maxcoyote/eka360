@@ -68,12 +68,12 @@ team:
     other jurisdictions like City of Inglewood. \n\nPrior to starting her career in
     land use, Courtney attended Southern New Hampshire University for a bachelor’s
     degree in communication and University of Texas for an associate degree in Biology.
-    Outside of work, Courtney is warrior mom to a 15-year-old boy, a fashionista,
-    a beach princess, and self-proclaimed virtual interior designer…on her iPhone
-    and in her personal home. She enjoys engaging in the local LGBTQA organization
-    where she and her partner reside.   She can also be found in the wild watching
-    a plethora of movie genres, singing karaoke, and wandering through the city looking
-    for good art."
+    Outside of work, Courtney is an empty nest mom to a college student attending
+    California State, a fashionista, a beach princess, and self-proclaimed virtual
+    interior designer…on her iPhone and in her personal home. She enjoys engaging
+    in the local LGBTQA organization where she and her partner reside.   She can also
+    be found in the wild watching a plethora of movie genres, singing karaoke, and
+    wandering through the city looking for good art."
 - image: "/uploads/Fahmida%20Kahn%20Pic%20-%20614A3044.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Fahmida Khan
