@@ -163,6 +163,31 @@ team:
     building, where she earned the title of the Swiss Army Knife of the office.  In
     her free time Jen enjoys going new restaurants with her husband, going to the
     gym to work off those meals, and watching British crime fiction.
+- image: "/uploads/Max%20Frey%20Pic.jpg"
+  image_zoom: 
+  name: Max Frey
+  title: Planning Associate
+  email: maxf@three6ixty.net
+  phone: 
+  bio_text: Max Frey recently graduated from Loyola Marymount University in May of
+    2023 with a Bachelor of Arts Degree in Urban Studies, during which time he started
+    at Three6ixty as a Planning Intern as part of his undergraduate curriculum. Max
+    joined three6ixty full-time upon graduation as a Planning Associate I, and continues
+    to provide a broad base of support to Three6ixty’s Planning Team, and is gaining
+    exposure and experience in the world of land use planning at a rapid pace.  Previously,
+    he worked for the Hermosa Beach Chamber of Commerce organizing and working “Fiesta
+    Hermosa”, which he continues to be involved in. As an undergraduate, he worked
+    as an operations coordinator in LMU’s Event Operations department where he learned
+    management skills, participated in event planning and execution, and received
+    his forklift certification. Outside of work, Max enjoys indulging in casual gaming,
+    and planning events with his friends that may or may not happen.
+- image: 
+  image_zoom: 
+  name: 
+  title: 
+  email: 
+  phone: 
+  bio_text: 
 layout: team
 ---
 
