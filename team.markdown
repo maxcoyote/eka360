@@ -146,6 +146,23 @@ team:
     building, where she earned the title of the Swiss Army Knife of the office.  In
     her free time Jen enjoys going new restaurants with her husband, going to the
     gym to work off those meals, and watching British crime fiction.
+- image: "/uploads/Khoa%20Ho%20Pic.jpg"
+  image_zoom: 
+  name: Khoa Ho
+  title: Associate Permitting Manager
+  email: khoa@three6ixty.net
+  phone: 
+  bio_text: 'Khoa Ho joined Three6ixty as an Associate Permitting Manager in 2023.
+    With his background in the chaotic world of film permitting and in the ever-changing
+    regulatory landscape of the short-term rental industry, Khoa is passionate about
+    finding creative solutions to complex permitting problems. Prior to joining the
+    Permitting Team, Khoa worked with the City of Los Angeles and surrounding jurisdictions
+    to obtain film permits for a variety of major television shows and worked in policy
+    for a national hospitality brand. A proud UC Santa Barbara Gaucho, Khoa shares
+    an ardent love for environmentalism, sustainability, and is studying the California
+    Environmental Quality Act (CEQA). Outside of the office, Khoa can be found enjoying
+    the Los Angeles nightlife and restaurant scene. He also enjoys exploring thrift
+    shops and art exhibitions in his free time. '
 layout: team
 ---
 
