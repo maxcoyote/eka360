@@ -219,7 +219,7 @@ team:
   name: Jen Wall
   title: Office Manager
   email: jen@three6ixty.net
-  phone: 
+  phone: 310-204-3500 x303
   bio_text: Jen has many years of office and property management experience and brings
     to Three6ixty a light-hearted, humorous way of running the office.  Her background
     in accounting, leasing, and CAM reconciliation transfers to the tasks she handles
