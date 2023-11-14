@@ -135,52 +135,6 @@ team:
     Environmental Quality Act (CEQA). Outside of the office, Khoa can be found enjoying
     the Los Angeles nightlife and restaurant scene. He also enjoys exploring thrift
     shops and art exhibitions in his free time. '
-- image: "/uploads/Max%20Frey%20Pic.jpg"
-  image_zoom: 
-  name: Max Frey
-  title: Planning Associate
-  email: maxf@three6ixty.net
-  phone: 
-  bio_text: Max Frey recently graduated from Loyola Marymount University in May of
-    2023 with a Bachelor of Arts Degree in Urban Studies, during which time he started
-    at Three6ixty as a Planning Intern as part of his undergraduate curriculum. Max
-    joined three6ixty full-time upon graduation as a Planning Associate I, and continues
-    to provide a broad base of support to Three6ixty’s Planning Team, and is gaining
-    exposure and experience in the world of land use planning at a rapid pace.  Previously,
-    he worked for the Hermosa Beach Chamber of Commerce organizing and working “Fiesta
-    Hermosa”, which he continues to be involved in. As an undergraduate, he worked
-    as an operations coordinator in LMU’s Event Operations department where he learned
-    management skills, participated in event planning and execution, and received
-    his forklift certification. Outside of work, Max enjoys indulging in casual gaming,
-    and planning events with his friends that may or may not happen.
-- image: "/uploads/Carolyn%20Wispe%20Burns%20Pic%20-%20614A2998.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Carolyn Wispe Burns
-  title: Controller
-  email: carolyn@three6ixty.net
-  phone: "(310) 204-3500 x302"
-  bio_text: Carolyn Wispe Burns is three6ixty’s Controller and has been with the firm
-    since 2014. Carol has had a bookkeeping practice for over 30 years in the Culver
-    City community and has enjoyed working with Dana to achieve the company’s dynamic
-    growth. She aligns with the other UCLA Bruins in the office and also studied accounting
-    at CSU Northridge. Carol serves as the Treasurer of the Culver City Historical
-    Society and as the President of Lev Eisha. Carolyn loves to cook, especially with
-    her adult kids and enjoys hanging out with her grandson and grand-dogs. She shares
-    her home with her CPA husband Larry and her dog Hazel.
-- image: "/uploads/Jen%20Wall%20Pic%20-%20614A2971.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Jen Wall
-  title: Office Manager
-  email: jen@three6ixty.net
-  phone: 
-  bio_text: Jen has many years of office and property management experience and brings
-    to Three6ixty a light-hearted, humorous way of running the office.  Her background
-    in accounting, leasing, and CAM reconciliation transfers to the tasks she handles
-    at Three6ixty.  Jen likes to stay in solution and believes having the right attitude
-    is half the battle.  Before joining Three6ixty she was property manager at a commercial
-    building, where she earned the title of the Swiss Army Knife of the office.  In
-    her free time Jen enjoys going new restaurants with her husband, going to the
-    gym to work off those meals, and watching British crime fiction.
 - image: "/uploads/Myca%20Tran%20Pic.jpg"
   image_zoom: 
   name: Myca Tran
@@ -228,6 +182,52 @@ team:
     \nIn her spare time, she serves on the board of Flat Tire Theatre Company, a young
     LA-based theatre company, and is a member of the Leadership Council for the Downtown
     Women’s Center.\n"
+- image: "/uploads/Max%20Frey%20Pic.jpg"
+  image_zoom: 
+  name: Max Frey
+  title: Planning Associate
+  email: maxf@three6ixty.net
+  phone: 
+  bio_text: Max Frey recently graduated from Loyola Marymount University in May of
+    2023 with a Bachelor of Arts Degree in Urban Studies, during which time he started
+    at Three6ixty as a Planning Intern as part of his undergraduate curriculum. Max
+    joined three6ixty full-time upon graduation as a Planning Associate I, and continues
+    to provide a broad base of support to Three6ixty’s Planning Team, and is gaining
+    exposure and experience in the world of land use planning at a rapid pace.  Previously,
+    he worked for the Hermosa Beach Chamber of Commerce organizing and working “Fiesta
+    Hermosa”, which he continues to be involved in. As an undergraduate, he worked
+    as an operations coordinator in LMU’s Event Operations department where he learned
+    management skills, participated in event planning and execution, and received
+    his forklift certification. Outside of work, Max enjoys indulging in casual gaming,
+    and planning events with his friends that may or may not happen.
+- image: "/uploads/Carolyn%20Wispe%20Burns%20Pic%20-%20614A2998.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Carolyn Wispe Burns
+  title: Controller
+  email: carolyn@three6ixty.net
+  phone: "(310) 204-3500 x302"
+  bio_text: Carolyn Wispe Burns is three6ixty’s Controller and has been with the firm
+    since 2014. Carol has had a bookkeeping practice for over 30 years in the Culver
+    City community and has enjoyed working with Dana to achieve the company’s dynamic
+    growth. She aligns with the other UCLA Bruins in the office and also studied accounting
+    at CSU Northridge. Carol serves as the Treasurer of the Culver City Historical
+    Society and as the President of Lev Eisha. Carolyn loves to cook, especially with
+    her adult kids and enjoys hanging out with her grandson and grand-dogs. She shares
+    her home with her CPA husband Larry and her dog Hazel.
+- image: "/uploads/Jen%20Wall%20Pic%20-%20614A2971.jpg"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Jen Wall
+  title: Office Manager
+  email: jen@three6ixty.net
+  phone: 
+  bio_text: Jen has many years of office and property management experience and brings
+    to Three6ixty a light-hearted, humorous way of running the office.  Her background
+    in accounting, leasing, and CAM reconciliation transfers to the tasks she handles
+    at Three6ixty.  Jen likes to stay in solution and believes having the right attitude
+    is half the battle.  Before joining Three6ixty she was property manager at a commercial
+    building, where she earned the title of the Swiss Army Knife of the office.  In
+    her free time Jen enjoys going new restaurants with her husband, going to the
+    gym to work off those meals, and watching British crime fiction.
 layout: team
 ---
 
