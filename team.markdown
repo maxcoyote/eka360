@@ -181,13 +181,53 @@ team:
     building, where she earned the title of the Swiss Army Knife of the office.  In
     her free time Jen enjoys going new restaurants with her husband, going to the
     gym to work off those meals, and watching British crime fiction.
-- image: 
+- image: "/uploads/Myca%20Tran%20Pic.jpg"
   image_zoom: 
-  name: 
-  title: 
-  email: 
+  name: Myca Tran
+  title: Planning Project Manager
+  email: myca@three6ixty.net
   phone: 
-  bio_text: 
+  bio_text: 'Myca Tran is a Planning Project Manager with a strong background in strategically
+    navigating land use entitlement processes, conducting community outreach, and
+    analyzing statewide policies. With over 10 years of experience in project management,
+    Myca’s career has spanned from overseeing non-profit initiatives to planning consulting
+    to operating a multi-unit restaurant chain. Prior to joining three6ixty in 2023,
+    Myca successfully represented numerous food and hospitality industry clients at
+    public hearings as a Senior Urban Planner for Art Rodriguez Associates. Myca holds
+    Master’s degrees in both Planning (MPL) and Public Administration (MPA) from USC,
+    where she received an American Planning Association award for her programmatic
+    work for the Associated Students of Planning and Development organization. She
+    also received her Bachelor’s in International Development Studies with a minor
+    in Environmental Studies from UCLA, where she traveled abroad in Costa Rica and
+    Switzerland. Myca enjoys discovering new eateries with her husband, playing fetch
+    with her puppy, hiking throughout LA, and pursuing creative ventures.  '
+- image: "/uploads/Paige%20Brown%20Pic.jpg"
+  image_zoom: 
+  name: Paige Brown
+  title: Project Outreach Coordinator
+  email: paige@three6ixt.net
+  phone: 
+  bio_text: "Paige Brown joined three6ixty in 2023 as a Project Outreach Coordinator,
+    and is a highly skilled professional specializing in strategic communications,
+    outreach, and government consultation. With dual degrees from the University of
+    Texas at Austin, she brings a critical understanding of advocacy and policy impact
+    on community mobilization. Paige's work targets collaboration with community stakeholders,
+    City agencies, local advocates, and community partners to facilitate collaboration
+    around local changing policies.\n \nHer expertise also encompasses land use. Her
+    knowledge has supported the successful development of affordable housing and commercial
+    institutions throughout the City of LA before and following Mayor Karen Bass's
+    Executive Directive. She is well-versed in the intricacies of the development
+    process and has collaborated with various agencies across Los Angeles County.\n
+    \nIn 2019, Paige became the Founder and CEO of PMBC (Paige M. Brown Consulting).
+    In this role, she focused her strategic guidance on cannabis licensing, assisting
+    clients in navigating a dynamic regulatory landscape with controversial historical
+    origins and collaborating with industry stakeholders for effective local policy
+    creation and critique in Los Angeles County. From 2018 to the present, Paige has
+    been an enthusiastic partner to Three6ixty on any development project requiring
+    that unique mix of critical community engagement and policy understanding. \n
+    \nIn her spare time, she serves on the board of Flat Tire Theatre Company, a young
+    LA-based theatre company, and is a member of the Leadership Council for the Downtown
+    Women’s Center.\n"
 layout: team
 ---
 
