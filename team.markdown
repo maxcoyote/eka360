@@ -74,7 +74,7 @@ team:
     in the local LGBTQA organization where she and her partner reside.   She can also
     be found in the wild watching a plethora of movie genres, singing karaoke, and
     wandering through the city looking for good art."
-- image: "/uploads/Fahmida%20Kahn%20Pic%20%232.jpg"
+- image: "/uploads/Fahmida%20Kahn%20Pic%20%232-256df6.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Fahmida Khan
   title: Permitting Project Manager
