@@ -111,7 +111,7 @@ team:
   name: Mia Rondone
   title: Permitting Project Manager
   email: mia@three6ixty.net
-  phone: 
+  phone: "(310) 204-3500 x307"
   bio_text: |-
     Mia Rondone joins three6ixty as Permitting Project Manager with over 6 years of permitting and property development experience, overseeing large commercial and residential building projects across the country, as well as exclusive permit expediting for a major restaurant chain development.
 
@@ -123,7 +123,7 @@ team:
   name: Khoa Ho
   title: Associate Permitting Manager
   email: khoa@three6ixty.net
-  phone: 
+  phone: "(310) 204-3500 x305"
   bio_text: 'Khoa Ho joined Three6ixty as an Associate Permitting Manager in 2023.
     With his background in the chaotic world of film permitting and in the ever-changing
     regulatory landscape of the short-term rental industry, Khoa is passionate about
@@ -140,7 +140,7 @@ team:
   name: Myca Tran
   title: Planning Project Manager
   email: myca@three6ixty.net
-  phone: 
+  phone: "(310) 204-3500 x309"
   bio_text: 'Myca Tran is a Planning Project Manager with a strong background in strategically
     navigating land use entitlement processes, conducting community outreach, and
     analyzing statewide policies. With over 10 years of experience in project management,
@@ -159,8 +159,8 @@ team:
   image_zoom: 
   name: Paige Brown
   title: Project Outreach Coordinator
-  email: paige@three6ixt.net
-  phone: 
+  email: paige@three6ixty.net
+  phone: "(310) 204-3500 x308"
   bio_text: "Paige Brown joined three6ixty in 2023 as a Project Outreach Coordinator,
     and is a highly skilled professional specializing in strategic communications,
     outreach, and government consultation. With dual degrees from the University of
@@ -187,7 +187,7 @@ team:
   name: Max Frey
   title: Planning Associate
   email: maxf@three6ixty.net
-  phone: 
+  phone: "(310) 204-3500 x304"
   bio_text: Max Frey recently graduated from Loyola Marymount University in May of
     2023 with a Bachelor of Arts Degree in Urban Studies, during which time he started
     at Three6ixty as a Planning Intern as part of his undergraduate curriculum. Max
