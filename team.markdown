@@ -135,7 +135,7 @@ team:
     Environmental Quality Act (CEQA). Outside of the office, Khoa can be found enjoying
     the Los Angeles nightlife and restaurant scene. He also enjoys exploring thrift
     shops and art exhibitions in his free time. '
-- image: "/uploads/Myca%20Tran%20Pic.jpg"
+- image: "/uploads/Myca%20Tran%20Pic%20%232.jpg"
   image_zoom: 
   name: Myca Tran
   title: Planning Project Manager
