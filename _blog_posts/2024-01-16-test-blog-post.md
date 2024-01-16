@@ -2,7 +2,7 @@
 title: Test Blog Post
 date: 2024-01-16 00:00:00 Z
 description: This is a test blog post.
-featured_image: "/uploads/20_639_La_Brea-813de0.jpg"
+featured_image: 
 layout: blog_post
 ---
 
