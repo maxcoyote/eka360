@@ -10,7 +10,7 @@
 // Defaults
 body {
   -webkit-font-smoothing: antialiased;
-  &.services, &.join_the_team {
+  &.services, &.join_the_team, &.media_page {
     section {
       h1, h2, h3, h4, h5, h6, p { margin-bottom: 2rem; }
       ul {
