@@ -8,7 +8,7 @@
     <link href="{{ '/assets/css/animate.min.css' | relative_url }}" rel="stylesheet">
     <script type="text/javascript" src="{{ '/assets/js/jarallax.js' | relative_url }}"></script>
   </head>
-  <body class="{{ page.title | downcase | replace: ' ', '_' }}">
+  <body class="{% unless page.title == "Media" %}{{ page.title | downcase | replace: ' ', '_' }}{% else %}media_page{% endunless %}">
     {% include header.html %}
     <div class="isolation-overlay"></div>
     {{ content }}
