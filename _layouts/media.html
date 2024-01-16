@@ -14,7 +14,7 @@ layout: default
                 {% if blog_post.featured_image %}
                 <img src="{{ blog_post.featured_image }}" alt="{{ blog_post.title }}" width="300" height="auto" class="mw-100 d-block mx-auto mb-4 featured-image">
                 {% else %}
-                <img src="{{ '/assets/img/placeholder.png' | relative_url }}" alt="{{ blog_post.title }}" width="300" height="auto" class="mw-100 d-block mx-auto mb-4" class="featured-image">
+                <img src="{{ '/assets/img/placeholder.png' | relative_url }}" alt="{{ blog_post.title }}" width="300" height="auto" class="mw-100 d-block mx-auto mb-4 featured-image">
                 {% endif %}
                 <a href="{{ blog_post.url }}">{{ blog_post.title }}</a>
                 {% if blog_post.description %}<p class="small text-muted mb-4">{{ blog_post.description }}</p>{% endif %}
