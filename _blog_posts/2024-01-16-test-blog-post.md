@@ -1,5 +1,6 @@
 ---
 title: Test Blog Post
+date: 2024-01-16 00:00:00 Z
 layout: blog_post
 description: This is a test blog post.
 ---
