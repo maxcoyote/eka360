@@ -1,0 +1,28 @@
+---
+title: media
+layout: default
+---
+
+<section id="media" class="section--media py-5">
+    <div class="container">
+      <div class="row wow fadeIn">
+        <div class="col-12 text-center">
+            <h3 class="text-uppercase mb-4">{{ page.title }}</h3>
+            <ul>
+            {% for blog_post in site.blog_posts %}
+            <li>
+                {% if blog_post.featured_image %}
+                <img src="{{ blog_post.featured_image }}" alt="{{ blog_post.title }}" width="300" height="auto" class="mw-100 d-block mx-auto mb-4 featured-image">
+                {% else %}
+                <img src="{{ '/assets/img/placeholder.png' | relative_url }}" alt="{{ blog_post.title }}" width="300" height="auto" class="mw-100 d-block mx-auto mb-4 featured-image">
+                {% endif %}
+                <a href="{{ blog_post.url }}">{{ blog_post.title }}</a>
+                {% if blog_post.description %}<p class="small text-muted mb-4">{{ blog_post.description }}</p>{% endif %}
+                <a href="{{ blog_post.url }}" class="btn btn-primary btn-sm">Read more</a>
+            </li>
+            {% endfor %}
+            </ul>
+        </div>
+      </div>
+    </div>
+</section>
