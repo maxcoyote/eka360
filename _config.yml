@@ -5,6 +5,7 @@ collections:
   blog_posts:
     title: Blog_Posts
     output: true
+    permalink: "/media/:year-:month-:day-:title.html"
   posts:
     title: Posts
     output: true
