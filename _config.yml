@@ -2,6 +2,9 @@
 title: three6ixty
 timezone: UTC
 collections:
+  blog_posts:
+    title: Blog_Posts
+    output: true
   posts:
     title: Posts
     output: true
