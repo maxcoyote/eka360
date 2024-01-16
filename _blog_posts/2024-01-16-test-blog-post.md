@@ -1,8 +1,9 @@
 ---
 title: Test Blog Post
 date: 2024-01-16 00:00:00 Z
-layout: blog_post
 description: This is a test blog post.
+featured_image: "/uploads/20_639_La_Brea-813de0.jpg"
+layout: blog_post
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet libero nunc. Ut vestibulum iaculis luctus. Ut et suscipit dolor. Suspendisse ultricies ante ullamcorper, venenatis ipsum non, vehicula ligula. Proin non eleifend odio. Proin ut mi non orci pretium lacinia eu eu dolor. Fusce nec rutrum sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus diam eget metus ultricies pellentesque. Vestibulum molestie, nunc id suscipit semper, metus magna lobortis est, sed suscipit nunc risus ut felis.
