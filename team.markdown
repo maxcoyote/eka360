@@ -155,33 +155,6 @@ team:
     in Environmental Studies from UCLA, where she traveled abroad in Costa Rica and
     Switzerland. Myca enjoys discovering new eateries with her husband, playing fetch
     with her puppy, hiking throughout LA, and pursuing creative ventures.  '
-- image: "/uploads/Paige%20Brown%20Pic.jpg"
-  image_zoom: 
-  name: Paige Brown
-  title: Project Outreach Coordinator
-  email: paige@three6ixty.net
-  phone: "(310) 204-3500 x308"
-  bio_text: "Paige Brown joined three6ixty in 2023 as a Project Outreach Coordinator,
-    and is a highly skilled professional specializing in strategic communications,
-    outreach, and government consultation. With dual degrees from the University of
-    Texas at Austin, she brings a critical understanding of advocacy and policy impact
-    on community mobilization. Paige's work targets collaboration with community stakeholders,
-    City agencies, local advocates, and community partners to facilitate collaboration
-    around local changing policies.\n \nHer expertise also encompasses land use. Her
-    knowledge has supported the successful development of affordable housing and commercial
-    institutions throughout the City of LA before and following Mayor Karen Bass's
-    Executive Directive. She is well-versed in the intricacies of the development
-    process and has collaborated with various agencies across Los Angeles County.\n
-    \nIn 2019, Paige became the Founder and CEO of PMBC (Paige M. Brown Consulting).
-    In this role, she focused her strategic guidance on cannabis licensing, assisting
-    clients in navigating a dynamic regulatory landscape with controversial historical
-    origins and collaborating with industry stakeholders for effective local policy
-    creation and critique in Los Angeles County. From 2018 to the present, Paige has
-    been an enthusiastic partner to Three6ixty on any development project requiring
-    that unique mix of critical community engagement and policy understanding. \n
-    \nIn her spare time, she serves on the board of Flat Tire Theatre Company, a young
-    LA-based theatre company, and is a member of the Leadership Council for the Downtown
-    Women’s Center.\n"
 - image: "/uploads/Max%20Frey%20Pic.jpg"
   image_zoom: 
   name: Max Frey
