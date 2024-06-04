@@ -58,7 +58,7 @@ The **Director of Permitting/Senior Permitting Manager** is responsible for the 
 <li>Familiarity with multiples software programs:  Microsoft Office Suite (Word, Excel, Teams), Smartsheet/Microsoft Project, Bluebeam.
 <li>Accounts receivable and contract management including collections.
 <li>Additional responsibilities may be assigned as needed to meet company and business needs.</li>
-</ul>
+
 
 **Physical Demands**
 
