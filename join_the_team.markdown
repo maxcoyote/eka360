@@ -22,6 +22,7 @@ The Director of Permitting/Senior Permitting Manager is responsible for leading 
 The Director of Permitting/Senior Permitting Manager is responsible for the tasks below however other projects and/or responsibilities may develop out of company needs: 
 
 Project & Client Management Duties 
+
 	Manage pre-plan check coordination with the design team to ensure smooth initiation of the plan check process. 
 	Ability to communicate building permit requirements to internal and external members of the project and client’s team. 
 	Establish Permitting and Development Fee budgets to outline permitting and related fees for clients’ use.
@@ -42,6 +43,7 @@ Project & Client Management Duties
 	Other project-related activities as required/necessary for each project. 
 
 Company Management Responsibilities
+
 	Business development activities necessary to build new client relationships including preparation of proposals, RFP responses and similar.
 	Identify and participate in professional development activities targeted towards specific areas of business or industry to build personal and professional knowledge base. 
 	Maintain relationships with clients, partners and other stakeholders.
@@ -53,7 +55,8 @@ Company Management Responsibilities
 	Participate in the hiring process, as applicable, through assistance with job posting, recruitment events, interviews, etc.
 	Familiarity with multiples software programs:  Microsoft Office Suite (Word, Excel, Teams), Smartsheet/Microsoft Project, Bluebeam.
 	Accounts receivable and contract management including collections.
-	Additional responsibilities may be assigned as needed to meet company and business needs.  
+	Additional responsibilities may be assigned as needed to meet company and business needs. 
+ 
 Physical Demands
 The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. While performing the duties of this job, the employee is regularly required to talk or hear. The employee frequently is required to stand; walk; use hands to finger, handle or feel; and reach with hands and arms. This position requires the ability to occasionally lift and transport building plans and documentation, up to 20 pounds.
 In accordance with Company policies, all employees must be fully vaccinated against the COVID-19 virus, to the extent that full vaccination is available.
@@ -63,4 +66,5 @@ Candidate must be local to Los Angeles.
 Local travel is expected for this position.
 
 Other Duties
+
 Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice. 
