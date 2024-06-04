@@ -73,6 +73,7 @@ Local travel is expected for this position.
 
 **Other Duties**
 
+<ul>
 Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
 
 To apply, please send your resume and a brief cover letter to <a href="mailto:info@three6ixty.net">**info@three6ixty.net**</a>
