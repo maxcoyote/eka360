@@ -62,6 +62,7 @@ The **Director of Permitting/Senior Permitting Manager** is responsible for the 
 
 **Physical Demands**
 
+<ul>
 The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. While performing the duties of this job, the employee is regularly required to talk or hear. The employee frequently is required to stand; walk; use hands to finger, handle or feel; and reach with hands and arms. This position requires the ability to occasionally lift office products and supplies, up to 20 pounds.
 
 In accordance with Company policies, all employees must be fully vaccinated against the COVID- 19 virus, to the extent that full vaccination is available.
