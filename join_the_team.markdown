@@ -11,7 +11,7 @@ Billable Hours:     Avg. 32 hours per week
 Reports to:         Dana Sayles, Managing Member
 Sara Houghton, Vice President of Planning and Land Use
 
-Salary Range:   $100,000\+ (DOQ)
+Salary Range:   $90,000+ (DOQ)
 
 Three6ixty (“360”) is a land use consulting firm providing a comprehensive range of Project
 Management, Planning, Permitting, Outreach, and Advocacy services to our community. We specialize in complex projects including multi-family residential and mixed-use developments, creative office, food service, and hospitality projects. With offices in Culver City, 360 is committed to providing a new frontier of land use services to the real estate development community, property owners, public agencies, and non-profit organizations.
