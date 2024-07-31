@@ -168,6 +168,13 @@ team:
     building, where she earned the title of the Swiss Army Knife of the office.  In
     her free time Jen enjoys going new restaurants with her husband, going to the
     gym to work off those meals, and watching British crime fiction.
+- image: "/uploads/Mandi%20Ojeda%20headshot.jpg"
+  image_zoom: 
+  name: Mandi Ojeda
+  title: Associate P
+  email: 
+  phone: 
+  bio_text: 
 layout: team
 ---
 
