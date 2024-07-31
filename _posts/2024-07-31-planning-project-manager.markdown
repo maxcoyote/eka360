@@ -1,7 +1,6 @@
 ---
-title: Join the Team
-permalink: "/join_the_team.html"
-layout: join_the_team
+title: Planning Project Manager
+date: 2024-07-31 22:08:00 Z
 ---
 
 **Title:          Planning Project Manager**
@@ -80,4 +79,3 @@ The physical demands described here are representative of those that must be met
 Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice. 
 
 To apply, please send your resume and a brief cover letter to **planning@three6ixty.net**
-
