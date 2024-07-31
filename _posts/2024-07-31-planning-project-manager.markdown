@@ -19,7 +19,7 @@ The **Planning Project Manager** will lead various land use entitlement services
 The **Planning Project Manager** will have 3 to 5 years of professional experience and will be responsible for the preparation and processing of land use and building permit applications, as well as related documents, submitted to the City of Los Angeles and other jurisdictions as needed.  Other responsibilities may include, but not be limited to: project research and analysis, site visits, and, attendance and participation at client, city and community meetings.
 
 
-Typical Job Functions
+**Typical Job Functions**
 
 ·	Performs and manages complex and sensitive professional planning projects, research, and analysis.
 ·	Monitors and ensures project compliance with applicable zoning and code requirements
@@ -40,7 +40,7 @@ Typical Job Functions
 ·	Learn and communicate knowledge of municipality approval processes and requirements as gained through company training
 
 
-Typical Job Knowledge
+**Typical Job Knowledge**
 
 ·	Thorough knowledge of urban planning and development and local government policies and procedures
 ·	Thorough knowledge of planning specializations such as zoning, subdivision, environmental review, housing, historic preservation, and economic development
@@ -53,7 +53,7 @@ Typical Job Knowledge
 ·	Research/track/report on City policy/code initiatives
 
 
-Typical Critical Skills
+**Typical Critical Skills**
 
 ·	Must be innovative, detail-oriented, and experienced in highly visible/controversial projects
 ·	Capable of managing multiple, high-priority assignments
