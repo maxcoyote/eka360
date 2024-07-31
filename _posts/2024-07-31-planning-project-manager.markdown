@@ -21,50 +21,52 @@ The **Planning Project Manager** will have 3 to 5 years of professional experien
 
 Typical Job Functions
 
-   Performs and manages complex and sensitive professional planning projects, research, and analysis
-   Monitors and ensures project compliance with applicable zoning and code requirements
-   Oversees specialized planning functions for 360 and its client’s development projects, entitlements, environmental studies, and permits
-   Provides overall project management of 360 project-related issues, including 
-building budgets and schedules
-   Advises 360 principals/clients on all project-related processing matters
-   Prepares project applications/reports/memoranda and transmittals
-   Performs comprehensive project due diligence and entitlement research services
-   Coordination of community outreach meetings, materials, activities, etc.
-   Preparation and presentation of projects to various councils, boards, commissions, and elected officials
-   Tasks as assigned related to real estate development, policy development, organizational budgets, planning, and administration
-   Attendance at and lead project meetings/participation in project conference calls
-   Meetings/research with various city departments/agencies required for project related services, including non-planning department agencies.
-   Public presentation to neighborhood councils and/or local community groups
-   Interface effectively with city officials, architects, engineers, contractors and building owners, traffic and CEQA consultants on behalf of clients to advocate for project(s)
-   Ability to communicate building permit requirements to internal and external members of the project and client’s team, including attendance in plan check meetings or similar
-   Maintain strict timelines for submittals and deadlines for project items, including management of 3rd party consultant deadlines necessary for project advancement
-   Learn and communicate knowledge of municipality approval processes and requirements as gained through company training
+·	Performs and manages complex and sensitive professional planning projects, research, and analysis.
+·	Monitors and ensures project compliance with applicable zoning and code requirements
+·	Oversees specialized planning functions for 360 and its client’s development projects, entitlements, environmental studies, and permits
+·	Provides overall project management of 360 project-related issues, including building budgets and schedules
+·	Advises 360 principals/clients on all project-related processing matters
+·	Prepares project applications/reports/memoranda and transmittals
+·	Performs comprehensive project due diligence and entitlement research services
+·	Coordination of community outreach meetings, materials, activities, etc.
+·	Preparation and presentation of projects to various councils, boards, commissions, and elected officials
+·	Tasks as assigned related to real estate development, policy development, organizational budgets, planning, and administration.
+·	Attendance at and lead project meetings/participation in project conference calls
+·	Meetings/research with various city departments/agencies required for project related services, including non-planning department agencies.
+·	Public presentation to neighborhood councils and/or local community groups
+·	Interface effectively with city officials, architects, engineers, contractors and building owners, traffic and CEQA consultants on behalf of clients to advocate for project(s)
+·	Ability to communicate building permit requirements to internal and external members of the project and client’s team, including attendance in plan check meetings or similar
+·	Maintain strict timelines for submittals and deadlines for project items, including management of 3rd party consultant deadlines necessary for project advancement
+·	Learn and communicate knowledge of municipality approval processes and requirements as gained through company training
+
 
 Typical Job Knowledge
 
-   Thorough knowledge of urban planning and development and local government policies and procedures
-   Thorough knowledge of planning specializations such as zoning, subdivision, environmental review, housing, historic preservation, and economic development
-   Research methods and statistical principles related to urban growth and development
-   Methods and techniques of effective application submittal, technical report preparation, and project presentation
-   Has basic or advanced skills in visual communications (i.e. digital presentations and other outreach materials)
-   Pertinent local zoning laws, codes and regulations, including recent changes
-   Recent developments, current literature and sources of information related to municipal planning and administration
-   Citizen involvement techniques and processes
-   Research/track/report on City policy/code initiatives
+·	Thorough knowledge of urban planning and development and local government policies and procedures
+·	Thorough knowledge of planning specializations such as zoning, subdivision, environmental review, housing, historic preservation, and economic development
+·	Research methods and statistical principles related to urban growth and development
+·	Methods and techniques of effective application submittal, technical report preparation, and project presentation
+·	Has basic or advanced skills in visual communications (i.e. digital presentations and other outreach materials)
+·	Pertinent local zoning laws, codes and regulations, including recent changes
+·	Recent developments, current literature and sources of information related to municipal planning and administration
+·	Citizen involvement techniques and processes
+·	Research/track/report on City policy/code initiatives
+
 
 Typical Critical Skills
 
-   Must be innovative, detail-oriented, and experienced in highly visible/controversial projects
-   Capable of managing multiple, high-priority assignments
-   Strong interpersonal skills to develop good working relationships at various levels and to resolve complaints
-   Strong analytical skills to interpret research data for reports and apply techniques in practical situations
-   Effective and persuasive communication skills, both oral and written
-   Reading comprehension to understand technical and legal materials
-   Ability to work on several projects or issues simultaneously
-   Ability to provide effective project and team management
-   Ability to manage projects effectively and meet firm deadlines
-   May train and/or manage between 1-3 staff; prior management experience is encouraged
-   Must be flexible and in person
+·	Must be innovative, detail-oriented, and experienced in highly visible/controversial projects
+·	Capable of managing multiple, high-priority assignments
+·	Strong interpersonal skills to develop good working relationships at various levels and to resolve complaints
+·	Strong analytical skills to interpret research data for reports and apply techniques in practical situations
+·	Effective and persuasive communication skills, both oral and written
+·	Reading comprehension to understand technical and legal materials
+·	Ability to work on several projects or issues simultaneously
+·	Ability to provide effective project and team management
+·	Ability to manage projects effectively and meet firm deadlines
+·	May train and/or manage between 1-3 staff; prior management experience is encouraged
+·	Must be flexible and in person
+
 
 
 **Travel**
