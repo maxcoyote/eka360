@@ -1,7 +1,6 @@
 ---
 title: Join the Team
 permalink: "/join_the_team.html"
-published: false
 layout: join_the_team
 ---
 
