@@ -122,6 +122,22 @@ team:
     in Environmental Studies from UCLA, where she traveled abroad in Costa Rica and
     Switzerland. Myca enjoys discovering new eateries with her husband, playing fetch
     with her puppy, hiking throughout LA, and pursuing creative ventures.  '
+- image: "/uploads/Mandi%20Ojeda%20headshot.jpg"
+  image_zoom: 
+  name: Mandi Ojeda
+  title: Associate Planning Manager
+  email: mandi@three6ixty.net
+  phone: 310-204-3500 x308
+  bio_text: 'Mandi Ojeda is an Associate Planning Manager who recently joined three6ixty
+    after her graduation from USC in May 2024 with her Master’s in Urban Planning.
+    She holds a Bachelor’s of Science in Engineering Physics from Fordham University
+    in New York City, where she graduated with top honors and received the Martin
+    King Memorial Reward in Engineering Physics for innovative thinking and leadership.
+    During her time at Fordham, she developed a strong foundation in analytical problem
+    solving, and began her journey in entitlement processing as an intern with three6ixty
+    during graduate school, where she gained experience in land use planning. Outside
+    of work, Mandi loves to spend her time exploring the Los Angeles music scene,
+    cooking new cuisines for her weekly dinner parties, and practicing her pool game.  '
 - image: "/uploads/Max%20Frey%20Pic.jpg"
   image_zoom: 
   name: Max Frey
@@ -168,13 +184,6 @@ team:
     building, where she earned the title of the Swiss Army Knife of the office.  In
     her free time Jen enjoys going new restaurants with her husband, going to the
     gym to work off those meals, and watching British crime fiction.
-- image: "/uploads/Mandi%20Ojeda%20headshot.jpg"
-  image_zoom: 
-  name: Mandi Ojeda
-  title: Associate P
-  email: 
-  phone: 
-  bio_text: 
 layout: team
 ---
 
