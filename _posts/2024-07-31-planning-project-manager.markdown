@@ -10,6 +10,7 @@ Classification:     Exempt
 Hours:          40 per week
 
 Billable Hours:     Avg. 32 hours per week
+
 Reports to:         Dana Sayles, Managing Member and Sara Houghton, Senior Vice President 
 
 **Salary Range:   $75,000+ (DOQ)**
