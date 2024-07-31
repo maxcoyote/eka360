@@ -4,11 +4,13 @@ date: 2024-07-31 22:08:00 Z
 ---
 
 **Title:          Planning Project Manager**
+
 Classification:     Exempt
+
 Hours:          40 per week
+
 Billable Hours:     Avg. 32 hours per week
-Reports to:         Dana Sayles, Managing Member
-Sara Houghton, Senior Vice President 
+Reports to:         Dana Sayles, Managing Member and Sara Houghton, Senior Vice President 
 
 **Salary Range:   $75,000+ (DOQ)**
 
