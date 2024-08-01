@@ -21,7 +21,7 @@ The **Planning Project Manager** will lead various land use entitlement services
 
 The **Planning Project Manager** will have 3 to 5 years of professional experience and will be responsible for the preparation and processing of land use and building permit applications, as well as related documents, submitted to the City of Los Angeles and other jurisdictions as needed.  Other responsibilities may include, but not be limited to: project research and analysis, site visits, and, attendance and participation at client, city and community meetings.
 
-**Typical Job Functions**
+*Typical Job Functions*
 
 * Performs and manages complex and sensitive professional planning projects, research, and analysis.
 
@@ -57,7 +57,7 @@ The **Planning Project Manager** will have 3 to 5 years of professional experien
 
 * Learn and communicate knowledge of municipality approval processes and requirements as gained through company training
 
-**Typical Job Knowledge**
+*Typical Job Knowledge*
 
 * Thorough knowledge of urban planning and development and local government policies and procedures
 
@@ -70,7 +70,7 @@ The **Planning Project Manager** will have 3 to 5 years of professional experien
 * Has basic or advanced skills in visual communications (i.e. digital presentations and other outreach materials)
 
 * Pertinent local zoning laws, codes and regulations, including recent changes
-  
+
 
 * Recent developments, current literature and sources of information related to municipal planning and administration
 
@@ -78,7 +78,7 @@ The **Planning Project Manager** will have 3 to 5 years of professional experien
 
 * Research/track/report on City policy/code initiatives
 
-**Typical Critical Skills**
+*Typical Critical Skills*
 
 * Must be innovative, detail-oriented, and experienced in highly visible/controversial projects
 
@@ -111,6 +111,7 @@ The physical demands described here are representative of those that must be met
 **Candidates must be local to the Los Angeles area.**
 
 **Other Duties**
+
 Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
 
 To apply, please send your resume and a brief cover letter to **planning@three6ixty.net**
