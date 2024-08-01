@@ -17,6 +17,8 @@ Reports to:         Dana Sayles, Managing Member and Sara Houghton, Senior Vice 
 
 **Three6ixty (“360”)** is a land use consulting firm providing a comprehensive range of Project Management, Planning, Permitting, Outreach, and Advocacy services to our community. We specialize in complex projects including multi-family residential and mixed-use developments, creative office, food service, and hospitality projects. With offices in Culver City, 360 is committed to providing a new frontier of land use services to the real estate development community, property owners, public agencies, and non-profit organizations.
 
+<hr />
+
 The **Planning Project Manager** will lead various land use entitlement services, community outreach, project permitting activities, and participation in general office administration; and agrees to perform work for 360 to serve on its projects and provide office support services, as needed.
 
 The **Planning Project Manager** will have 3 to 5 years of professional experience and will be responsible for the preparation and processing of land use and building permit applications, as well as related documents, submitted to the City of Los Angeles and other jurisdictions as needed.  Other responsibilities may include, but not be limited to: project research and analysis, site visits, and, attendance and participation at client, city and community meetings.
