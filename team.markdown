@@ -41,18 +41,6 @@ team:
     the Southern California Mediation Association.  For entertainment, Sara enjoys
     seeing live music in small local venues across Los Angeles and practicing her
     handstands."
-- image: "/uploads/Fahmida%20Kahn%20Pic%20%232-256df6.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Fahmida Khan
-  title: Senior Permitting Project Manager
-  email: fahmida@three6ixty.net
-  phone: "(310) 204-3500 x306"
-  bio_text: |-
-    Fahmida Khan is a Permitting Project Manager II who joined Three6ixty in 2021.  Fahmida has two plus years of experience in affordable housing, mixed- use residential, and single family residential permitting experience with the City of Los Angeles as well as County of Los Angeles.
-
-    Fahmida has six years of experience in commercial permitting in a national level. She has permitting experience in Arizona, Utah, Georgia, Washington DC, Colorado, and California.  She graduated from the University of California Los Angeles with a Bachelor of Art’s degree in Geography and a minor in Urban Regional Studies.  A subsequent Geographic Informational System (GIS) Fellowship and Planning Internship with City of Temecula led her to pursue a Master of Urban Planning degree from the University of Southern California, with a concentration in Economic Development as well as a certificate in Landscape Architecture. 
-
-    During her free time, she loves to travel and learn about different cultures. She also enjoys volunteering for The Leukemia & Lymphoma Society and Habitat for Humanity, and has hopes to volunteer for the Peace Corps someday. 
 - image: "/uploads/Markie%20Anderle%20Pic%20-%20614A3068.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Markie Nevill
