@@ -158,7 +158,7 @@ team:
     Society and as the President of Lev Eisha. Carolyn loves to cook, especially with
     her adult kids and enjoys hanging out with her grandson and grand-dogs. She shares
     her home with her CPA husband Larry and her dog Hazel.
-- image: "/uploads/Jenna%20Headshot-%202025.png"
+- image: "/uploads/Jenna%20Headshot-%202025-crop.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Jenna Miller
   title: Office Manager
