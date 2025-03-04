@@ -158,20 +158,54 @@ team:
     Society and as the President of Lev Eisha. Carolyn loves to cook, especially with
     her adult kids and enjoys hanging out with her grandson and grand-dogs. She shares
     her home with her CPA husband Larry and her dog Hazel.
-- image: "/uploads/Jen%20Wall%20Pic%20-%20614A2971.jpg"
+- image: "/uploads/Jenna%20Headshot-%202025.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Jen Wall
+  name: Jenna Miller
   title: Office Manager
-  email: jen@three6ixty.net
-  phone: 310-204-3500 x303
-  bio_text: Jen has many years of office and property management experience and brings
-    to Three6ixty a light-hearted, humorous way of running the office.  Her background
-    in accounting, leasing, and CAM reconciliation transfers to the tasks she handles
-    at Three6ixty.  Jen likes to stay in solution and believes having the right attitude
-    is half the battle.  Before joining Three6ixty she was property manager at a commercial
-    building, where she earned the title of the Swiss Army Knife of the office.  In
-    her free time Jen enjoys going new restaurants with her husband, going to the
-    gym to work off those meals, and watching British crime fiction.
+  email: jenna@three6ixty.net
+  phone: 
+  bio_text: |-
+    Jenna Miller joined Three6ixty in 2025 as an Office Manager, bringing over a decade of
+    experience in financial management, operations, and executive support. With a keen eye for organization and efficiency, she thrives on streamlining workflows and ensuring seamless day-to-day operations.
+
+    Previous to Three6ixty, Jenna worked with creative professionals, interior designers,
+    and corporate teams, managing bookkeeping, payroll, and business operations with
+    precision. She has a deep understanding of financial systems and administrative
+    processes, leveraging tools like QuickBooks and Studio Designer to keep businesses
+    running smoothly. Her expertise in office management, scheduling, and executive
+    support has made her an invaluable asset in fast-paced environments.
+
+    Jenna is passionate about creating structure and efficiency, allowing teams to focus on
+    their core work. When she’s not keeping operations on track, you’ll find her exploring LA’s restaurant scene or catching a flight, traveling to new destinations.
+- image: "/uploads/Cristina%20Headshot%20-%20as%20of%202025.jpg"
+  image_zoom: 
+  name: Cristina Morales
+  title: Associate Planning Manager
+  email: 
+  phone: 
+  bio_text: |-
+    Cristina Morales joined Three6ixty as an Associate Planning Manager in 2024. She holds a Bachelor of Science in Policy, Planning, and Development (PPD) from USC with a concentration in Sustainable Planning. She brings a strong background in project management, placemaking, zoning compliance, and urban innovation.
+
+    Before joining Three6ixty, Cristina worked in managing and revitalizing adaptively reused historic buildings with both the Los Angeles Cleantech Incubator and WeWork to breathe new life into these spaces. She also played a key role in activating Downtown LA’s historic buildings through her planning expertise at Elizabeth Peterson Group.
+
+    A proud San Fernando Valley native, Cristina has a true passion for urban exploration. Outside the office, you’ll find her exploring new urban landscapes with her friends, treating the built environment like a playground, and walking by buildings and imagining what it would be like to live there.
+- image: "/uploads/Susana%20Headshot%202025.jpg"
+  image_zoom: 
+  name: Susana Juarez
+  title: Associate Permitting Manager
+  email: 
+  phone: 
+  bio_text: "Susana Juarez joins Three6ixty as an Associate Permitting Manager with
+    over 5 years of permitting experience in residential and some commercial. As well
+    as she has had the exposure to residential hillside permitting and coastal. She
+    has a well understanding of the building code in many city jurisdictions as well
+    as the county.\n\nPrior to her joining Three6ixty, she had the opportunity of
+    working with a structural company that provided her with the experience of hill-side
+    permitting. Her residential permitting experience also includes ground-up multi-family,
+    single family addition and ADU’s.  She has a passion for Interior Design, which
+    she has a degree in and experience too.\n\nShe is currently working on becoming
+    a Notary Public. On her spare time, she enjoys long walks at the beach to unwind
+    for the work week as well as spend time with family. "
 layout: team
 ---
 
