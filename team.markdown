@@ -189,7 +189,7 @@ team:
     Before joining Three6ixty, Cristina worked in managing and revitalizing adaptively reused historic buildings with both the Los Angeles Cleantech Incubator and WeWork to breathe new life into these spaces. She also played a key role in activating Downtown LA’s historic buildings through her planning expertise at Elizabeth Peterson Group.
 
     A proud San Fernando Valley native, Cristina has a true passion for urban exploration. Outside the office, you’ll find her exploring new urban landscapes with her friends, treating the built environment like a playground, and walking by buildings and imagining what it would be like to live there.
-- image: "/uploads/Susana%20Headshot%202025.jpg"
+- image: "/uploads/Susana%20Headshot%202025-crop.jpg"
   image_zoom: 
   name: Susana Juarez
   title: Associate Permitting Manager
