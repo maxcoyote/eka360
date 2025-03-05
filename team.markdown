@@ -144,6 +144,35 @@ team:
     management skills, participated in event planning and execution, and received
     his forklift certification. Outside of work, Max enjoys indulging in casual gaming,
     and planning events with his friends that may or may not happen.
+- image: "/uploads/Cristina%20Headshot%20-%20as%20of%202025.jpg"
+  image_zoom: 
+  name: Cristina Morales
+  title: Associate Planning Manager
+  email: 
+  phone: 
+  bio_text: |-
+    Cristina Morales joined Three6ixty as an Associate Planning Manager in 2024. She holds a Bachelor of Science in Policy, Planning, and Development (PPD) from USC with a concentration in Sustainable Planning. She brings a strong background in project management, placemaking, zoning compliance, and urban innovation.
+
+    Before joining Three6ixty, Cristina worked in managing and revitalizing adaptively reused historic buildings with both the Los Angeles Cleantech Incubator and WeWork to breathe new life into these spaces. She also played a key role in activating Downtown LA’s historic buildings through her planning expertise at Elizabeth Peterson Group.
+
+    A proud San Fernando Valley native, Cristina has a true passion for urban exploration. Outside the office, you’ll find her exploring new urban landscapes with her friends, treating the built environment like a playground, and walking by buildings and imagining what it would be like to live there.
+- image: "/uploads/Susana%20Headshot%202025-crop.jpg"
+  image_zoom: 
+  name: Susana Juarez
+  title: Associate Permitting Manager
+  email: 
+  phone: 
+  bio_text: "Susana Juarez joins Three6ixty as an Associate Permitting Manager with
+    over 5 years of permitting experience in residential and some commercial. As well
+    as she has had the exposure to residential hillside permitting and coastal. She
+    has a well understanding of the building code in many city jurisdictions as well
+    as the county.\n\nPrior to her joining Three6ixty, she had the opportunity of
+    working with a structural company that provided her with the experience of hill-side
+    permitting. Her residential permitting experience also includes ground-up multi-family,
+    single family addition and ADU’s.  She has a passion for Interior Design, which
+    she has a degree in and experience too.\n\nShe is currently working on becoming
+    a Notary Public. On her spare time, she enjoys long walks at the beach to unwind
+    for the work week as well as spend time with family. "
 - image: "/uploads/Carolyn%20Wispe%20Burns%20Pic%20-%20614A2998.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Carolyn Wispe Burns
@@ -177,35 +206,6 @@ team:
 
     Jenna is passionate about creating structure and efficiency, allowing teams to focus on
     their core work. When she’s not keeping operations on track, you’ll find her exploring LA’s restaurant scene or catching a flight, traveling to new destinations.
-- image: "/uploads/Cristina%20Headshot%20-%20as%20of%202025.jpg"
-  image_zoom: 
-  name: Cristina Morales
-  title: Associate Planning Manager
-  email: 
-  phone: 
-  bio_text: |-
-    Cristina Morales joined Three6ixty as an Associate Planning Manager in 2024. She holds a Bachelor of Science in Policy, Planning, and Development (PPD) from USC with a concentration in Sustainable Planning. She brings a strong background in project management, placemaking, zoning compliance, and urban innovation.
-
-    Before joining Three6ixty, Cristina worked in managing and revitalizing adaptively reused historic buildings with both the Los Angeles Cleantech Incubator and WeWork to breathe new life into these spaces. She also played a key role in activating Downtown LA’s historic buildings through her planning expertise at Elizabeth Peterson Group.
-
-    A proud San Fernando Valley native, Cristina has a true passion for urban exploration. Outside the office, you’ll find her exploring new urban landscapes with her friends, treating the built environment like a playground, and walking by buildings and imagining what it would be like to live there.
-- image: "/uploads/Susana%20Headshot%202025-crop.jpg"
-  image_zoom: 
-  name: Susana Juarez
-  title: Associate Permitting Manager
-  email: 
-  phone: 
-  bio_text: "Susana Juarez joins Three6ixty as an Associate Permitting Manager with
-    over 5 years of permitting experience in residential and some commercial. As well
-    as she has had the exposure to residential hillside permitting and coastal. She
-    has a well understanding of the building code in many city jurisdictions as well
-    as the county.\n\nPrior to her joining Three6ixty, she had the opportunity of
-    working with a structural company that provided her with the experience of hill-side
-    permitting. Her residential permitting experience also includes ground-up multi-family,
-    single family addition and ADU’s.  She has a passion for Interior Design, which
-    she has a degree in and experience too.\n\nShe is currently working on becoming
-    a Notary Public. On her spare time, she enjoys long walks at the beach to unwind
-    for the work week as well as spend time with family. "
 layout: team
 ---
 
