@@ -41,10 +41,22 @@ team:
     the Southern California Mediation Association.  For entertainment, Sara enjoys
     seeing live music in small local venues across Los Angeles and practicing her
     handstands."
+- image: "/uploads/Mia-Rondone-2026.png"
+  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
+  name: Mia Rondone
+  title: Senior Permitting Project Manager
+  email: mia@three6ixty.net
+  phone: "(310) 204-3500 x307"
+  bio_text: |-
+    Mia Rondone joins three6ixty as Permitting Project Manager with over 6 years of permitting and property development experience, overseeing large commercial and residential building projects across the country, as well as exclusive permit expediting for a major restaurant chain development.
+
+    Specializing in commercial signage, hospitality, as well as retail tenant improvements and ground up construction, Mia is equipped with years of working with the City Of Los Angeles and multiple Los Angeles County jurisdictions.  An International Code Council member, she is currently studying International Building Code, International Zoning Code and Basic Code Enforcement with the ICC.
+
+    In her free time, you will find Mia on hiking trails with her pup or planning her next camping adventure. Mia takes great pride in volunteering in her local community, and participating in gratitude for our Earth and its well-being with City trash pick-ups and composting.
 - image: "/uploads/Markie%20Anderle%20Pic%20-%20614A3068.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Markie Nevill
-  title: Planning Project Manager
+  title: Senior Planning Project Manager
   email: markie@three6ixty.net
   phone: "(310) 204-3500 x311"
   bio_text: "Markie Anderle is a Planning Project Manager who joined three6ixty in
@@ -61,35 +73,6 @@ team:
     spent a semester abroad at Trinity College in Dublin, Ireland. Markie lives with
     her partner and pets in Culver City where she enjoys playing tennis and taking
     long walks. "
-- image: "/uploads/Mia%20Rondone%20Pic%20-%20614A3091.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Mia Rondone
-  title: Permitting Project Manager
-  email: mia@three6ixty.net
-  phone: "(310) 204-3500 x307"
-  bio_text: |-
-    Mia Rondone joins three6ixty as Permitting Project Manager with over 6 years of permitting and property development experience, overseeing large commercial and residential building projects across the country, as well as exclusive permit expediting for a major restaurant chain development.
-
-    Specializing in commercial signage, hospitality, as well as retail tenant improvements and ground up construction, Mia is equipped with years of working with the City Of Los Angeles and multiple Los Angeles County jurisdictions.  An International Code Council member, she is currently studying International Building Code, International Zoning Code and Basic Code Enforcement with the ICC.
-
-    In her free time, you will find Mia on hiking trails with her pup or planning her next camping adventure. Mia takes great pride in volunteering in her local community, and participating in gratitude for our Earth and its well-being with City trash pick-ups and composting.
-- image: "/uploads/Khoa%20Ho%20Pic.jpg"
-  image_zoom: 
-  name: Khoa Ho
-  title: Associate Permitting Manager
-  email: khoa@three6ixty.net
-  phone: "(310) 204-3500 x305"
-  bio_text: 'Khoa Ho joined Three6ixty as an Associate Permitting Manager in 2023.
-    With his background in the chaotic world of film permitting and in the ever-changing
-    regulatory landscape of the short-term rental industry, Khoa is passionate about
-    finding creative solutions to complex permitting problems. Prior to joining the
-    Permitting Team, Khoa worked with the City of Los Angeles and surrounding jurisdictions
-    to obtain film permits for a variety of major television shows and worked in policy
-    for a national hospitality brand. A proud UC Santa Barbara Gaucho, Khoa shares
-    an ardent love for environmentalism, sustainability, and is studying the California
-    Environmental Quality Act (CEQA). Outside of the office, Khoa can be found enjoying
-    the Los Angeles nightlife and restaurant scene. He also enjoys exploring thrift
-    shops and art exhibitions in his free time. '
 - image: "/uploads/Myca%20Tran%20Pic%20%232.jpg"
   image_zoom: 
   name: Myca Tran
@@ -113,7 +96,7 @@ team:
 - image: "/uploads/Mandi%20Ojeda%20headshot.jpg"
   image_zoom: 
   name: Mandi Ojeda
-  title: Associate Planning Manager
+  title: Planning Project Manager
   email: mandi@three6ixty.net
   phone: 310-204-3500 x308
   bio_text: 'Mandi Ojeda is an Associate Planning Manager who recently joined three6ixty
@@ -126,10 +109,10 @@ team:
     during graduate school, where she gained experience in land use planning. Outside
     of work, Mandi loves to spend her time exploring the Los Angeles music scene,
     cooking new cuisines for her weekly dinner parties, and practicing her pool game.  '
-- image: "/uploads/Max%20Frey%20Pic.jpg"
+- image: "/uploads/Max-Frey-2026.jpg"
   image_zoom: 
   name: Max Frey
-  title: Planning Associate
+  title: Planning Project Manager
   email: maxf@three6ixty.net
   phone: "(310) 204-3500 x304"
   bio_text: Max Frey recently graduated from Loyola Marymount University in May of
@@ -147,7 +130,7 @@ team:
 - image: "/uploads/Cristina%20Headshot%20-%20as%20of%202025.jpg"
   image_zoom: 
   name: Cristina Morales
-  title: Associate Planning Manager
+  title: Planning Project Manager
   email: 
   phone: 
   bio_text: |-
@@ -156,10 +139,27 @@ team:
     Before joining Three6ixty, Cristina worked in managing and revitalizing adaptively reused historic buildings with both the Los Angeles Cleantech Incubator and WeWork to breathe new life into these spaces. She also played a key role in activating Downtown LA’s historic buildings through her planning expertise at Elizabeth Peterson Group.
 
     A proud San Fernando Valley native, Cristina has a true passion for urban exploration. Outside the office, you’ll find her exploring new urban landscapes with her friends, treating the built environment like a playground, and walking by buildings and imagining what it would be like to live there.
+- image: "/uploads/Khoa%20Ho%20Pic.jpg"
+  image_zoom: 
+  name: Khoa Ho
+  title: Permitting Manager
+  email: khoa@three6ixty.net
+  phone: "(310) 204-3500 x305"
+  bio_text: 'Khoa Ho joined Three6ixty as an Associate Permitting Manager in 2023.
+    With his background in the chaotic world of film permitting and in the ever-changing
+    regulatory landscape of the short-term rental industry, Khoa is passionate about
+    finding creative solutions to complex permitting problems. Prior to joining the
+    Permitting Team, Khoa worked with the City of Los Angeles and surrounding jurisdictions
+    to obtain film permits for a variety of major television shows and worked in policy
+    for a national hospitality brand. A proud UC Santa Barbara Gaucho, Khoa shares
+    an ardent love for environmentalism, sustainability, and is studying the California
+    Environmental Quality Act (CEQA). Outside of the office, Khoa can be found enjoying
+    the Los Angeles nightlife and restaurant scene. He also enjoys exploring thrift
+    shops and art exhibitions in his free time. '
 - image: "/uploads/Susana%20Headshot%202025-crop.jpg"
   image_zoom: 
   name: Susana Juarez
-  title: Associate Permitting Manager
+  title: Permitting Manager
   email: 
   phone: 
   bio_text: "Susana Juarez joins Three6ixty as an Associate Permitting Manager with
@@ -173,26 +173,42 @@ team:
     she has a degree in and experience too.\n\nShe is currently working on becoming
     a Notary Public. On her spare time, she enjoys long walks at the beach to unwind
     for the work week as well as spend time with family. "
-- image: "/uploads/Carolyn%20Wispe%20Burns%20Pic%20-%20614A2998.jpg"
-  image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
-  name: Carolyn Wispe Burns
+- image: "/uploads/Marina-Williams.jpeg"
+  image_zoom:
+  name: Marina Williams
+  title: Permitting Manager
+  email:
+  phone:
+  bio_text: |-
+    With over six years of experience in the building permit industry, Marina Williams is a skilled Project Manager specializing in commercial retail and restaurant chains. Known for a strong understanding of municipal permitting processes and regulatory compliance, Marina has successfully managed end-to-end permit approvals for multi-site rollouts, signage programs, and remodel projects across various jurisdictions in the Country.
+
+    In addition to extensive commercial expertise, Marina has also supported residential projects, demonstrating versatility and attention to detail in navigating diverse permitting requirements. By collaborating closely with clients, architects, and local agencies, Marina ensures timely approvals and seamless project execution from initial submittal through final inspection.
+
+    Driven, organized, and solution-oriented, Marina brings a proactive approach to managing complex timelines and maintaining client satisfaction in fast-paced environments.
+
+    Outside of work, Marina enjoys going to live music events, exploring new restaurants, and spending quality time with family and friends.
+- image: "/uploads/Jennifer-Chirco.png"
+  image_zoom:
+  name: Jennifer Chirco
+  title: "Development Project Manager<br>Owner's Representative"
+  email:
+  phone:
+  bio_text: |-
+    Jennifer is responsible for land planning, budgeting, design, entitlement, community outreach, government relations and project implementation, from project inception through project close out. Prior to partnering with Three6ixty, Jennifer served as Senior Project Manager for two privately held residential builders focused on infill development in Los Angeles and Orange County. In the early years of her career, Jennifer worked as a research & legislative analyst and campaign manager for political candidates on the federal, state and local level. Jennifer is an active member of Urban Land Institute (ULI) where she has served on ULI NEXT, Sustainable Communities Initiative Council, YLG Pro Bono TAP and Young Leader Executive Committee. In 2014 she received the Emergent Leadership Award for Property Development.
+- image: "/uploads/Kevin-Meegan.png"
+  image_zoom:
+  name: Kevin Meegan
   title: Controller
-  email: carolyn@three6ixty.net
-  phone: "(310) 204-3500 x302"
-  bio_text: Carolyn Wispe Burns is three6ixty’s Controller and has been with the firm
-    since 2014. Carol has had a bookkeeping practice for over 30 years in the Culver
-    City community and has enjoyed working with Dana to achieve the company’s dynamic
-    growth. She aligns with the other UCLA Bruins in the office and also studied accounting
-    at CSU Northridge. Carol serves as the Treasurer of the Culver City Historical
-    Society and as the President of Lev Eisha. Carolyn loves to cook, especially with
-    her adult kids and enjoys hanging out with her grandson and grand-dogs. She shares
-    her home with her CPA husband Larry and her dog Hazel.
+  email:
+  phone:
+  bio_text: |-
+    Kevin Meegan is three6ixty's Controller, joining the company in 2025. Kevin has a background in consulting and financial management. Before coming to three6ixty, he spent a decade as a controller in the enterprise software space in Los Angeles. He graduated with an Accounting degree from Boston College and earned a Master's of Business Administration at the Smith School of Business at the University of Maryland. A native New Englander, he moved to Los Angeles in 2013 and has been enjoying the beaches, the hiking trails and all that Southern California has to offer ever since. In his spare time he enjoys reading, exploring historical sites, and listening to country music.
 - image: "/uploads/Jenna%20Headshot-%202025-crop.png"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Jenna Miller
-  title: Office Manager
+  title: Operations/Accounting Manager
   email: jenna@three6ixty.net
-  phone: 
+  phone: "(310) 204-3500 x114"
   bio_text: |-
     Jenna Miller joined Three6ixty in 2025 as an Office Manager, bringing over a decade of
     experience in financial management, operations, and executive support. With a keen eye for organization and efficiency, she thrives on streamlining workflows and ensuring seamless day-to-day operations.
