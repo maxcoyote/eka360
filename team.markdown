@@ -56,10 +56,13 @@ team:
 - image: "/uploads/Alisa-Karlan.png"
   image_zoom:
   name: Alisa Karlan
-  title:
-  email:
+  title: Senior Project Manager
+  email: alisa@three6ixty.net
   phone:
-  bio_text: Coming soon...
+  bio_text: |-
+    Alisa has over 25 years of experience in project management, community and government relations, and real estate entitlements for development projects, including having spent more than 13 years at Cerrell Associates, a public affairs firm where she led the company's land use and planning department. Alisa joined three6ixty in 2015 and has led due diligence and strategy efforts for complicated multi-faceted transactions and is instrumental in leading entitlement efforts in jurisdictions throughout LA County.
+
+    Alisa has a wealth of experience developing and managing strategic government and community outreach programs and building grassroots and stakeholder coalitions for both public and private projects. On the public side, she has worked on large scale transportation projects that span multiple jurisdictions and communities and created and managed public participation programs for projects undergoing environmental review processes as required by the California Environmental Policy Act (CEQA) and National Environmental Protection Act (NEPA). She has also represented private developers with multifamily and commercial projects throughout the city of Los Angeles and assisted them with obtaining approvals for land use entitlements and building permits. Alisa also has extensive experience working with independent schools as they sought approval for campus master plans.
 - image: "/uploads/Markie%20Anderle%20Pic%20-%20614A3068.jpg"
   image_zoom: "/uploads/gettyimages-981750034-612x612-zoom.jpg"
   name: Markie Nevill
@@ -138,8 +141,8 @@ team:
   image_zoom: 
   name: Cristina Morales
   title: Planning Project Manager
-  email: 
-  phone: 
+  email: cristina@three6ixty.net
+  phone: "(310) 204-3500 x306"
   bio_text: |-
     Cristina Morales joined Three6ixty as an Associate Planning Manager in 2024. She holds a Bachelor of Science in Policy, Planning, and Development (PPD) from USC with a concentration in Sustainable Planning. She brings a strong background in project management, placemaking, zoning compliance, and urban innovation.
 
@@ -167,8 +170,8 @@ team:
   image_zoom: 
   name: Susana Juarez
   title: Permitting Manager
-  email: 
-  phone: 
+  email: susana@three6ixty.net
+  phone: "(310) 204-3500 x311"
   bio_text: "Susana Juarez joins Three6ixty as an Associate Permitting Manager with
     over 5 years of permitting experience in residential and some commercial. As well
     as she has had the exposure to residential hillside permitting and coastal. She
