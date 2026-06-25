@@ -68,7 +68,7 @@ team:
   name: Markie Nevill
   title: Senior Planning Project Manager
   email: markie@three6ixty.net
-  phone: "(310) 204-3500 x311"
+  phone: "505-267-8372"
   bio_text: "Markie Anderle is a Planning Project Manager who joined three6ixty in
     2021. She specializes in commercial and residential entitlements with a focus
     on state housing legislation including Senate Bill 9, Senate Bill 35, and the
